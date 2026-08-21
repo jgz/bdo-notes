@@ -15,7 +15,8 @@ every time.
 | **[Systems Overview](handbook/systems-overview.md)** | **The map of the territory** — every major BDO system and how they interconnect |
 | [Account: Character Roster](handbook/account/roster.md) | The 12 characters, classes, and levels on the account |
 | [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 281 / DP 342 / GS 628 |
-| [Life Skills: Overview](handbook/lifeskills/overview.md) | Jon's strength — Cooking Guru, Master fishing/processing, and the levels |
+| **[Hyperboost Plan](handbook/gear/hyperboost-plan.md)** | **The free catch-up — Maegu to ~350 AP / 427 DP for Morning Light Pt 2** |
+| [Life Skills: Overview](handbook/lifeskills/overview.md) | Parked — Cooking Guru, Master fishing/processing, and the levels |
 
 ## Layout
 

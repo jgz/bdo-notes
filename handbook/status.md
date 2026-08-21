@@ -21,16 +21,21 @@ lopsided**:
 _Life-skill and gear numbers are from screenshots (2026-08-21), archived in
 [`research/account/`](../research/account/)._
 
-## The immediate goal: get organized, then re-onboard
+## 🎯 The direction (2026-08-21): play Maegu through the content Jon missed
 
-Not min-maxing anything yet. The near-term plan, in order:
+Jon's actually interested in **playing and seeing missed content**, not more life-skilling. The
+concrete goal:
 
-1. **Capture the account state** — characters, gear, life-skill levels, workers/nodes, silver.
-   Everything downstream reasons from this. (Jon is figuring out the best way to export/describe it.)
-2. **Re-onboard** — find out what actually changed in 2 years, what free catch-up gear / events
-   exist right now, and what's safe to ignore. (See the research questions below.)
-3. **Pick a direction** — a low-grind plan that leans on the life-skill strengths already in place
-   while closing the gear gap enough to do what Jon wants to do.
+- **Play Maegu through Land of the Morning Light — Part 2** (the second half of the expansion he
+  never finished). This is the thing he most wants to do. _(Content research still TO DO — no page yet.)_
+- **Gear Maegu up for it via Hyperboost** — the new (2026-07-30) free catch-up system, which can take
+  her from **281 AP / 342 DP** to **~350 AP / 427 DP for free** (Kharazad accessories + Slumbering
+  Origin armor on the main; Sovereign weapons via an optional short season run). Full plan →
+  **[gear/hyperboost-plan.md](gear/hyperboost-plan.md)**. This over-gears her for Morning Light.
+
+**Life skills are PARKED.** Jon feels he over-invested in life skills already and wants a break from
+them. The [life-skill pages](lifeskills/overview.md) stay as a captured asset to come back to later —
+not a current priority.
 
 ## Where Jon left off (last-active goals — Jon's recollection, 2026-08-21)
 
@@ -50,15 +55,16 @@ What he remembers working on before the break — the in-progress threads to pic
 - [x] Capture the roster → [account/roster.md](account/roster.md) (12 chars, all classes confirmed).
 - [x] Capture Maegu's gear → [account/gear-maegu.md](account/gear-maegu.md).
 - [x] Capture life-skill levels → [lifeskills/overview.md](lifeskills/overview.md).
-- [ ] **Capture CP / workers / nodes / liquid silver.** No clean in-game export — plan is screenshots:
-      the **CP total** (shown by Energy, top of screen / in the Worker or Node menu) and the **Worker
-      List** window; node investment can be eyeballed from the world map. Second earring on Maegu and
-      "Bronte's Bolt" also need identifying ([gear](account/gear-maegu.md)).
-- [ ] **Inventory Manos life gear + mastery accessories** (the life-skill multiplier).
-- [ ] **Re-onboarding research pass** — what changed in ~2 years (see below), current catch-up
-      systems/events, and current gear/accessory targets for a returning Maegu.
-- [ ] **Vet the source list** → [`research/sources.md`](../research/sources.md).
-- [ ] **Pick the first concrete goal** once the empire is captured and the meta is understood.
+- [x] Identify Maegu's gear gaps + the upgrade path → **Hyperboost** ([research](../research/hyperboost.md), [plan](gear/hyperboost-plan.md)).
+- [x] Resolve the two Maegu gear gaps → 2nd earring = **Bronte's Bolt**; "Bronte's Bolt" was that earring.
+- [ ] **Confirm Hyperboost specifics in-game** before committing: is a **Season active** on NA? exact
+      **AP gate** for Black Shrine (Slumbering Origin)? what's **Family- vs character-bound**? the
+      **Olvia Academy admission** path on an endgame main?
+- [ ] **Research Land of the Morning Light Part 2** — entry requirements, questline, what's new, and
+      whether Maegu's current/near-future gear clears it. (No handbook page yet.)
+- [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → Slumbering Origin → weapons).
+- [ ] _(Deferred)_ Capture CP / workers / nodes / liquid silver — life-skill empire is parked.
+- [ ] _(Deferred)_ Vet the source list → [`research/sources.md`](../research/sources.md).
 
 ## ⚠️ Re-onboarding research questions (unverified — do NOT plan around these yet)
 

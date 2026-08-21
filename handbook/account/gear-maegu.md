@@ -52,11 +52,13 @@
 | Ring 1 | **Capotia Ring** | PEN (V) |
 | Ring 2 | **Ring of Crescent Guardian** | TET (IV) |
 | Earring 1 | **Capotia Earring** | PEN (V) |
-| Earring 2 | _not clearly itemized on the screenshot — verify_ | ? |
+| Earring 2 | **Bronte's Bolt** | Base |
 | Necklace | **Capotia Necklace** | PEN (V) |
 | Belt | **Capotia Belt** | PEN (V) |
 | Spirit Stone | **Destruction Spirit Stone** | — |
-| "Bronte's Bolt" | listed among accessories — **identify (crystal? sub-piece?)** | — |
+
+_(Both earlier gaps resolved via the Garmoth Upgrade Path screenshot: the 2nd earring is **Bronte's
+Bolt** at base, shown converting to a Kharazad Earring.)_
 
 ### Artifacts & lightstones
 | Artifact | Lightstones |
@@ -78,9 +80,10 @@ Nose), but there are clear soft spots that match Jon's "still gearing" descripti
   with Jon's note that he was "still working on getting accessories to enhance." Real boss / current
   top-tier accessories are the biggest headroom here.
 
-> **To research (current-meta, dated):** for a returning NA Maegu at ~281 AP / 342 DP, what's the
-> highest-leverage next upgrade and the current AP/DP bracket goals? Confirm before any big
-> enhancement spend. Do NOT plan off pre-break memory of accessory tiers.
+> **The answer to "what to upgrade" is Hyperboost.** The July-2026 catch-up system can lift Maegu
+> from **281 → ~350 AP / 342 → ~427 DP largely for free** (Garmoth Upgrade Path, 2026-08-21):
+> Capotia/Bronte's → **PEN Kharazad accessories**, armor → **Slumbering Origin**, weapons →
+> **Sovereign**. See the plan: [../gear/hyperboost-plan.md](../gear/hyperboost-plan.md).
 
 ## Value note
 
