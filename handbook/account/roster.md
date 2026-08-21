@@ -1,7 +1,7 @@
 # Account: Character Roster
 
-> Last updated: 2026-08-21. Roster read from character-select screenshots (2026-08-21). Two classes
-> pending Jon's confirmation; per-character gear/roles still TO FILL.
+> Last updated: 2026-08-21. Roster read from character-select screenshots (2026-08-21), all 12
+> classes confirmed by Jon. Per-character gear still TO FILL.
 
 Jon's account has **many high-level characters across classes**. This page is the canonical roster.
 In BDO much progression is **Family-wide** (silver, storage, CP, knowledge, some life-skill
@@ -30,7 +30,7 @@ naming convention (name → class, `-jeezy`/`-eezy` = variation of JGZ). Level a
 | Character | Class | Level | Location (parked) | Role | Notes |
 |---|---|---|---|---|---|
 | **Maejeezy** | **Maegu** | 62 | Dalbeol Village | **Main** | Long-time main; Garmoth link above |
-| JGZ | **? (TBD)** | 61 | Heidel | — | Name gives no class hint — Jon to confirm |
+| **JGZ** | **Corsair** | 61 | Heidel | **Life-skill / cooking** | Original character (was the life-skill main before life skills went account-wide); now parked in Heidel running cooking etc. |
 | Sorceezy | Sorceress | 56 | Holo Forest | — | |
 | WooJeezy | Woosa | 61 | Garmoth's Nest | — | Folding-fan icon |
 | Witcheezy | Witch | 58 | Tyrant's Hill | — | |
@@ -39,7 +39,7 @@ naming convention (name → class, `-jeezy`/`-eezy` = variation of JGZ). Level a
 | Mysteezy | Mystic | 61 | Scarlet Sand Chamber | — | |
 | Kuneezy | Kunoichi | 56 | Coastal Cliff | — | |
 | Lahneezy | Lahn | 61 | Velia | — | |
-| Doseezy | **Dosa? (TBD)** | 61 | Port Epheria | — | Crossed-blade icon; Jon to confirm |
+| Doseezy | **Dosa** | 61 | Port Epheria | — | |
 | Scholeezy | Scholar | 59 | Polly's Forest | — | |
 
 > **Roster completeness:** the character list scrolls; the above is everything visible through

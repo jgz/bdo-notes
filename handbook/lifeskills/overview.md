@@ -6,6 +6,11 @@ Life skills are **Jon's strongest axis** and the intended engine to fund everyth
 gear-poor account. This page is the hub for the life-skill economy; each skill gets its own deep-dive
 page as we work it.
 
+**Life skills are account-wide (Family-wide), confirmed by Jon (2026-08-21).** They're no longer
+tied to one character, so the life-skill grind runs off whichever character is convenient — in
+practice **JGZ (Corsair)**, the original life-skill character, sits parked in **Heidel** doing the
+cooking/processing loops. Any character can pick up the life-skill work.
+
 ## Known strengths (Jon, 2026-08-21 — exact numbers TO FILL)
 
 - **Cooking — Guru.** High enough to run the **daily guru-box** loop; the question is whether the
