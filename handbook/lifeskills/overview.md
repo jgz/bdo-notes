@@ -11,37 +11,36 @@ tied to one character, so the life-skill grind runs off whichever character is c
 practice **JGZ (Corsair)**, the original life-skill character, sits parked in **Heidel** doing the
 cooking/processing loops. Any character can pick up the life-skill work.
 
-## Known strengths (Jon, 2026-08-21 — exact numbers TO FILL)
+## Levels + Life Mastery (in-game, 2026-08-21)
 
-- **Cooking — Guru.** High enough to run the **daily guru-box** loop; the question is whether the
-  boxes are worth selling/opening in the *current* economy — [research this, don't assume](../status.md).
-- **Processing — high Master tier.** Mass-processing and processing flips are classic life-skill
-  income; confirm current best chains.
-- Broad accumulated progress from years of promotions/quests (gathering, trading, etc.) — **inventory
-  the exact levels + Life Mastery per skill.**
+From the life-skill page ([evidence](../../research/account/2026-08-21-lifeskills.png)). Rank ladder:
+Beginner → Apprentice → Skilled → Professional → Artisan → Master → Guru.
 
-## The life skills, at a glance
-
-Full map in [systems-overview.md](../systems-overview.md#the-life-skill-economy--jons-strength).
-Deep-dive pages (`handbook/lifeskills/<skill>.md`) get created as we research each one.
-
-| Skill | Level | Life Mastery | Note |
+| Skill | Rank | Mastery | Note |
 |---|---|---|---|
-| Cooking | **Guru (exact TO FILL)** | _TO FILL_ | Guru-box loop; imperial cooking delivery |
-| Processing | **Master (high, exact TO FILL)** | _TO FILL_ | Mass process; processing flips |
-| Gathering | _TO FILL_ | _TO FILL_ | Feeds processing + alchemy |
-| Alchemy | _TO FILL_ | _TO FILL_ | Elixirs/oils; guru-box loop too |
-| Trading | _TO FILL_ | _TO FILL_ | Trade goods, imperial delivery |
-| Fishing | _TO FILL_ | _TO FILL_ | Low-attention income |
-| Farming | _TO FILL_ | _TO FILL_ | Crops for cooking/alchemy |
-| Sailing | _TO FILL_ | _TO FILL_ | Ocean content / barter |
-| Hunting | _TO FILL_ | _TO FILL_ | Whales / matchlock |
+| **Cooking** | **Guru 1** | **555** | The headline strength — guru-box loop, imperial cooking |
+| **Fishing** | **Master 21** | **505** | Highest *rank* on the account; low-attention income |
+| **Processing** | **Master 8** | **440** | Sub-skills all 440 (shaking/grinding/chopping/drying/filtering/heating) |
+| **Farming** | Artisan 9 (98.6%) | 395 | Basically about to hit Master; feeds cooking/alchemy |
+| **Training** | Artisan 7 | 389 | Horse training — the AFK-training goal (see [status](../status.md)) |
+| **Hunting** | Artisan 4 | 370 | Whales / matchlock |
+| **Gathering** | Professional 8 (68.3%) | 330 | Sub-skills all 330; feeds processing/alchemy |
+| **Alchemy** | Skilled 3 | 180 | Weakest of the "useful" skills — headroom for elixir/guru-box income |
+| **Trading** | Apprentice 3 | 80 | Low; imperial delivery still works regardless |
+| Sailing | Beginner 7 | 35 | Barely started |
+| Barter | Beginner 1 | 0 | Not started |
+
+**Shape of it:** cooking (Guru), fishing (Master 21), and processing (Master 8) are the mature,
+bankable skills; farming/training/hunting are Artisan and close behind. Alchemy, trading, sailing,
+barter are the undeveloped tail. Jon's self-description ("guru cooking, high Master processing")
+checks out exactly.
 
 ## Open questions
 
-- [ ] Capture **exact levels + Life Mastery** for every skill (screenshot the life-skill window).
-- [ ] Inventory **Manos life gear + mastery accessories** already owned (the mastery multiplier).
+- [ ] Inventory **Manos life gear + mastery accessories** already owned (the mastery multiplier that
+      lifts every number above).
 - [ ] **Is guru cooking still good income?** Verify current guru-box value and the best cooking
-      money loop (imperial delivery vs Central Market) in today's economy.
-- [ ] Best **processing** income chain right now for a high-Master processor.
+      money loop (imperial delivery vs Central Market) in today's economy — and pin down exactly
+      which meal/box Jon was farming (he recalls a "guru box" ingredient setup; identify the recipe).
+- [ ] Best **processing** income chain right now for a Master 8 processor.
 - [ ] Which life-skill loops best **fund the gear catch-up** with least attention.

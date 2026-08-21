@@ -13,8 +13,9 @@ every time.
 |---|---|
 | **[Status](handbook/status.md)** | **Start here** — account snapshot, what Jon's doing now, priorities, what's still open |
 | **[Systems Overview](handbook/systems-overview.md)** | **The map of the territory** — every major BDO system and how they interconnect |
-| [Account: Character Roster](handbook/account/roster.md) | The characters, classes, and levels on the account |
-| [Life Skills: Overview](handbook/lifeskills/overview.md) | Jon's strength — cooking / processing / gathering economy |
+| [Account: Character Roster](handbook/account/roster.md) | The 12 characters, classes, and levels on the account |
+| [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 281 / DP 342 / GS 628 |
+| [Life Skills: Overview](handbook/lifeskills/overview.md) | Jon's strength — Cooking Guru, Master fishing/processing, and the levels |
 
 ## Layout
 

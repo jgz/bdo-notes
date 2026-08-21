@@ -5,17 +5,21 @@
 
 ## Where Jon is
 
-Returning to BDO after **~2 years away**. The account is **well-developed but lopsided**:
+Returning to BDO after **~2 years away**, on **NA (PC)**. The account is **well-developed but
+lopsided**:
 
-- **Many high-level characters** across classes (full roster: [account/roster.md](account/roster.md) — TO FILL).
-- **Strong life skills** — **Guru cooking** (can run the daily guru-box loop), **high Master-tier
-  processing**, and a lot of accumulated progress from promotions/quests over the years.
-- **Modest combat gear** — never went deep into combat grinding, so gear is the weak axis.
-- Lots of miscellaneous account value (CP, workers, nodes, inventory, silver) accumulated but
-  **not yet inventoried** — capturing this is the first job.
+- **12 characters** (full roster: [account/roster.md](account/roster.md)) — most Lv 56–62. Main is
+  **Maejeezy (Maegu, Lv 62)**; **JGZ (Corsair)** is the parked life-skill/cooking character in Heidel.
+- **Strong life skills** (in-game 2026-08-21 → [lifeskills/overview.md](lifeskills/overview.md)):
+  **Cooking Guru 1**, **Fishing Master 21**, **Processing Master 8**, Farming/Training/Hunting at
+  Artisan, Gathering Professional 8. Alchemy/trading/sailing/barter are the undeveloped tail.
+- **Mid-tier combat gear** ([gear-maegu.md](account/gear-maegu.md), Garmoth 2026-08-21): **Maegu at
+  AP 281 / AAP 274 / DP 342, GS 628** — PEN weapons + PEN body armor, but **TET awakening/sub/gloves,
+  leftover PEN Tuvala shoes, and mostly free Capotia accessories.** Accessories are the weak axis.
+- **CP / workers / nodes / liquid silver** not yet captured — see "What's still open."
 
-_The picture above is from Jon's own description (2026-08-21); the hard numbers get filled in from
-his account export/screenshots — see "What's still open."_
+_Life-skill and gear numbers are from screenshots (2026-08-21), archived in
+[`research/account/`](../research/account/)._
 
 ## The immediate goal: get organized, then re-onboard
 
@@ -28,19 +32,33 @@ Not min-maxing anything yet. The near-term plan, in order:
 3. **Pick a direction** — a low-grind plan that leans on the life-skill strengths already in place
    while closing the gear gap enough to do what Jon wants to do.
 
+## Where Jon left off (last-active goals — Jon's recollection, 2026-08-21)
+
+What he remembers working on before the break — the in-progress threads to pick back up or retire:
+
+- **Guru-box cooking loop.** Had an ingredient-gathering setup feeding a specific meal to make
+  **"guru boxes"** to sell/open. Doesn't remember the exact recipe (thinks a "Balenos"-type meal?).
+  → identify the recipe + confirm it's still worth it ([lifeskills](lifeskills/overview.md)).
+- **Forest Path Wagon — DONE.** Finished the material grind and **built the wagon** last time out.
+- **AFK horse training — in progress.** The active goal was **enhancing training accessories/gear**
+  so he could run AFK horse training on the Forest Path Wagon. (Training is already Artisan 7.)
+  → figure out the current training-gear setup and whether this is still the plan.
+
 ## What's still open
 
-- [ ] **Confirm region + platform** — which BDO region (NA / EU / SEA / …), PC assumed.
-- [ ] **Capture the account** → [account/roster.md](account/roster.md) + a gear page + a life-skills
-      page. Decide the best export method (screenshots / official Adventurer profile / Garmoth code)
-      and whether any of it can be scripted into `tools/`.
-- [ ] **Inventory the life-skill empire** — exact cooking/processing/gathering levels, mastery,
-      workers, nodes, CP → [lifeskills/overview.md](lifeskills/overview.md).
-- [ ] **Re-onboarding research pass** — what changed in ~2 years (see below), what current catch-up
-      systems and events exist.
-- [ ] **Vet the source list** → [`research/sources.md`](../research/sources.md) — confirm the seeded
-      links are live and current.
-- [ ] **Pick the first concrete goal** once the account is captured and the meta is understood.
+- [x] Confirm region + platform → **NA, PC.**
+- [x] Capture the roster → [account/roster.md](account/roster.md) (12 chars, all classes confirmed).
+- [x] Capture Maegu's gear → [account/gear-maegu.md](account/gear-maegu.md).
+- [x] Capture life-skill levels → [lifeskills/overview.md](lifeskills/overview.md).
+- [ ] **Capture CP / workers / nodes / liquid silver.** No clean in-game export — plan is screenshots:
+      the **CP total** (shown by Energy, top of screen / in the Worker or Node menu) and the **Worker
+      List** window; node investment can be eyeballed from the world map. Second earring on Maegu and
+      "Bronte's Bolt" also need identifying ([gear](account/gear-maegu.md)).
+- [ ] **Inventory Manos life gear + mastery accessories** (the life-skill multiplier).
+- [ ] **Re-onboarding research pass** — what changed in ~2 years (see below), current catch-up
+      systems/events, and current gear/accessory targets for a returning Maegu.
+- [ ] **Vet the source list** → [`research/sources.md`](../research/sources.md).
+- [ ] **Pick the first concrete goal** once the empire is captured and the meta is understood.
 
 ## ⚠️ Re-onboarding research questions (unverified — do NOT plan around these yet)
 

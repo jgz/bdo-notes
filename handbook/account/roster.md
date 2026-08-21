@@ -18,9 +18,10 @@ deciding which character is the "main" for gear and which are life-skill / node-
 | Silver (liquid) | _TO FILL_ |
 | Value Pack active? | _TO FILL_ |
 
-**Main:** **Maejeezy (Maegu)** — long-time main. Garmoth planner:
-https://garmoth.com/character/d690GifdPi _(Garmoth is Cloudflare-gated to automated tools — capture
-via screenshot; gear numbers TO FILL from there.)_
+**Main:** **Maejeezy (Maegu, Lv 62)** — long-time main. Gear captured →
+[gear-maegu.md](gear-maegu.md) (AP 281 / DP 342 / GS 628, 2026-08-21). Garmoth planner:
+https://garmoth.com/character/d690GifdPi _(Cloudflare-gated to automated tools — capture via
+screenshot.)_
 
 ## Characters
 
