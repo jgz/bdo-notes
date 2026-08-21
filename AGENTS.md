@@ -46,6 +46,15 @@ way in a similar MMO, or has a name that implies a behavior — none of these ar
 worker/node empire, life-skill levels), that beats any web source for his current account and
 patch — record what it shows and the date.
 
+**Where the screenshots live.** "Look at my most recent screenshots" means Jon's Windows Snipping
+Tool folder: `C:\Users\jongr\OneDrive\Pictures\Screenshots` → from WSL,
+`/mnt/c/Users/jongr/OneDrive/Pictures/Screenshots`. Sort by mtime (`ls -t`) for the newest; files
+are named `Screenshot YYYY-MM-DD HHMMSS.png`. Garmoth is Cloudflare-gated to automated tools, so a
+screenshot of the Garmoth planner page is how his gear data gets in.
+
+**Docker/Playwright** is available for JS-rendered pages if ever needed, but the daemon must be
+started interactively first (`sudo service docker start` — needs Jon's terminal).
+
 ## No "tracks" here — but the account is the anchor
 
 Unlike the Aion 2 and Space Engineers notes (which split into separate tracks/worlds), BDO is a

@@ -37,7 +37,7 @@ not yet verified. All rows below are ⬜ until someone checks them.
 
 | Source | What it should cover | Status |
 |---|---|---|
-| ⬜ Garmoth | Gear planner (shareable codes), enhancement/failstack calc, node/worker and boss-timer tools. Candidate for capturing + planning Jon's gear. | verify |
+| ◐ Garmoth | Gear planner (shareable codes), enhancement/failstack calc, node/worker and boss-timer tools. **Jon's main (Maegu) planner: https://garmoth.com/character/d690GifdPi.** **Fully Cloudflare-gated to automated tools (403 on page + API guesses, 2026-08-21) and a JS SPA — WebFetch/curl can't read it. Capture via screenshot** (or a rendered browser / Playwright if ever needed). | live, browser-only |
 | ⬜ Famme's BDO tools (spreadsheets) | Community reference spreadsheets — enhancement, life-skill, profit data. | verify + check last-updated date |
 | ⬜ Central Market price tools | Current prices to make market/profit calls. | verify (Garmoth/BDOlytics/official market web) |
 
