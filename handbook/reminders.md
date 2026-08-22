@@ -5,8 +5,9 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
 
 ## Open
 
-- [ ] **Socket the Inverted Garmoth's Heart onto a weapon.** It's sitting in the **warehouse** — needs
-      to go onto a weapon at some point. _(added 2026-08-22)_
+- [~] **Socket the 2 Inverted Hearts of Garmoth** — **main-hand + awakening** (in progress 2026-08-22).
+      Awakening beats sub: it gives **+2 crystal sockets** (global stats even in Succession) + AP +3 +
+      3% crit, vs the sub's HP/stamina. Sub is the placement for a *3rd* heart later.
 - [ ] **Relocate boss alts** — move the **Kzarka + Kutum** (and any armor-boss) alts to the **LoML
       world bosses**; keep alts at **Garmoth** (Heart) and **Vell** (Heart). ⚠ First verify LoML
       rewards are per-character, not a family weekly cap → [boss-alts](account/boss-alts.md). _(added 2026-08-22)_
