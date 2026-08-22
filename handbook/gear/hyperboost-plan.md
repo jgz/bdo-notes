@@ -127,9 +127,10 @@ Fragments is it. **⚠ Watch the Obsidian Hammer count:** running out mid-attemp
 fail **drops TET→TRI** — buy more from the Olvia coin shop (90 coins, 3 available) if short, or lean
 on the high failstack to finish.
 
-_Progress (2026-08-22): main + sub converted to Sovereign; one awakening weapon taken to PEN via a
-guaranteed item; second TET awakening in progress (~8 hammer taps done) → both PEN awakening combine
-into the **Sovereign awakening weapon**._
+_Progress (2026-08-22): main + sub converted to Sovereign; one awakening taken to PEN via a
+guaranteed item; **second awakening hit PEN on tap 11 at ~260 FS** → combine both PEN awakenings into
+the **Sovereign awakening weapon** = **full Sovereign weapon set done.** Remaining Hyperboost step:
+**Slumbering Origin armor.**_
 
 ## Which weapon to pick from the free "Choose Your PEN Blackstar" box → **Awakening (Foxtail Fans)**
 

@@ -66,10 +66,10 @@ What he remembers working on before the break — the in-progress threads to pic
       Alustin** (biggest AP jump) → Slumbering Origin → (Sovereign later).
 - [ ] **Research Land of the Morning Light Part 2** — entry requirements, questline, what's new, and
       whether Maegu's current/near-future gear clears it. (No handbook page yet.)
-- [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → Slumbering Origin → weapons).
-      _In progress (2026-08-22): **all 6 PEN Kharazad done → 308 AP / 347 DP** (was 281/342). Next:
-      **Slumbering Origin armor** via Black Shrine bosses (308 AP clears the gate), then Sovereign
-      weapons (TET→PEN Blackstar with the quest's hammers + Advice of Valks)._
+- [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → weapons → Slumbering Origin).
+      _In progress (2026-08-22): ✅ **all 6 PEN Kharazad** (→308 AP/347 DP) · ✅ **full Sovereign weapon
+      set** (2nd awakening hit PEN tap 11 @ ~260 FS). **Remaining: Slumbering Origin armor** via Black
+      Shrine bosses (308 AP clears the gate) — replaces the old Griffon/Red Nose/Bheg/Tuvala pieces._
 - [x] **Free Olvia PEN Blackstar box** — pick **Awakening (Foxtail Fans)**; main is already PEN
       ([why](gear/hyperboost-plan.md#which-weapon-to-pick-from-the-free-choose-your-pen-blackstar-box--awakening-foxtail-fans)).
 - [x] **Maegu build** → run **Succession** (rebuild from zero after the reset). Ordered skill-point

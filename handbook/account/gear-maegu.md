@@ -38,9 +38,12 @@
 ### Weapons
 | Slot | Item | Enh. |
 |---|---|---|
-| Primary (Charm) | **Blackstar Foxspirit Charm** | **PEN (V)** |
-| Awakening (Fans) | **Storm Devoured Blackstar Foxtail Fans** | TET (IV) |
-| Sub-weapon (Binyeo Knife) | **[Reformed] Kutum Binyeo Knife** | TET (IV) |
+| Primary (Charm) | **Sovereign Foxspirit Charm** | base+ (recapture) |
+| Awakening (Fans) | **Sovereign Foxtail Fans** | base+ (recapture) |
+| Sub-weapon (Binyeo Knife) | **Sovereign Binyeo Knife** | base+ (recapture) |
+
+_(All three weapons converted to **Sovereign** via Hyperboost, 2026-08-22 — from PEN Blackstar charm,
+2× PEN Blackstar awakening combined, and the Kutum sub. Enhancement levels TO RECAPTURE.)_
 
 ### Armor
 | Slot | Item | Enh. |
