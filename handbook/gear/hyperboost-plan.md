@@ -38,6 +38,28 @@ Black Crystal Shard (cheap on the market). **Essence of Dawn isn't sold** — it
 _(A separate, more expensive **craft** of Kharazad exists — 50 Essence + 300 Magical Shard + a
 Deboreka accessory each — but the Hyperboost family-quest path above is the cheap one; use it.)_
 
+### Buying crystals to melt — the math (market checked 2026-08-22)
+
+Essence of Dawn isn't sold, but you can buy **crystals and heat them**. Confirmed Dawn-Crystal
+tier yields: **WON = 1, BON = 10, JIN = 30** Essence. Jon's market snapshot + the resulting cost
+(⚠ assumes the combat Vipers/Kobalinas melt at the same tier yield as Dawn Crystals — verify):
+
+| Crystal (price) | Essence | Per Essence | Per accessory (×10) |
+|---|---|---|---|
+| WON @ 69M | 1 | **69M** — trap, avoid | 690M |
+| BON Viper @ 186M | 10 | 18.6M | 186M |
+| BON Glorious/Max-HP @ 264M | 10 | 26.4M | 264M |
+| **JIN Viper/Kobalina @ 330M** | **30** | **~11M** ✅ | **~110M** |
+
+So **JIN is the efficient tier: ~110M/accessory, ~660M for the full 6-slot set** — a good deal for
+replacing the free Capotia set with PEN Kharazad. If yield is flat-per-tier, **melt the cheapest JIN
+on the market**, not specifically Viper/Kobalina.
+
+> **Definitive tool:** [Garmoth Essence of Dawn Calculator](https://garmoth.com/exchanges/essence-of-dawn)
+> ranks the cheapest source live with real per-crystal yields (Garmoth is fetch-blocked for the
+> agent — Jon opens it in-browser). Also still valid: heat LoML **Dawn Crystals** you loot (free), or
+> **Dawn's Aura** (5M) + a junk yellow TET/PEN boss accessory (30–720 Essence).
+
 ## Suggested order
 
 1. **Unlock Olvia Academy admission**, then take the **Kharazad family quests** → 6× PEN Kharazad
