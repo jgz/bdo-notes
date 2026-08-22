@@ -61,7 +61,10 @@ real TET Deboreka set (100B+). _(Kharazad↔Deboreka stat equivalence per Jon's 
 TO CAPTURE). Do the free family quests and just buy the 10 Essence per slot — prioritize the
 highest-value accessory slots first. Options, cheapest silver-per-Essence first:
 - **Buy orders on Dawn Crystals / Essence** — the market is drop-only and starved, so this is how you
-  buy; queue orders and let them fill while you play.
+  buy; queue orders and let them fill while you play. (Jon placed orders across all variants +
+  Essence, 2026-08-22.) Fills go **highest bid first**; only *equal* bids are the lottery — so if
+  there's headroom under the price cap, out-bidding the stack a little jumps the queue (worth it at
+  ~18× value). If everyone's pinned at the cap, it's patience.
 - **Free while grinding Part 2:** Dawn Crystals drop in Land of the Morning Light — melt what you
   loot to offset the buy cost.
 - Situational: **Dawn's Aura** (5M, Old Moon Manager) + a **junk yellow TET/PEN boss accessory** →
