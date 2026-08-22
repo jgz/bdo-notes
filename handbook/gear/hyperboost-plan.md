@@ -20,18 +20,22 @@ Sources conflict on "main vs new season character," but the reconciled read (BDF
 |---|---|---|
 | **PEN Kharazad accessories** (all 6 — replaces Capotia + Bronte's + Crescent ring) | ✅ **Yes** | **Once-per-Family** quests from **Alustin**, after the **Olvia Academy Admission** quest. Biggest AP jump, and fully doable on the main. |
 | **Slumbering Origin armor** (4 pieces — replaces Griffon/Red Nose/Bheg/Tuvala) | ✅ **Yes, once AP is up** | Black Spirit Support quests → solo **Black Shrine bosses (~305–315+ AP)**. Maegu clears the AP check easily *after* the Kharazad accessories go on. |
-| **Sovereign weapons** (main/sub/awakening) | ◐ **Partly** | Convert from **PEN Blackstar**. The *free* PEN Blackstars come cheapest from a **quick season character** (Olvia rewards + Obsidian Hammers). On the main you'd buy them. |
+| **Sovereign weapons** (main/sub/awakening) | ✅ **Yes (corrected)** | Convert from **PEN Blackstar** — and the **Olvia Academy Combat Course gives your main a "Choose Your PEN (V) Blackstar Weapon" box + 12 Obsidian Hammers + 6,000 Crons, family-wide** ([BDFoundry](https://www.blackdesertfoundry.com/olvia-academy-guide/), 2026-08-21). No season character needed. _(Confirm how many free PEN Blackstars a non-season main ends with across Academy + Hyperboost — you need 3 for all weapons.)_ |
 
 ## Suggested order
 
 1. **Unlock Olvia Academy admission**, then take the **Kharazad family quests** → 6× PEN Kharazad
    accessories on Maegu. (Immediate, large AP gain; retires the free Capotia set.)
 2. With the higher AP, run the **Black Shrine bosses** for the **Slumbering Origin** armor set.
-3. **Decide on Sovereign weapons:** either buy PEN Blackstars, or spend a **short season-character
-   run** to farm the free PEN Blackstars + hammers, then convert. This is the one part worth a
-   detour — and the only real "cost" decision here.
+3. **Complete the Olvia Academy Combat Course** (Lv60+ main enrolls directly) → free **PEN Blackstar
+   weapon of choice + 12 Obsidian Hammers + 6,000 Crons**, then the Hyperboost quests convert
+   Blackstar → **Sovereign**. No season character required.
 4. The single **non-free** step Garmoth flagged is **Fallen God's / Slumbering armor Base → PRI**
    (~94M–283M) — a normal enhancement you do later, not part of the free catch-up.
+
+> ⏳ **Deadline:** Olvia Academy runs in semesters — **Class 3 is July 30 → Nov 5, 2026.** Course
+> *progress* resets between semesters, but the **Family gear Rewards you claim do not.** So finish
+> the Combat Course before **2026-11-05** to lock in the free PEN Blackstar + Crons + hammers.
 
 ## Open questions before committing
 

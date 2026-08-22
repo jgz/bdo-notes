@@ -54,10 +54,28 @@ noted:
 | **Olvia Academy** progress | ✅ Yes | Family-wide. |
 
 **Bottom line:** a returning main can grab the **Kharazad accessories** and **Slumbering Origin
-armor** directly (huge upgrades), while the **Sovereign weapons** are the part that's "free" mainly
-if you run a **quick season character** to farm the PEN Blackstars + Obsidian Hammers.
+armor** directly (huge upgrades).
 [BDFoundry](https://www.blackdesertfoundry.com/new-player-guide/),
 [butwhytho](https://butwhytho.net/2026/08/black-desert-online-hyperboost-cost-how-to/)
+
+### ✅ Correction (2026-08-21): Sovereign weapons DON'T need a season character
+
+Earlier I wrote that the free PEN Blackstars for Sovereign came cheapest via a season run. **That's
+wrong** — the **Olvia Academy Combat Course**, which a **Lv60+ existing main enrolls in directly**,
+grants **family-wide** rewards including a **"Choose Your PEN (V) Blackstar Weapon" box, 12 Obsidian
+Hammers, and 6,000 Cron Stones** (plus Advice of Valks / Essence of Dawn). So the PEN Blackstar →
+Sovereign pipeline runs entirely on the main. Jon confirmed in-game he sees the Hyperboost suggested
+quests on Maegu and has the Olvia invitation.
+
+**Olvia Academy is time-limited (semesters):** Class 3 = **2026-07-30 → 2026-11-05**. Course
+*progress* + Academy Passes reset each semester; **Family Rewards (the gear) do not.** So claim the
+Combat Course rewards before **2026-11-05**.
+
+_(Reward figures vary by source — an earlier search said "up to 15,000 Crons" and a PEN+TET Blackstar
+pair; BDFoundry lists 6,000 Crons + 12 hammers + one choose-PEN box. Confirm the exact current
+rewards in-game. Also confirm how many free PEN Blackstars a non-season main nets across Academy +
+Hyperboost, since 3 are needed for all weapon slots.)_
+[BDFoundry — Olvia Academy](https://www.blackdesertfoundry.com/olvia-academy-guide/)
 
 ## What Garmoth's "Upgrade Path" is showing for Maegu (2026-08-21)
 
