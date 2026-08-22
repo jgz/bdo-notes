@@ -67,6 +67,7 @@ What he remembers working on before the break — the in-progress threads to pic
 - [ ] **Research Land of the Morning Light Part 2** — entry requirements, questline, what's new, and
       whether Maegu's current/near-future gear clears it. (No handbook page yet.)
 - [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → Slumbering Origin → weapons).
+      _In progress (2026-08-22): buying Dawn via buy orders → **1st Kharazad ring crafted**, 5 to go._
 - [x] **Free Olvia PEN Blackstar box** — pick **Awakening (Foxtail Fans)**; main is already PEN
       ([why](gear/hyperboost-plan.md#which-weapon-to-pick-from-the-free-choose-your-pen-blackstar-box--awakening-foxtail-fans)).
 - [x] **Maegu build** → run **Succession** (rebuild from zero after the reset). Ordered skill-point

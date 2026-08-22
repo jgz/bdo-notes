@@ -57,6 +57,10 @@ Deboreka ring is ~18.2B** on the market (2026-08-22). So ~1B of Essence buys an 
 accessory through the free quest — **~18× value**, and the full set (~6B) is a rounding error vs a
 real TET Deboreka set (100B+). _(Kharazad↔Deboreka stat equivalence per Jon's market read.)_
 
+> ✅ **Confirmed working (2026-08-22):** buy orders filled, Jon bought 10 Dawn and **crafted his
+> first Kharazad ring**. The buy-order route is the way — **1 of 6 done**, going for the rest
+> (necklace, belt, 2nd ring, 2 earrings).
+
 **So buying the Essence is well worth it** if the liquid silver is there (Jon's liquid silver still
 TO CAPTURE). Do the free family quests and just buy the 10 Essence per slot — prioritize the
 highest-value accessory slots first. Options, cheapest silver-per-Essence first:
