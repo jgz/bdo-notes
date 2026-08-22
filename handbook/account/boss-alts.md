@@ -16,6 +16,14 @@ Stones (All AP / Accuracy / DR / …), and the rare Flame of the Primordial** �
 Primordial weapon enhance + reform materials.** That feeds the exact endgame weapon Jon is working
 toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-bosses-loml-guide/)
 
+## Current alt positions
+
+| Alt | Class | Parked at | Notes |
+|---|---|---|---|
+| **Mysteezy** | Mystic | **Uturi** (LoML world boss) | Moving up 2026-08-22 (next spawn); leaving there for the foreseeable future |
+
+_(Building this out as Jon relocates each alt.)_
+
 ## The plan (Jon's call, 2026-08-22)
 
 - **Keep an alt at Garmoth** — **Garmoth's Heart** still matters (crystal-slot item + Godr-Ayed mats).
