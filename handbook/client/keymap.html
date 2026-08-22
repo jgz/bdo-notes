@@ -1,0 +1,299 @@
+<title>BDO ESDF Keymap</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Barlow+Semi+Condensed:wght@400;500;600;700&display=swap">
+<style>
+  :root{
+    --ground:#151109; --panel:#1c1810; --panel-2:#221d13;
+    --edge:#3c3220; --cap:#2a2417; --cap-hi:#332c1c; --cap-edge:#493d26;
+    --gold:#e2c06d; --gold-dim:#a98f4e; --ink:#efe6d2; --muted:#9d927b; --faint:#6b6353;
+    /* category hues */
+    --mov:#e2c06d; --combat:#d2705a; --window:#6f9fc4; --world:#8fb17a; --cam:#57b0a7;
+    --qs:#c8b489;
+    --u:1.62rem; /* one keyboard unit's column width driver */
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:
+      radial-gradient(120% 80% at 50% -10%, #241d10 0%, var(--ground) 60%) fixed;
+    color:var(--ink);
+    font-family:"Barlow Semi Condensed",system-ui,sans-serif;
+    padding:clamp(14px,3vw,40px);
+    display:flex; justify-content:center;
+  }
+  .sheet{width:100%; max-width:1180px}
+
+  /* ---- header ---- */
+  header{
+    display:flex; align-items:baseline; gap:.9rem; flex-wrap:wrap;
+    padding-bottom:.9rem; margin-bottom:1.3rem;
+    border-bottom:1px solid var(--edge);
+  }
+  header::before{
+    content:""; width:100%; height:2px; order:-1;
+    background:linear-gradient(90deg,transparent,var(--gold-dim),var(--gold),var(--gold-dim),transparent);
+    margin-bottom:1rem; opacity:.8;
+  }
+  h1{
+    font-family:"Cinzel",serif; font-weight:700; letter-spacing:.02em;
+    font-size:clamp(1.5rem,3.4vw,2.15rem); margin:0; color:var(--gold);
+    text-shadow:0 1px 0 #000;
+  }
+  .sub{color:var(--muted); font-size:.95rem; letter-spacing:.02em}
+  .sub b{color:var(--ink); font-weight:600}
+  .stamp{margin-left:auto; text-align:right; color:var(--faint);
+    font-size:.72rem; text-transform:uppercase; letter-spacing:.14em; line-height:1.5}
+
+  /* ---- layout ---- */
+  .grid{display:flex; gap:1.4rem; align-items:flex-start; flex-wrap:wrap}
+  .board{flex:1 1 640px; min-width:0; overflow-x:auto; padding-bottom:4px}
+  .side{flex:1 1 220px; min-width:210px; display:flex; flex-direction:column; gap:1.15rem}
+
+  .kb{min-width:620px; display:flex; flex-direction:column; gap:.42rem}
+  .row{display:grid; grid-template-columns:repeat(60,1fr); gap:.42rem}
+  .rowgap{height:.5rem}
+
+  /* ---- keycap ---- */
+  .key{
+    grid-column:span 4; /* 1u default */
+    position:relative; min-width:0; min-height:3.35rem;
+    background:linear-gradient(180deg,var(--cap-hi),var(--cap));
+    border:1px solid var(--cap-edge); border-radius:7px;
+    border-bottom-width:3px; border-bottom-color:var(--faint);
+    padding:.28rem .34rem .22rem; overflow:hidden;
+    display:flex; flex-direction:column; justify-content:space-between;
+    box-shadow:0 1px 0 #0006, inset 0 1px 0 #ffffff0c;
+  }
+  .leg{font-weight:700; font-size:.82rem; line-height:1; color:var(--gold); letter-spacing:.01em}
+  .fn{font-weight:500; font-size:.6rem; line-height:1.04; color:var(--muted);
+    text-transform:uppercase; letter-spacing:.02em;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden}
+  .spacer{grid-column:span 4; visibility:hidden}
+
+  /* widths */
+  .w1_25{grid-column:span 5}.w1_5{grid-column:span 6}.w1_75{grid-column:span 7}
+  .w2{grid-column:span 8}.w2_25{grid-column:span 9}.w2_75{grid-column:span 11}
+  .w6_25{grid-column:span 25}.sp_5{grid-column:span 2}.sp1{grid-column:span 4}
+
+  /* categories: colored bottom edge + function-text tint */
+  .mov{border-bottom-color:var(--mov)} .mov .fn{color:#eacf86}
+  .combat{border-bottom-color:var(--combat)} .combat .fn{color:#e0917f}
+  .window{border-bottom-color:var(--window)} .window .fn{color:#9dc0dc}
+  .world{border-bottom-color:var(--world)} .world .fn{color:#aecb9c}
+  .cam{border-bottom-color:var(--cam)} .cam .fn{color:#84cbc4}
+  .qs{border-bottom-color:var(--qs)} .qs .fn{color:var(--muted)} .qs .leg{color:var(--qs)}
+  .dead{border-bottom-color:transparent; opacity:.5}
+  .dead .leg{color:var(--faint); font-weight:600}
+
+  /* movement keys glow — the ESDF hero */
+  .mov{
+    background:linear-gradient(180deg,#4a3d1e,#37301b);
+    border-color:#7a6533;
+    box-shadow:0 0 0 1px #e2c06d55, 0 0 16px -3px #e2c06d80, inset 0 1px 0 #ffffff1a;
+  }
+  .mov .leg{color:#ffe9a8; font-size:.9rem}
+  .arrow{font-size:.72rem; color:#f3d891; font-weight:700}
+
+  /* ---- side blocks ---- */
+  .card{background:linear-gradient(180deg,var(--panel-2),var(--panel));
+    border:1px solid var(--edge); border-radius:10px; padding:.9rem 1rem 1rem}
+  .card h2{font-family:"Cinzel",serif; font-size:.82rem; font-weight:600; letter-spacing:.12em;
+    text-transform:uppercase; color:var(--gold-dim); margin:0 0 .7rem}
+
+  .legend{display:flex; flex-direction:column; gap:.5rem}
+  .lg{display:flex; align-items:center; gap:.6rem; font-size:.82rem; color:var(--ink)}
+  .sw{width:1.4rem; height:.5rem; border-radius:2px; flex:none}
+  .lg small{color:var(--muted); margin-left:auto; font-size:.72rem; letter-spacing:.02em}
+
+  /* mouse */
+  .mouse{margin:.2rem auto 0; width:88px; height:132px; position:relative}
+  .mbody{position:absolute; inset:0; border:1.5px solid var(--cap-edge); border-radius:44px 44px 40px 40px;
+    background:linear-gradient(180deg,var(--cap-hi),var(--cap))}
+  .mbtn{position:absolute; top:0; width:50%; height:46%; border:1px solid var(--cap-edge)}
+  .ml{left:0; border-radius:44px 0 0 0; border-right:none; border-bottom-color:var(--combat); border-bottom-width:2px}
+  .mr{right:0; border-radius:0 44px 0 0; border-left:none; border-bottom-color:var(--window); border-bottom-width:2px}
+  .mwheel{position:absolute; left:50%; top:12%; transform:translateX(-50%); width:12px; height:26px;
+    border:1px solid var(--cap-edge); border-radius:6px; border-bottom:2px solid var(--cam); background:#0003}
+  .mlabels{list-style:none; margin:.7rem 0 0; padding:0; display:flex; flex-direction:column; gap:.4rem}
+  .mlabels li{display:flex; gap:.5rem; align-items:baseline; font-size:.82rem}
+  .mlabels b{color:var(--gold); font-weight:700; min-width:2.7rem}
+  .mlabels span{color:var(--muted)}
+
+  .navpad{display:grid; grid-template-columns:repeat(3,1fr); gap:.42rem; max-width:190px; margin-top:.2rem}
+  .navpad .key{grid-column:auto; min-height:2.9rem}
+  .navpad .k-up{grid-column:2} .navpad .blank{visibility:hidden}
+
+  footer{margin-top:1.4rem; padding-top:.9rem; border-top:1px solid var(--edge);
+    color:var(--faint); font-size:.76rem; letter-spacing:.02em}
+  footer b{color:var(--muted); font-weight:600}
+</style>
+
+<div class="sheet">
+  <header>
+    <h1>Keybindings</h1>
+    <span class="sub">Black Desert Online · <b>ESDF</b> movement · account-wide</span>
+    <span class="stamp">Family · Maegu main<br>Captured 2026-08-21</span>
+  </header>
+
+  <div class="grid">
+    <div class="board">
+      <div class="kb">
+
+        <!-- Function row -->
+        <div class="row">
+          <div class="key dead"><span class="leg">Esc</span><span class="fn">Menu</span></div>
+          <div class="spacer sp1"></div>
+          <div class="key window"><span class="leg">F1</span><span class="fn">Help</span></div>
+          <div class="key window"><span class="leg">F2</span><span class="fn">Adv. Board</span></div>
+          <div class="key window"><span class="leg">F3</span><span class="fn">Pearl Shop</span></div>
+          <div class="key window"><span class="leg">F4</span><span class="fn">Customize</span></div>
+          <div class="spacer sp_5"></div>
+          <div class="key world"><span class="leg">F5</span><span class="fn">Interact 1</span></div>
+          <div class="key world"><span class="leg">F6</span><span class="fn">Interact 2</span></div>
+          <div class="key world"><span class="leg">F7</span><span class="fn">Interact 3</span></div>
+          <div class="key world"><span class="leg">F8</span><span class="fn">Interact 4</span></div>
+          <div class="key world"><span class="leg">F9</span><span class="fn">Interact 5</span></div>
+          <div class="spacer sp_5"></div>
+          <div class="key dead"><span class="leg">F10</span></div>
+          <div class="key dead"><span class="leg">F11</span></div>
+          <div class="key dead"><span class="leg">F12</span></div>
+        </div>
+
+        <div class="rowgap"></div>
+
+        <!-- Number row -->
+        <div class="row">
+          <div class="key dead"><span class="leg">`</span></div>
+          <div class="key qs"><span class="leg">1</span><span class="fn">Slot 1</span></div>
+          <div class="key qs"><span class="leg">2</span><span class="fn">Slot 2</span></div>
+          <div class="key qs"><span class="leg">3</span><span class="fn">Slot 3</span></div>
+          <div class="key qs"><span class="leg">4</span><span class="fn">Slot 4</span></div>
+          <div class="key qs"><span class="leg">5</span><span class="fn">Slot 5</span></div>
+          <div class="key qs"><span class="leg">6</span><span class="fn">Slot 6</span></div>
+          <div class="key qs"><span class="leg">7</span><span class="fn">Slot 7</span></div>
+          <div class="key qs"><span class="leg">8</span><span class="fn">Slot 8</span></div>
+          <div class="key qs"><span class="leg">9</span><span class="fn">Slot 9</span></div>
+          <div class="key qs"><span class="leg">0</span><span class="fn">Slot 10</span></div>
+          <div class="key cam"><span class="leg">-</span><span class="fn">Cam Slow</span></div>
+          <div class="key cam"><span class="leg">=</span><span class="fn">Cam Fast</span></div>
+          <div class="key dead w2"><span class="leg">⌫</span></div>
+        </div>
+
+        <!-- Tab row -->
+        <div class="row">
+          <div class="key combat w1_5"><span class="leg">Tab</span><span class="fn">Draw / Stow</span></div>
+          <div class="key combat"><span class="leg">Q</span><span class="fn">Auto-sprint</span></div>
+          <div class="key combat"><span class="leg">W</span><span class="fn">Special 1 / Crouch</span></div>
+          <div class="key mov"><span class="leg">E</span><span class="fn"><span class="arrow">▲</span> Forward</span></div>
+          <div class="key combat"><span class="leg">R</span><span class="fn">Special 2</span></div>
+          <div class="key world"><span class="leg">T</span><span class="fn">Interactions</span></div>
+          <div class="key window"><span class="leg">Y</span><span class="fn">Challenge</span></div>
+          <div class="key world"><span class="leg">U</span><span class="fn">Alch. Stone</span></div>
+          <div class="key dead"><span class="leg">I</span></div>
+          <div class="key window"><span class="leg">O</span><span class="fn">Quest</span></div>
+          <div class="key window"><span class="leg">P</span><span class="fn">My Info</span></div>
+          <div class="key dead"><span class="leg">[</span></div>
+          <div class="key dead"><span class="leg">]</span></div>
+          <div class="key dead w1_5"><span class="leg">\</span></div>
+        </div>
+
+        <!-- Home row -->
+        <div class="row">
+          <div class="key cam w1_75"><span class="leg">Caps</span><span class="fn">Walk / Run</span></div>
+          <div class="key combat"><span class="leg">A</span><span class="fn">Special 3</span></div>
+          <div class="key mov"><span class="leg">S</span><span class="fn"><span class="arrow">◀</span> Left</span></div>
+          <div class="key mov"><span class="leg">D</span><span class="fn"><span class="arrow">▼</span> Back</span></div>
+          <div class="key mov"><span class="leg">F</span><span class="fn"><span class="arrow">▶</span> Right</span></div>
+          <div class="key window"><span class="leg">G</span><span class="fn">Inventory</span></div>
+          <div class="key window"><span class="leg">H</span><span class="fn">Mount</span></div>
+          <div class="key window"><span class="leg">J</span><span class="fn">Dye</span></div>
+          <div class="key window"><span class="leg">K</span><span class="fn">Skills</span></div>
+          <div class="key window"><span class="leg">L</span><span class="fn">Processing</span></div>
+          <div class="key dead"><span class="leg">;</span></div>
+          <div class="key dead"><span class="leg">'</span></div>
+          <div class="key window w2_25"><span class="leg">Enter</span><span class="fn">Chat</span></div>
+        </div>
+
+        <!-- Bottom letter row -->
+        <div class="row">
+          <div class="key combat w2_25"><span class="leg">Shift</span><span class="fn">Sprint</span></div>
+          <div class="key combat"><span class="leg">Z</span><span class="fn">Rage Absorb</span></div>
+          <div class="key combat"><span class="leg">X</span><span class="fn">Rage Transfer</span></div>
+          <div class="key combat"><span class="leg">C</span><span class="fn">Swap Weapon</span></div>
+          <div class="key combat"><span class="leg">V</span><span class="fn">Escape</span></div>
+          <div class="key window"><span class="leg">B</span><span class="fn">Mail</span></div>
+          <div class="key window"><span class="leg">N</span><span class="fn">Friends</span></div>
+          <div class="key window"><span class="leg">M</span><span class="fn">World Map</span></div>
+          <div class="key window"><span class="leg">,</span><span class="fn">Black Spirit</span></div>
+          <div class="key dead"><span class="leg">.</span></div>
+          <div class="key dead"><span class="leg">/</span></div>
+          <div class="key dead w2_75"><span class="leg">Shift</span></div>
+        </div>
+
+        <!-- Modifier row -->
+        <div class="row">
+          <div class="key window w1_25"><span class="leg">Ctrl</span><span class="fn">Cursor</span></div>
+          <div class="key dead w1_25"><span class="leg">Win</span></div>
+          <div class="key dead w1_25"><span class="leg">Alt</span></div>
+          <div class="key combat w6_25"><span class="leg">Space</span><span class="fn">Jump</span></div>
+          <div class="key dead w1_25"><span class="leg">Alt</span></div>
+          <div class="key dead w1_25"><span class="leg">Fn</span></div>
+          <div class="key dead w1_25"><span class="leg">Menu</span></div>
+          <div class="key dead w1_25"><span class="leg">Ctrl</span></div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="side">
+      <div class="card">
+        <h2>Legend</h2>
+        <div class="legend">
+          <div class="lg"><span class="sw" style="background:var(--mov)"></span> Movement <small>ESDF</small></div>
+          <div class="lg"><span class="sw" style="background:var(--combat)"></span> Combat &amp; action</div>
+          <div class="lg"><span class="sw" style="background:var(--window)"></span> Windows / UI</div>
+          <div class="lg"><span class="sw" style="background:var(--world)"></span> World / interact</div>
+          <div class="lg"><span class="sw" style="background:var(--cam)"></span> Camera / system</div>
+          <div class="lg"><span class="sw" style="background:var(--qs)"></span> Quick slots <small>1–0</small></div>
+          <div class="lg"><span class="sw" style="background:var(--faint)"></span> Default / unbound</div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Mouse</h2>
+        <div class="mouse" aria-hidden="true">
+          <div class="mbody"></div>
+          <div class="mbtn ml"></div>
+          <div class="mbtn mr"></div>
+          <div class="mwheel"></div>
+        </div>
+        <ul class="mlabels">
+          <li><b>LMB</b><span>Main attack</span></li>
+          <li><b>RMB</b><span>Secondary attack</span></li>
+          <li><b>MMB</b><span>Camera (while moving)</span></li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>Navigation &amp; Camera</h2>
+        <div class="navpad">
+          <div class="key cam k-up"><span class="leg">↑</span><span class="fn">Cam Up</span></div>
+          <div class="key cam"><span class="leg">←</span><span class="fn">Cam L</span></div>
+          <div class="key cam"><span class="leg">↓</span><span class="fn">Cam Dn</span></div>
+          <div class="key cam"><span class="leg">→</span><span class="fn">Cam R</span></div>
+          <div class="key cam"><span class="leg">PgUp</span><span class="fn">Chat Prev</span></div>
+          <div class="key cam"><span class="leg">PgDn</span><span class="fn">Chat Next</span></div>
+          <div class="key cam"><span class="leg">ScrLk</span><span class="fn">Walk⇄Run</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    Evasion is <b>double-tap a movement key</b> (E/S/D/F). Blank keys keep the game default or are
+    unbound — the ESDF shift freed up their original letters. Re-capture from Settings → Hotkey &amp;
+    Input if you rebind anything; BDO stores keybinds on the account, not on disk.
+  </footer>
+</div>

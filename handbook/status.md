@@ -69,17 +69,13 @@ What he remembers working on before the break — the in-progress threads to pic
 - [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → Slumbering Origin → weapons).
 - [x] **Free Olvia PEN Blackstar box** — pick **Awakening (Foxtail Fans)**; main is already PEN
       ([why](gear/hyperboost-plan.md#which-weapon-to-pick-from-the-free-choose-your-pen-blackstar-box--awakening-foxtail-fans)).
-- [ ] **Maegu build / playstyle research** — Jon's **skill points got reset** (a rebalance/rework
-      happened during the 2-year gap). Decide **Succession vs Awakening** and rebuild from a current
-      guide. Early read: **Awakening Maegu is currently regarded as very strong**; Succession is the
-      ranged playstyle he's used to but relatively weaker now. Both clear PvE/Morning Light fine. →
-      do a proper build page (addons, skill build) off [BDFoundry Maegu guide](https://www.blackdesertfoundry.com/maegu-class-guide/).
-- [ ] **Keybindings → visual keymap.** Jon uses **ESDF movement** with everything rebound around it,
-      and the in-game hint images never reflect custom binds. **Finding (2026-08-21): BDO keybinds are
-      stored server-side, NOT in the local config** — checked every `gamevariable.xml` (incl.
-      per-character + the `.bdcp` pack); the `<ShortcutKey>` node is empty. Plan: Jon screenshots the
-      in-game Key Settings tabs → transcribe → generate a **visual keyboard keymap** (artifact) for his
-      second monitor.
+- [x] **Maegu build** → run **Succession** (rebuild from zero after the reset). Ordered skill-point
+      input list + add-ons: [combat/maegu-build.md](combat/maegu-build.md) (evidence:
+      [research](../research/maegu-build.md)). Awakening deferred (needs its own research pass).
+- [x] **Keybindings → visual keymap.** Captured Jon's **ESDF** Action + UI hotkeys (2026-08-21) →
+      [client/keybinds.md](client/keybinds.md). Built a glanceable **[visual keymap](client/keymap.html)**
+      (published artifact) for his second monitor. Finding: **BDO stores keybinds server-side, not on
+      disk** (every local `<ShortcutKey>` node is empty) — re-capture via screenshot if he rebinds.
 - [ ] _(Deferred)_ Capture CP / workers / nodes / liquid silver — life-skill empire is parked.
 - [ ] _(Deferred)_ Vet the source list → [`research/sources.md`](../research/sources.md).
 
