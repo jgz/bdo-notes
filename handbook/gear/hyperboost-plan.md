@@ -50,18 +50,25 @@ any variant — only **buy orders**, which peg the effective price at **~100M pe
 (The ~330M "JIN crystals" priced earlier were **Viper/Kobalina Magic Crystals**, a different
 combat-socket line — not the melt source.) So the earlier "~110M/accessory" estimate was wrong.
 
-**Real cost if bought:** ~100M/Essence → **~1B per accessory** (10 Essence) → **~6B for the full
-6-slot set.** Expensive and unreliable (buy-order fills only).
+**Cost to buy:** ~100M/Essence → **~1B per accessory** (10 Essence) → **~6B for the full 6-slot set.**
 
-**So farm it, don't buy it:**
-- **Grind Dawn Crystals in Land of the Morning Light** — where Jon is headed for Part 2 anyway — and
-  heat them. The free Kharazad **family quests need only 10 Essence each**, so playing through Part 2
-  should cover the set over time.
-- **Set passive buy orders** as a supplement to catch a few while playing.
-- Situational: **Dawn's Aura** (5M, Old Moon Manager) + a **junk yellow TET/PEN boss accessory**
-  yields 30–720 Essence in one heat — only worth it for an accessory Jon doesn't need.
+**…but that's cheap for what it is.** A **PEN Kharazad ≈ a TET Deboreka** accessory, and a **TET
+Deboreka ring is ~18.2B** on the market (2026-08-22). So ~1B of Essence buys an ~18B-equivalent
+accessory through the free quest — **~18× value**, and the full set (~6B) is a rounding error vs a
+real TET Deboreka set (100B+). _(Kharazad↔Deboreka stat equivalence per Jon's market read.)_
 
-> **To finalize:** confirm which LoML zones drop the Dawn Crystals (and drop rate) as Jon grinds Part 2.
+**So buying the Essence is well worth it** if the liquid silver is there (Jon's liquid silver still
+TO CAPTURE). Do the free family quests and just buy the 10 Essence per slot — prioritize the
+highest-value accessory slots first. Options, cheapest silver-per-Essence first:
+- **Buy orders on Dawn Crystals / Essence** — the market is drop-only and starved, so this is how you
+  buy; queue orders and let them fill while you play.
+- **Free while grinding Part 2:** Dawn Crystals drop in Land of the Morning Light — melt what you
+  loot to offset the buy cost.
+- Situational: **Dawn's Aura** (5M, Old Moon Manager) + a **junk yellow TET/PEN boss accessory** →
+  30–720 Essence in one heat — only for an accessory Jon doesn't need.
+
+> **To finalize:** confirm which LoML zones drop the Dawn Crystals as Jon grinds Part 2, and capture
+> his liquid silver so "buy vs farm" is a real decision rather than an assumption.
 
 ## Suggested order
 
