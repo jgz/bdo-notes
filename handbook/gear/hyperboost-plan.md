@@ -37,6 +37,21 @@ Sources conflict on "main vs new season character," but the reconciled read (BDF
 > *progress* resets between semesters, but the **Family gear Rewards you claim do not.** So finish
 > the Combat Course before **2026-11-05** to lock in the free PEN Blackstar + Crons + hammers.
 
+## Which weapon to pick from the free "Choose Your PEN Blackstar" box → **Awakening (Foxtail Fans)**
+
+Jon already has the box waiting in rewards (not yet accepted, 2026-08-21). Blackstar only comes in
+**main-hand and awakening** types (offhands are Kutum/Nouver → Sovereign separately), so the box is
+effectively a main-vs-awakening choice.
+
+- **Maegu's main-hand (Foxspirit Charm) is already PEN Blackstar** → picking main would waste the box.
+- **Her awakening (Foxtail Fans) is only TET** → **pick Awakening.** It's free, brings the Fans to
+  PEN Blackstar, and you need a PEN-tier awakening weapon to convert into the **Sovereign awakening
+  weapon** later (all 3 Sovereigns = the endgame).
+- Caveat, stated honestly: Jon plays **Succession**, and a Succession build doesn't use awakening-weapon
+  AP for damage — but the pick is still correct because it's **free gearscore + the Sovereign path**,
+  and the main (which succession *does* use) is already maxed. The sub-weapon (Binyeo/Kutum) is a
+  separate upgrade, not part of this box.
+
 ## Open questions before committing
 
 - Is a **Season currently active** on NA? (Needed for the Sovereign / PEN-Blackstar shortcut.)
