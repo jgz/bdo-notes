@@ -17,33 +17,34 @@
 
 ## Combat stats (per Garmoth, 2026-08-21)
 
-> **Update 2026-08-22:** all 6 accessories swapped to **PEN Kharazad** (Hyperboost) → **AP 281 → 308,
-> DP 342 → 347.** AAP/GS rose too (recapture from Garmoth for exact). 308 AP clears the Black Shrine
-> gate for the next step (Slumbering Origin armor).
+> **Recaptured 2026-08-22** after Hyperboost (PEN Kharazad + Fiery Sovereign weapons):
+> **AP 281 → 328, AAP 274 → 328, DP 342 → 352, GS 628 → 680**, Crit Dmg **16% → 43%**. Big gains still
+> pending on **armor** (still old boss armor — Slumbering Origin not done yet).
 
-| Stat | Value (2026-08-21 → 08-22) |
+| Stat | 2026-08-21 → **08-22** |
 |---|---|
-| **AP** | **281 → 308** |
-| **Awakening AP (AAP)** | **274 → ~301** (recapture) |
-| **DP** | **342 → 347** |
-| **Gearscore (GS)** | **628 → higher** (recapture) |
-| All Accuracy | 928 |
-| Critical Hit Damage | +16% |
-| Evasion (Melee/Ranged/Magic) | 903 / 903 / 903 |
-| Damage Reduction (Melee/Ranged/Magic) | 367 / 367 / 367 |
-| CC resist (Stun/Grab/Knockback/Floating) | 35% each |
+| **AP** | 281 → **328** |
+| **Awakening AP (AAP)** | 274 → **328** |
+| **DP** | 342 → **352** |
+| **Gearscore (GS)** | 628 → **680** |
+| All Accuracy | 928 → **1001** |
+| Critical Hit Damage | +16% → **+43%** |
+| Evasion (M/R/M) | 903 → **918** |
+| Damage Reduction (M/R/M) | 367 → **376** |
+| CC resist (Stun/Grab/KB/Float) | 35% → **45%** |
 
 ## Gear
 
 ### Weapons
 | Slot | Item | Enh. |
 |---|---|---|
-| Primary (Charm) | **Sovereign Foxspirit Charm** | base+ (recapture) |
-| Awakening (Fans) | **Sovereign Foxtail Fans** | base+ (recapture) |
-| Sub-weapon (Binyeo Knife) | **Sovereign Binyeo Knife** | base+ (recapture) |
+| Primary (Charm) | **Fiery Sovereign Foxspirit Charm** | (recapture) |
+| Awakening (Fans) | **Fiery Sovereign Foxtail Fans** | (recapture) |
+| Sub-weapon (Binyeo Knife) | **Sovereign Binyeo Knife** | (recapture) |
 
-_(All three weapons converted to **Sovereign** via Hyperboost, 2026-08-22 — from PEN Blackstar charm,
-2× PEN Blackstar awakening combined, and the Kutum sub. Enhancement levels TO RECAPTURE.)_
+_All three converted to **Sovereign** via Hyperboost (2026-08-22). **"Fiery"** = an **Inverted Heart of
+Garmoth** applied to main + awakening (the +2 crystal sockets / AP / crit placement); sub left plain
+for a future 3rd heart. **Reforge slots (5 each) not yet filled** → [reforge-stones](../gear/reforge-stones.md)._
 
 ### Armor
 | Slot | Item | Enh. |
@@ -92,7 +93,14 @@ Nose), but there are clear soft spots that match Jon's "still gearing" descripti
 > Capotia/Bronte's → **PEN Kharazad accessories**, armor → **Slumbering Origin**, weapons →
 > **Sovereign**. See the plan: [../gear/hyperboost-plan.md](../gear/hyperboost-plan.md).
 
+## Crystals (from Garmoth, 2026-08-22)
+
+2× Magic Crystal of Infinity – MP Recovery · Black Magic Crystal – Precision · 4× Ancient Magic
+Crystal of Crimson Flame – Power · 2× Black Magic Crystal – Addis · 2× Dark Red Fang Crystal – Valor ·
+2× Corrupted Magic Crystal · 2× Ah'krad Crystal. _(The 2 new Fiery-weapon sockets give room for more.)_
+
 ## Value note
 
-Garmoth showed **30,046,170,000** by the silver icon at the bottom — this is almost certainly the
-**estimated value of the build**, not liquid silver. Jon's actual liquid silver is still TO CAPTURE.
+Garmoth's silver figure is now **~217.4B** (was ~30B on 2026-08-21) — the **estimated build value**
+after Sovereign weapons + PEN Kharazad + Fiery reforms, **not liquid silver.** Jon's actual liquid
+silver is still TO CAPTURE.
