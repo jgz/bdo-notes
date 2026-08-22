@@ -21,6 +21,7 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 | Alt | Class | Parked at | Notes |
 |---|---|---|---|
 | **Mysteezy** | Mystic | **Uturi** (LoML world boss) | Moving up 2026-08-22 (next spawn); leaving there for the foreseeable future |
+| **WooJeezy** | Woosa | **Garmoth** | Staying put — keep for **Garmoth's Heart** |
 
 _(Building this out as Jon relocates each alt.)_
 
