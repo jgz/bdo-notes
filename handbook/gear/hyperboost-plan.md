@@ -119,6 +119,18 @@ succeed, not a scary gamble ([BDFoundry](https://www.blackdesertfoundry.com/blac
 **Net:** 250 FS + 10 downgrade-protected taps + a ~15-fail pity guarantee → you'll almost certainly
 hit PEN inside the free materials, with no risk of losing the TET. Not hard.
 
+**Durability on fail (no special catch-up item):** each failed Blackstar tap is **Max Durability −20**.
+Restore it the normal way — **Memory Fragments** at a **Blacksmith / Stable Keeper → Repair → Restore
+Max Durability** (boss gear ≈ 1 max durability per fragment). Use **Artisan's Memory** to make each
+fragment restore **5** instead of 1. There is **no Hyperboost-specific repair item** — Memory
+Fragments is it. **⚠ Watch the Obsidian Hammer count:** running out mid-attempt means an unprotected
+fail **drops TET→TRI** — buy more from the Olvia coin shop (90 coins, 3 available) if short, or lean
+on the high failstack to finish.
+
+_Progress (2026-08-22): main + sub converted to Sovereign; one awakening weapon taken to PEN via a
+guaranteed item; second TET awakening in progress (~8 hammer taps done) → both PEN awakening combine
+into the **Sovereign awakening weapon**._
+
 ## Which weapon to pick from the free "Choose Your PEN Blackstar" box → **Awakening (Foxtail Fans)**
 
 Jon already has the box waiting in rewards (not yet accepted, 2026-08-21). Blackstar only comes in
