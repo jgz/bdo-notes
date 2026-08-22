@@ -18,9 +18,25 @@ Sources conflict on "main vs new season character," but the reconciled read (BDF
 
 | Upgrade | Do it on Maegu? | How |
 |---|---|---|
-| **PEN Kharazad accessories** (all 6 — replaces Capotia + Bronte's + Crescent ring) | ✅ **Yes** | **Once-per-Family** quests from **Alustin**, after the **Olvia Academy Admission** quest. Biggest AP jump, and fully doable on the main. |
+| **PEN Kharazad accessories** (all 6 — replaces Capotia + Bronte's + Crescent ring) | ✅ **Yes** | **Once-per-Family** quests from **Alustin** (Velia), after the **Olvia Academy** quest. Each quest costs **10 Essence of Dawn + 50 Sharp Black Crystal Shard** (see below). Biggest AP jump, fully doable on the main. |
 | **Slumbering Origin armor** (4 pieces — replaces Griffon/Red Nose/Bheg/Tuvala) | ✅ **Yes, once AP is up** | Black Spirit Support quests → solo **Black Shrine bosses (~305–315+ AP)**. Maegu clears the AP check easily *after* the Kharazad accessories go on. |
 | **Sovereign weapons** (main/sub/awakening) | ✅ **Yes (corrected)** | Convert from **PEN Blackstar** — and the **Olvia Academy Combat Course gives your main a "Choose Your PEN (V) Blackstar Weapon" box + 12 Obsidian Hammers + 6,000 Crons, family-wide** ([BDFoundry](https://www.blackdesertfoundry.com/olvia-academy-guide/), 2026-08-21). No season character needed. _(Confirm how many free PEN Blackstars a non-season main ends with across Academy + Hyperboost — you need 3 for all weapons.)_ |
+
+## Essence of Dawn (the Kharazad quest material)
+
+Each Kharazad family quest needs **10 Essence of Dawn** (60 for the full 6-accessory set) + 50 Sharp
+Black Crystal Shard (cheap on the market). **Essence of Dawn isn't sold** — it's a **Heating**
+(Processing `L`) product you make yourself, which is why the market is empty. Two ways
+([BDFoundry](https://www.blackdesertfoundry.com/kharazad-accessories-guide/), 2026-08-22):
+
+1. **Heat Dawn Crystals from Land of the Morning Light** grind zones — **JIN → 30, BON → 10, WON → 1**
+   Essence each. **Best route for Jon** (heading to LoML Part 2 anyway; no gear sacrificed).
+2. **Heat a spare yellow TET/PEN boss accessory with Dawn's Aura** — Dawn's Aura is bought from the
+   **Old Moon Manager NPC for 5M silver**; heating consumes the accessory but yields a lot (TET Ogre
+   Ring 30 / TET Black Distortion Earring 72 / PEN 300–720). Only worth it for a junk boss accessory.
+
+_(A separate, more expensive **craft** of Kharazad exists — 50 Essence + 300 Magical Shard + a
+Deboreka accessory each — but the Hyperboost family-quest path above is the cheap one; use it.)_
 
 ## Suggested order
 
