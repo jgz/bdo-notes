@@ -22,6 +22,7 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 |---|---|---|---|
 | **Mysteezy** | Mystic | **Uturi** (LoML world boss) | Moving up 2026-08-22 (next spawn); leaving there for the foreseeable future |
 | **WooJeezy** | Woosa | **Garmoth** | Staying put — keep for **Garmoth's Heart** |
+| **Witcheezy** | Witch | **Golden Pig King** (LoML world boss) | Relocated 2026-08-22 |
 
 _(Building this out as Jon relocates each alt.)_
 
