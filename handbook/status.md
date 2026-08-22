@@ -57,9 +57,13 @@ What he remembers working on before the break — the in-progress threads to pic
 - [x] Capture life-skill levels → [lifeskills/overview.md](lifeskills/overview.md).
 - [x] Identify Maegu's gear gaps + the upgrade path → **Hyperboost** ([research](../research/hyperboost.md), [plan](gear/hyperboost-plan.md)).
 - [x] Resolve the two Maegu gear gaps → 2nd earring = **Bronte's Bolt**; "Bronte's Bolt" was that earring.
-- [ ] **Confirm Hyperboost specifics in-game** before committing: is a **Season active** on NA? exact
-      **AP gate** for Black Shrine (Slumbering Origin)? what's **Family- vs character-bound**? the
-      **Olvia Academy admission** path on an endgame main?
+- [x] **Confirmed in-game (2026-08-21):** the Hyperboost suggested quests are **visible on Maegu (the
+      main)** and Jon **has the Olvia Academy invitation** — the main-character route works, no reroll
+      needed to start. Sovereign weapon quest not shown yet (gated later, as expected). Jon is heading
+      to **Olvia (NW Balenos)** to begin. Still to confirm as he goes: Black Shrine AP gate, and
+      whether a Season is active for the later Sovereign/PEN-Blackstar step.
+- [ ] **Follow the suggested-quest chain** through Olvia Academy → grab **Kharazad accessories from
+      Alustin** (biggest AP jump) → Slumbering Origin → (Sovereign later).
 - [ ] **Research Land of the Morning Light Part 2** — entry requirements, questline, what's new, and
       whether Maegu's current/near-future gear clears it. (No handbook page yet.)
 - [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → Slumbering Origin → weapons).
