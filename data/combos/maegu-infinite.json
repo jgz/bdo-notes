@@ -1,0 +1,28 @@
+{
+  "type": "combo",
+  "title": "Maegu Infinite Combo",
+  "subtitle": "Succession · loopable grind combo",
+  "class": "maegu",
+  "favicon": "🦊",
+  "source": "Netherax [𝓌ox] Maegu guide (Discord)",
+  "notes": [
+    "A 'new/lazy, tanky-spot' loop — move to the DPS-priority playstyle once comfortable.",
+    "Optional steps only pay off with high attack speed (BSR / Shai buffs) — skip them otherwise.",
+    "Starters and finishers are pick-one: the options do similar damage, so choose by which movement fits the pull."
+  ],
+  "steps": [
+    { "slots": [["flower-shroud", "bared-claws"]] },
+    { "slots": [["foxspirit-tag"]] },
+    { "slots": [["nukduri-dance", "charmed"]] },
+    { "slots": [["spirited-away"]] },
+    { "slots": [["petal-play"]] },
+    { "slots": [["heavenly-return"]], "optional": true },
+    { "slots": [["heavenward-dance"]] },
+    { "slots": [["foxflare"]], "optional": true },
+    { "slots": [["spirit-swirl", "bristling-sparks"]] }
+  ],
+  "extras": [
+    { "title": "Reposition — Lurking Claws", "slots": [["lurking-claws"]], "text": "Slot in anywhere for back-attacks — EXCEPT between Spirited Away and Petal Play." },
+    { "title": "Out of spells — Constricting Charm to Spirit Sparks", "slots": [["constricting-charm"], ["spirit-sparks"]], "text": "Extra filler if you run dry before the loop comes back around." }
+  ]
+}

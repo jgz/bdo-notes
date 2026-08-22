@@ -1,0 +1,10 @@
+{
+  "_comment": "Jon's account-wide BDO keybind remap. Guides are written in DEFAULT keys; the render tool uses this to transpose any combo into Jon's keys. See handbook/combat/combo-transposition.md and handbook/client/keybinds.md.",
+  "movement_scheme": "ESDF",
+  "default_directions": { "forward": "W", "left": "A", "back": "S", "right": "D" },
+  "directions":         { "forward": "E", "left": "S", "back": "D", "right": "F" },
+  "skill_key_remap":    { "Q": "W", "E": "R", "F": "A" },
+  "unchanged": ["C", "X", "Z", "Shift", "Space", "LMB", "RMB"],
+  "captured": "2026-08-21",
+  "note": "Confirmed by Jon 2026-08-21. He shifted movement to ESDF and relocated the displaced skill keys (Q->W, E->R, F->A), keeping C/X/Z/Shift/Space/mouse at default."
+}

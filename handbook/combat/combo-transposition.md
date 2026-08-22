@@ -60,5 +60,14 @@ Extras:
 - Out of spells → **Constricting Charm → Spirit Sparks**: Shift + Z → LMB → **Shift + Z → LMB**.
 - `{opt}` spells: add only with high attack speed (BSR / Shai buffs).
 
-This is a reusable format — paste any future combo string (with skill names) and it converts the
-same way.
+## DPS priority (endgame)
+
+The author's real recommendation once you're comfortable: cast the highest-priority skill off
+cooldown rather than a fixed loop. Ranked board in Jon's keys:
+[maegu-dps-priority.html](maegu-dps-priority.html).
+
+## This is now a tool
+
+Skills live in `data/skills/maegu.json`, combos in `data/combos/*.json`, and
+`tools/render_combo.py` generates these graphics — transposing default keys to Jon's automatically.
+Paste any future combo (with skill names) and it converts the same way. See [`data/README.md`](../../data/README.md).

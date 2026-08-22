@@ -1,0 +1,47 @@
+{
+  "type": "priority",
+  "title": "Maegu DPS Priority",
+  "subtitle": "Succession · use the highest available skill off cooldown",
+  "class": "maegu",
+  "favicon": "🦊",
+  "source": "Netherax [𝓌ox] Maegu guide (Discord)",
+  "notes": [
+    "Apply -DP at the very start of the rotation.",
+    "Use higher-priority skills as they come off cooldown; drop to the next tier when they're down.",
+    "Set your in-game skill UI order by this priority to make it easier to read.",
+    "Consider AoE coverage. Nukduri Dance / Charmed are your AP buffs — only relevant below the AP cap."
+  ],
+  "tiers": [
+    {
+      "name": "Top Priority",
+      "accent": "top",
+      "entries": [
+        { "slots": [["heavenward-dance"]] },
+        { "slots": [["spirited-away"], ["petal-play"]], "label": "combo" }
+      ]
+    },
+    {
+      "name": "Core DPS",
+      "accent": "core",
+      "entries": [
+        { "slots": [["flower-shroud", "bared-claws"], ["foxspirit-tag"]], "note": "Top priority when applying -DP" },
+        { "slots": [["spirit-swirl"]] },
+        { "slots": [["nukduri-dance"]] },
+        { "slots": [["lurking-claws"]] },
+        { "slots": [["foxflare"]] },
+        { "slots": [["bristling-sparks"]] }
+      ]
+    },
+    {
+      "name": "Filler",
+      "accent": "filler",
+      "entries": [
+        { "slots": [["heavenly-return"]] },
+        { "slots": [["soulflame"], ["flow-hanpuri"]] },
+        { "slots": [["soulsnare"], ["flow-hanpuri"]] },
+        { "slots": [["flower-shroud"]] },
+        { "slots": [["constricting-charm"], ["spirit-sparks"]] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "_comment": "Maegu skill database. 'command' is the DEFAULT-hotkey activation (as guides write it); the render tool transposes it to Jon's keys via data/keybinds/account.json. 'icon' is a filename under assets/skills/maegu/ (embedded as a data URI when present). Populated from the Netherax [Fox] Maegu guide + BDFoundry; expand as needed.",
+  "class": "maegu",
+  "spec": "succession",
+  "skills": [
+    { "slug": "flower-shroud",     "name": "Flower Shroud",     "variant": "Prime",    "command": "W/S+E",    "icon": null, "tags": ["core-dps","starter","filler"], "note": "Movement-choice starter; accelerates Foxspirit Tag. Applies -DP." },
+    { "slug": "bared-claws",       "name": "Bared Claws",       "variant": "Prime",    "command": "A/D+LMB",  "icon": null, "tags": ["core-dps","starter"], "note": "Alt starter; asymmetrical about the cancel." },
+    { "slug": "foxspirit-tag",     "name": "Foxspirit Tag",     "variant": "Prime",    "command": "RMB",      "icon": null, "tags": ["core-dps"], "note": "Primary ranged spam; top priority when applying -DP." },
+    { "slug": "nukduri-dance",     "name": "Nukduri Dance",     "variant": "Prime",    "command": "Shift+C",  "icon": null, "tags": ["core-dps","ap-buff"], "note": "AP buff; only matters below AP cap. Good DPS regardless." },
+    { "slug": "charmed",           "name": "Charmed",           "variant": "Absolute", "command": "Space",    "icon": null, "tags": ["ap-buff","starter-alt"], "note": "Backup AP buff; skippable if over AP cap." },
+    { "slug": "spirited-away",     "name": "Spirited Away",     "variant": "Prime",    "command": "S+LMB",    "icon": null, "tags": ["core-dps","top"], "note": "Pair with Petal Play (Spirited Away -> Petal Play)." },
+    { "slug": "petal-play",        "name": "Petal Play",        "variant": "Prime",    "command": "Shift+LMB","icon": null, "tags": ["core-dps","top"], "note": "Follows Spirited Away." },
+    { "slug": "heavenly-return",   "name": "Heavenly Return",   "variant": "base",     "command": "Shift+X",  "icon": null, "tags": ["optional","filler"], "note": "Optional; add with high attack speed (BSR / Shai buffs)." },
+    { "slug": "heavenward-dance",  "name": "Heavenward Dance",  "variant": "Prime",    "command": "W+RMB",    "icon": null, "tags": ["core-dps","top"], "note": "Top priority DPS." },
+    { "slug": "foxflare",          "name": "Foxflare",          "variant": "Prime",    "command": "Shift+Q",  "icon": null, "tags": ["core-dps","optional"], "note": "Optional in the loop; add with high attack speed." },
+    { "slug": "spirit-swirl",      "name": "Spirit Swirl",      "variant": "Prime",    "command": "Shift+F",  "icon": null, "tags": ["core-dps","finisher"], "note": "Finisher A; applies -DP + bleed." },
+    { "slug": "bristling-sparks",  "name": "Bristling Sparks",  "variant": "Prime",    "command": "Shift+RMB","icon": null, "tags": ["core-dps","finisher"], "note": "Finisher B." },
+    { "slug": "lurking-claws",     "name": "Lurking Claws",     "variant": "base",     "command": "S+F",      "icon": null, "tags": ["core-dps","reposition"], "note": "Reposition for back-attacks; insert anywhere EXCEPT between Spirited Away -> Petal Play." },
+    { "slug": "constricting-charm","name": "Constricting Charm","variant": "base",     "command": "Shift+Z",  "icon": null, "tags": ["filler"], "note": "Out-of-spells filler; chains into Spirit Sparks." },
+    { "slug": "spirit-sparks",     "name": "Spirit Sparks",     "variant": "base",     "command": "LMB",      "icon": null, "tags": ["filler"], "note": "Follows Constricting Charm." },
+    { "slug": "soulflame",         "name": "Soulflame",         "variant": "Absolute", "command": "E",        "icon": null, "tags": ["filler"], "note": "Filler; chains into Flow: Hanpuri. COMMAND KEY UNVERIFIED (E per build guide) — confirm in skill window." },
+    { "slug": "soulsnare",         "name": "Soulsnare",         "variant": "Absolute", "command": "F",        "icon": null, "tags": ["filler"], "note": "Filler; chains into Flow: Hanpuri. COMMAND KEY UNVERIFIED (F per build guide) — confirm in skill window." },
+    { "slug": "flow-hanpuri",      "name": "Flow: Hanpuri",     "variant": "Flow",     "command": null,       "icon": null, "tags": ["filler","flow"], "note": "Follow-up flow after Soulflame / Soulsnare. COMMAND UNVERIFIED — confirm in skill window." }
+  ]
+}
