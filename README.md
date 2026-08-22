@@ -12,6 +12,7 @@ every time.
 | Page | What's in it |
 |---|---|
 | **[Status](handbook/status.md)** | **Start here** — account snapshot, what Jon's doing now, priorities, what's still open |
+| [Reminders](handbook/reminders.md) · [Daily Routine](handbook/daily-routine.md) | Running to-do list of things noticed while playing, and the recurring daily tasks |
 | **[Systems Overview](handbook/systems-overview.md)** | **The map of the territory** — every major BDO system and how they interconnect |
 | [Account: Character Roster](handbook/account/roster.md) | The 12 characters, classes, and levels on the account |
 | [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 281 / DP 342 / GS 628 |
