@@ -69,8 +69,7 @@ What he remembers working on before the break — the in-progress threads to pic
 - [x] **Hyperboost gear DONE (2026-08-22):** PEN Kharazad accessories ✅ · full **Fiery Sovereign**
       weapons ✅ · **DR armor** (Labreska/Fallen God's/Dahn/Ator) ✅ → **AP 328 / DP 352 / GS 714, DR
       452, Crit 43%** ([gear](account/gear-maegu.md)). Went 281 AP / 628 GS → 328 / 714 in a day.
-- [ ] **Enhance the new armor** (base → TET/PEN) — the remaining DP gain (toward ~427), and **fill the
-      15 Sovereign Reforge Stone slots** from the LoML boss alts / Black Shrine / market → [reforge-stones](gear/reforge-stones.md).
+- [ ] **Enhance the gear** (base → TET/PEN) — full material + cheap/free-source plan in **[gear/enhancement.md](gear/enhancement.md)**. Caphras is the bottleneck; armor to DUO then stop; grab free Crons/kits now. Plus **fill the 15 Sovereign Reforge Stone slots** → [reforge-stones](gear/reforge-stones.md).
 - [ ] **Now actually play** — Maegu is well over-geared for **Land of the Morning Light Part 2** (the
       original goal). Research that content next when Jon's ready.
 - [x] **Free Olvia PEN Blackstar box** — pick **Awakening (Foxtail Fans)**; main is already PEN
