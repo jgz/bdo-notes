@@ -17,12 +17,16 @@
 
 ## Combat stats (per Garmoth, 2026-08-21)
 
-| Stat | Value |
+> **Update 2026-08-22:** all 6 accessories swapped to **PEN Kharazad** (Hyperboost) → **AP 281 → 308,
+> DP 342 → 347.** AAP/GS rose too (recapture from Garmoth for exact). 308 AP clears the Black Shrine
+> gate for the next step (Slumbering Origin armor).
+
+| Stat | Value (2026-08-21 → 08-22) |
 |---|---|
-| **AP** | **281** |
-| **Awakening AP (AAP)** | **274** |
-| **DP** | **342** |
-| **Gearscore (GS)** | **628** |
+| **AP** | **281 → 308** |
+| **Awakening AP (AAP)** | **274 → ~301** (recapture) |
+| **DP** | **342 → 347** |
+| **Gearscore (GS)** | **628 → higher** (recapture) |
 | All Accuracy | 928 |
 | Critical Hit Damage | +16% |
 | Evasion (Melee/Ranged/Magic) | 903 / 903 / 903 |
@@ -49,16 +53,16 @@
 ### Accessories
 | Slot | Item | Enh. |
 |---|---|---|
-| Ring 1 | **Capotia Ring** | PEN (V) |
-| Ring 2 | **Ring of Crescent Guardian** | TET (IV) |
-| Earring 1 | **Capotia Earring** | PEN (V) |
-| Earring 2 | **Bronte's Bolt** | Base |
-| Necklace | **Capotia Necklace** | PEN (V) |
-| Belt | **Capotia Belt** | PEN (V) |
+| Ring 1 | **Kharazad Ring** | PEN (V) |
+| Ring 2 | **Kharazad Ring** | PEN (V) |
+| Earring 1 | **Kharazad Earring** | PEN (V) |
+| Earring 2 | **Kharazad Earring** | PEN (V) |
+| Necklace | **Kharazad Necklace** | PEN (V) |
+| Belt | **Kharazad Belt** | PEN (V) |
 | Spirit Stone | **Destruction Spirit Stone** | — |
 
-_(Both earlier gaps resolved via the Garmoth Upgrade Path screenshot: the 2nd earring is **Bronte's
-Bolt** at base, shown converting to a Kharazad Earring.)_
+_(Full PEN Kharazad set completed 2026-08-22 via the Hyperboost family quests — replaced the old
+Capotia set + Crescent ring + Bronte's Bolt.)_
 
 ### Artifacts & lightstones
 | Artifact | Lightstones |
