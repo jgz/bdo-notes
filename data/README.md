@@ -56,6 +56,20 @@ transpose the same way.
 
 ## Icons
 
-Drop `<slug>.png` files in `assets/skills/<class>/` matching each skill's `icon` field; the renderer
-inlines them as data URIs (required — Artifacts block external images via CSP). Missing icons render
-name + keys only, so the pipeline works with or without them.
+Drop icon files in `assets/skills/<class>/` matching each skill's `icon` field; the renderer inlines
+them as data URIs (required — Artifacts block external images via CSP). Missing icons render name +
+keys only, so the pipeline works with or without them.
+
+**Sourcing (BDOCodex, verified 2026-08-21).** Icons are Pearl Abyss game assets served by the
+BDOCodex fan DB. Self-host them (don't hotlink). Recipe:
+
+1. Resolve a skill name → icon path via `https://bdocodex.com/ac.php?l=us&term=<url-encoded name>`
+   (decode as `utf-8-sig`; filter `object_type=="Skill"`; read the `icon` field). The filename number
+   is the skill ID; the class dir encodes the class (Maegu = `27_pkow_skill` / `pkow`).
+2. Download with the **`/items/` prefix** (required — without it you get a generic fallback):
+   `https://bdocodex.com/items/<icon-path>` → e.g.
+   `.../items/new_icon/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_<ID>.webp`
+
+Maegu icons (base dir `.../27_pkow_skill/pkow_skill_<ID>.webp`) were pulled at their Prime/Absolute
+variant IDs to match the skill DB. Garmoth is Cloudflare-blocked; BDOLytics' CDN
+(`https://cdn.bdolytics.com/img/...pkow_skill_<ID>.webp`) mirrors the same IDs as a backup.

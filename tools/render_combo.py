@@ -92,7 +92,10 @@ def icon_data_uri(icon, cls):
     path = os.path.join(ROOT, "assets", "skills", cls, icon)
     if not os.path.isfile(path):
         return None
-    mime = mimetypes.guess_type(path)[0] or "image/png"
+    ext = os.path.splitext(path)[1].lower()
+    mime = {".webp": "image/webp", ".png": "image/png", ".jpg": "image/jpeg",
+            ".jpeg": "image/jpeg", ".gif": "image/gif"}.get(ext) \
+        or mimetypes.guess_type(path)[0] or "image/png"
     with open(path, "rb") as f:
         b64 = base64.b64encode(f.read()).decode("ascii")
     return f"data:{mime};base64,{b64}"
