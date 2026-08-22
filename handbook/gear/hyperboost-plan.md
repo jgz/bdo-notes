@@ -24,6 +24,12 @@ Sources conflict on "main vs new season character," but the reconciled read (BDF
 
 ## Essence of Dawn (the Kharazad quest material)
 
+> ✅ **The quest chain GIVES you the Essence (Jon, in-game guide, 2026-08-22).** The Hyperboost /
+> Olvia quest chain hands out **~60 Essence of Dawn total** — exactly 10 per accessory × 6 — so **you
+> don't need to buy or farm it for the base set at all.** Jon realized this after buying Essence for
+> the first ring (avoidable ~1B, no real harm). **Cancel the buy orders.** Everything below about the
+> market only matters if you want *extra* Essence beyond the free set.
+
 Each Kharazad family quest needs **10 Essence of Dawn** (60 for the full 6-accessory set) + 50 Sharp
 Black Crystal Shard (cheap on the market). **Essence of Dawn isn't sold** — it's a **Heating**
 (Processing `L`) product you make yourself, which is why the market is empty. Two ways
@@ -91,6 +97,27 @@ highest-value accessory slots first. Options, cheapest silver-per-Essence first:
 > ⏳ **Deadline:** Olvia Academy runs in semesters — **Class 3 is July 30 → Nov 5, 2026.** Course
 > *progress* resets between semesters, but the **Family gear Rewards you claim do not.** So finish
 > the Combat Course before **2026-11-05** to lock in the free PEN Blackstar + Crons + hammers.
+
+## TET → PEN Blackstar: the Obsidian Hammers + Advice of Valks (the Sovereign step)
+
+The quest chain hands you a **TET Blackstar weapon** and everything to tap it to PEN — it's set up to
+succeed, not a scary gamble ([BDFoundry](https://www.blackdesertfoundry.com/blackstar-gear-guide/),
+[BDOCodex](https://bdocodex.com/us/item/767291/), + Jon's in-game guide, 2026-08-22):
+
+- **Obsidian Hammer** = **downgrade protection only.** It "prevents drop in enhancement level when
+  enhancement fails" (Blackstar main/awakening/sub at TET). It does **not** guarantee success or add
+  failstacks, and is **consumed per attempt.** So a failed PEN tap keeps your weapon at **TET instead
+  of dropping to TRI.** The quest gives **10 hammers** = 10 safe taps.
+- **The quest also gives the failstacks:** a **+250 and a +200 Advice of Valks** (instant guaranteed
+  failstacks). So you're *supposed* to tap at **250 FS** — well above BDFoundry's "200+ FS" for PEN
+  Blackstar. That's a strong per-tap chance.
+- **Per attempt** you also need **1 Flawless Magical Black Stone** (heat 2 Sharp Black Crystal Shard
+  + 1 Mass of Pure Magic) — confirm whether the quest supplies these or you make/buy them (cheap).
+- **Backstop — pity guarantee:** each Blackstar fail builds **Agris Essence**, and **~15 Agris =
+  guaranteed PEN** at TET→PEN (sources vary 15–20). So even a cold streak is capped.
+
+**Net:** 250 FS + 10 downgrade-protected taps + a ~15-fail pity guarantee → you'll almost certainly
+hit PEN inside the free materials, with no risk of losing the TET. Not hard.
 
 ## Which weapon to pick from the free "Choose Your PEN Blackstar" box → **Awakening (Foxtail Fans)**
 
