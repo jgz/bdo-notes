@@ -15,7 +15,7 @@ every time.
 | [Reminders](handbook/reminders.md) · [Daily Routine](handbook/daily-routine.md) | Running to-do list of things noticed while playing, and the recurring daily tasks |
 | **[Systems Overview](handbook/systems-overview.md)** | **The map of the territory** — every major BDO system and how they interconnect |
 | [Account: Character Roster](handbook/account/roster.md) | The 12 characters, classes, and levels on the account |
-| [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 328 / DP 352 / GS 680 |
+| [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 328 / DP 352 / GS 714 (Hyperboost done) |
 | **[Hyperboost Plan](handbook/gear/hyperboost-plan.md)** | **The free catch-up — Maegu to ~350 AP / 427 DP for Morning Light Pt 2** |
 | [Maegu Build](handbook/combat/maegu-build.md) | Succession skill-point input order + add-ons (after the reset) |
 | [Combos → Your Keys](handbook/combat/combo-transposition.md) · [Infinite Combo](handbook/combat/maegu-infinite-combo.html) | Convert default-hotkey guides to Jon's ESDF layout + the worked combo graphic |

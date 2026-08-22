@@ -17,20 +17,21 @@
 
 ## Combat stats (per Garmoth, 2026-08-21)
 
-> **Recaptured 2026-08-22** after Hyperboost (PEN Kharazad + Fiery Sovereign weapons):
-> **AP 281 → 328, AAP 274 → 328, DP 342 → 352, GS 628 → 680**, Crit Dmg **16% → 43%**. Big gains still
-> pending on **armor** (still old boss armor — Slumbering Origin not done yet).
+> **Recaptured 2026-08-22 — full Hyperboost gear done** (PEN Kharazad + Fiery Sovereign weapons + the
+> DR armor set). **AP 281 → 328, DP 342 → 352, GS 628 → 714**, Crit Dmg **16% → 43%**, DR **367 → 452**.
+> **DP is still low because the new armor is at base enhancement** — it climbs a lot as he enhances it
+> to TET/PEN (that's the remaining DP gain toward the ~427 the Garmoth path projected).
 
-| Stat | 2026-08-21 → **08-22** |
+| Stat | 08-21 → weapons/accs → **+armor (now)** |
 |---|---|
-| **AP** | 281 → **328** |
-| **Awakening AP (AAP)** | 274 → **328** |
-| **DP** | 342 → **352** |
-| **Gearscore (GS)** | 628 → **680** |
-| All Accuracy | 928 → **1001** |
+| **AP** | 281 → 328 → **328** |
+| **Awakening AP (AAP)** | 274 → 328 → **328** |
+| **DP** | 342 → 352 → **352** (base armor — will climb with enhancement) |
+| **Gearscore (GS)** | 628 → 680 → **714** |
+| All Accuracy | 928 → 1001 → **1003** |
 | Critical Hit Damage | +16% → **+43%** |
-| Evasion (M/R/M) | 903 → **918** |
-| Damage Reduction (M/R/M) | 367 → **376** |
+| **Damage Reduction** (M/R/M) | 367 → 376 → **452** ⬆ (DR armor) |
+| Evasion (M/R/M) | 903 → 918 → **909** (chose DR over evasion) |
 | CC resist (Stun/Grab/KB/Float) | 35% → **45%** |
 
 ## Gear
@@ -49,10 +50,14 @@ for a future 3rd heart. **Reforge slots (5 each) not yet filled** → [reforge-s
 ### Armor
 | Slot | Item | Enh. |
 |---|---|---|
-| Helmet | **Griffon's Helmet** | **PEN (V)** |
-| Chest | **Red Nose's Armor** | **PEN (V)** |
-| Gloves | **[Reformed] Bheg's Gloves** | TET (IV) |
-| Shoes | **Tuvala Shoes** | **PEN (V)** |
+| Helmet | **Labreska's Helmet** | base — enhance (DR variant) |
+| Chest | **Fallen God's Armor** | base — enhance (DR variant) |
+| Gloves | **Dahn's Gloves** | base — enhance (DR variant) |
+| Shoes | **Ator's Shoes** | base — enhance (DR variant) |
+
+_Armor upgraded 2026-08-22 (Hyperboost) — replaced the old PEN Griffon / Red Nose / Bheg / Tuvala set.
+Took the **DR (Damage Reduction) variants** ([why](../combat/maegu-build.md#defense-evasion-vs-dr--build-dr-2026-08-22)).
+**At base enhancement** — enhancing to TET/PEN is the remaining DP gain._
 
 ### Accessories
 | Slot | Item | Enh. |
@@ -101,6 +106,5 @@ Crystal of Crimson Flame – Power · 2× Black Magic Crystal – Addis · 2× D
 
 ## Value note
 
-Garmoth's silver figure is now **~217.4B** (was ~30B on 2026-08-21) — the **estimated build value**
-after Sovereign weapons + PEN Kharazad + Fiery reforms, **not liquid silver.** Jon's actual liquid
-silver is still TO CAPTURE.
+Garmoth's silver figure is now **~236.4B** (~30B on 2026-08-21) — the **estimated build value** after
+the full Hyperboost gear, **not liquid silver.** Jon's actual liquid silver is still TO CAPTURE.

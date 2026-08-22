@@ -66,10 +66,13 @@ What he remembers working on before the break — the in-progress threads to pic
       Alustin** (biggest AP jump) → Slumbering Origin → (Sovereign later).
 - [ ] **Research Land of the Morning Light Part 2** — entry requirements, questline, what's new, and
       whether Maegu's current/near-future gear clears it. (No handbook page yet.)
-- [ ] **Execute the Hyperboost plan** on Maegu (Kharazad accessories → weapons → Slumbering Origin).
-      _In progress (2026-08-22): ✅ **all 6 PEN Kharazad** (→308 AP/347 DP) · ✅ **full Sovereign weapon
-      set** (2nd awakening hit PEN tap 11 @ ~260 FS). **Remaining: Slumbering Origin armor** via Black
-      Shrine bosses (308 AP clears the gate) — replaces the old Griffon/Red Nose/Bheg/Tuvala pieces._
+- [x] **Hyperboost gear DONE (2026-08-22):** PEN Kharazad accessories ✅ · full **Fiery Sovereign**
+      weapons ✅ · **DR armor** (Labreska/Fallen God's/Dahn/Ator) ✅ → **AP 328 / DP 352 / GS 714, DR
+      452, Crit 43%** ([gear](account/gear-maegu.md)). Went 281 AP / 628 GS → 328 / 714 in a day.
+- [ ] **Enhance the new armor** (base → TET/PEN) — the remaining DP gain (toward ~427), and **fill the
+      15 Sovereign Reforge Stone slots** from the LoML boss alts / Black Shrine / market → [reforge-stones](gear/reforge-stones.md).
+- [ ] **Now actually play** — Maegu is well over-geared for **Land of the Morning Light Part 2** (the
+      original goal). Research that content next when Jon's ready.
 - [x] **Free Olvia PEN Blackstar box** — pick **Awakening (Foxtail Fans)**; main is already PEN
       ([why](gear/hyperboost-plan.md#which-weapon-to-pick-from-the-free-choose-your-pen-blackstar-box--awakening-foxtail-fans)).
 - [x] **Maegu build** → run **Succession** (rebuild from zero after the reset). Ordered skill-point
