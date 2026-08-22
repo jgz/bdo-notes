@@ -54,6 +54,16 @@ values against the current class Discord before treating as gospel):
 | Spirit Swirl | −20 DP to target · bleed |
 | Petal Play | −4% Evasion to target · +15 DP |
 
+## Defense: Evasion vs DR → **build DR** (2026-08-22)
+
+Maegu *is* an evasion class (5% evasion passive + 9% evasion skill), but the current recommendation
+([BDFoundry](https://www.blackdesertfoundry.com/damage-reduction-vs-evasion/)) still matches Jon's
+old instinct: **build Damage Reduction.** Evasion only pays off at **full PEN gear + Caphras 9+** —
+below that you're squishy and evasion "isn't doing much." Jon is on **base Slumbering Origin armor**,
+far from that, so **take the DR (DP) armor variants**, and **commit** — don't mix evasion/DR (a mixed
+build is worse than a committed one at the same cost). DR is consistent for PvE and safer for PvP.
+Reassess evasion only if he ever pushes to full endgame.
+
 ## Later: Awakening?
 
 Once you're re-settled and geared, Awakening (twin Foxtail fans, fast melee) is worth a spin — but
