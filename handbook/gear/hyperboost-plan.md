@@ -38,28 +38,30 @@ Black Crystal Shard (cheap on the market). **Essence of Dawn isn't sold** — it
 _(A separate, more expensive **craft** of Kharazad exists — 50 Essence + 300 Magical Shard + a
 Deboreka accessory each — but the Hyperboost family-quest path above is the cheap one; use it.)_
 
-### Buying crystals to melt — the math (checked in-game via Garmoth, 2026-08-22)
+### How to actually get it (market reality, checked in-game 2026-08-22)
 
 **5 Essence of Dawn variants:** normal (**All AP**) + **Black Spirit's Rage / Accuracy / Damage
-Reduction / Evasion**. The melt source is the **Dawn Crystal** line (its own stat variants) — **each
-Dawn Crystal stat line heats into its matching Essence variant.** Confirmed tier yields:
-**WON = 1, BON = 10, JIN = 30** Essence.
+Reduction / Evasion**. Each **Dawn Crystal** stat line heats into its matching Essence variant; the
+four stat variants **exchange 1:1 into normal Essence at NPC Dalishai (in town)**. Kharazad needs the
+**normal (All AP)** Essence. Tier yields: WON = 1, BON = 10, JIN = 30.
 
-**Kharazad needs the normal (All AP) Essence.** But the four stat variants **exchange 1:1 into normal
-Essence at NPC Dalishai (in town)** — so you're not locked to All AP crystals.
+**⚠️ The market is drop-only and starved.** As of 2026-08-22 there are **no Dawn Crystals listed** in
+any variant — only **buy orders**, which peg the effective price at **~100M per Essence of Dawn**.
+(The ~330M "JIN crystals" priced earlier were **Viper/Kobalina Magic Crystals**, a different
+combat-socket line — not the melt source.) So the earlier "~110M/accessory" estimate was wrong.
 
-**The optimization:** on the [Garmoth Essence of Dawn Calculator](https://garmoth.com/exchanges/essence-of-dawn)
-(Jon opens it — Garmoth is fetch-blocked for the agent), compare **silver-per-Essence across all 5
-Dawn Crystal variants**, melt the **cheapest**, then 1:1 exchange to normal. The All AP crystal is
-often priced *higher* because it's directly usable, so a cheaper off-stat crystal + the free exchange
-can win. Within a variant, **JIN is the efficient tier** (~11M/Essence at ~330M/crystal → ~110M per
-accessory, ~660M for the full 6-slot set) — a good deal for replacing the free Capotia set.
+**Real cost if bought:** ~100M/Essence → **~1B per accessory** (10 Essence) → **~6B for the full
+6-slot set.** Expensive and unreliable (buy-order fills only).
 
-> ⚠️ Make sure you're pricing the **Dawn Crystal** line, not the **Viper/Kobalina "Magic Crystals"**
-> (a different combat-socket crystal). Also still free/valid: heat LoML **Dawn Crystals** you loot,
-> or **Dawn's Aura** (5M) + a junk yellow TET/PEN boss accessory (30–720 Essence).
->
-> **To finalize:** the exact cheapest variant + its silver/Essence from Jon's live Garmoth view.
+**So farm it, don't buy it:**
+- **Grind Dawn Crystals in Land of the Morning Light** — where Jon is headed for Part 2 anyway — and
+  heat them. The free Kharazad **family quests need only 10 Essence each**, so playing through Part 2
+  should cover the set over time.
+- **Set passive buy orders** as a supplement to catch a few while playing.
+- Situational: **Dawn's Aura** (5M, Old Moon Manager) + a **junk yellow TET/PEN boss accessory**
+  yields 30–720 Essence in one heat — only worth it for an accessory Jon doesn't need.
+
+> **To finalize:** confirm which LoML zones drop the Dawn Crystals (and drop rate) as Jon grinds Part 2.
 
 ## Suggested order
 
