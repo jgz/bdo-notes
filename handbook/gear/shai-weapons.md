@@ -30,8 +30,9 @@ chase, not a requirement.
 
 1. **PEN Tuvala Sol → PEN Artina Sol** — a **once-per-Family exchange quest** (direct swap, no
    re-enhancing). Nearly free from Jon's PEN Tuvala.
-2. **Artina Sol → Sunset Artina Sol → Primordial Artina Sol** (endgame, +35 Extra Monster AP).
-   _Upgrade mats for the Sunset/Primordial steps not well-documented on open guides — verify._
+2. **Artina Sol → Sunset (+35 monster AP) → Primordial Artina Sol** (endgame). **Full step-by-step +
+   material shopping list: [artina-sol.md](artina-sol.md).** Good news: PEN carries through, all
+   guaranteed — just stockpile 10k Caphras + 100 Embers of the Primordial.
 
 ## Main hand (Florang) + Offhand (Vitclari) — STANDARD (confirmed by Jon 2026-08-22)
 
