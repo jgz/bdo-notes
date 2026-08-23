@@ -1,7 +1,7 @@
 # Olvia Academy Coin — spend priority
 
 > Last updated: 2026-08-22. Jon has **200 coins** now and earns more via Academy dailies/quests —
-> so this is the **order to buy in** before the semester ends (Class 3 ends **2026-11-05**).
+> so this is the **order to buy in** before the semester ends (Class 3 ends 2026-11-11).
 > Shop snapshot: [screenshot](../../research/account/2026-08-22-olvia-academy-coin-shop.png).
 > Priority per [BDFoundry](https://www.blackdesertfoundry.com/olvia-academy-guide/), personalized to
 > Jon's account.

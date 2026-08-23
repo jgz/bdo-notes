@@ -94,9 +94,9 @@ highest-value accessory slots first. Options, cheapest silver-per-Essence first:
 4. The single **non-free** step Garmoth flagged is **Fallen God's / Slumbering armor Base → PRI**
    (~94M–283M) — a normal enhancement you do later, not part of the free catch-up.
 
-> ⏳ **Deadline:** Olvia Academy runs in semesters — **Class 3 is July 30 → Nov 5, 2026.** Course
+> ⏳ **Deadline:** Olvia Academy runs in semesters — **Class 3 is 2026-07-29 → 2026-11-11 (graduation/end; enrollment closes 11-4).** Course
 > *progress* resets between semesters, but the **Family gear Rewards you claim do not.** So finish
-> the Combat Course before **2026-11-05** to lock in the free PEN Blackstar + Crons + hammers.
+> the Combat Course before **2026-11-11** to lock in the free PEN Blackstar + Crons + hammers.
 
 ## TET → PEN Blackstar: the Obsidian Hammers + Advice of Valks (the Sovereign step)
 
