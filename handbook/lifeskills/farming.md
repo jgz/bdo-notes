@@ -20,9 +20,15 @@
 - **Gathering mastery does NOT affect harvesting** — separate skill. The only cross-link: a higher
   **gathering LEVEL** (not mastery) slightly **reduces energy cost** per farming action.
 - **Workers handle the annoying part.** Blight (weeds/pests) rolls every ~5 min. **Assign workers to
-  the gardens → they auto-prune and auto-kill pests.** Workers **can't water or scare birds** — those
-  are the only tasks left for the daily visit (and watering only *speeds* growth; crops still grow
-  without it).
+  the gardens → they auto-prune and auto-kill pests.**
+  - **1 worker per fence** (max one per fence; that worker tends the whole fence, any seed type). So
+    workers needed = **number of fences** you run — *not* per plot. Unchanged by the 2026 updates.
+  - Workers **only prune + kill pests** — they **don't water, scare birds, harvest, or breed**, and
+    **worker-tended crops give Jon no Farming XP or Sharp shards** (fine for the low-effort goal; tend
+    by hand instead if he ever wants to *level* farming).
+  - **Feed them via Family Inventory** (farm workers burn stamina fast — "lots of beer") so they
+    auto-eat and **stay on-site** instead of walking home = truly AFK. **Giant workers** are best (more
+    stamina, less feeding).
 - **Magical seeds are self-sustaining:** each takes **5 plot spaces** (fewer plants to manage), and
   **breeding them yields more magical seeds** — so the farm restocks its own seed supply.
 
