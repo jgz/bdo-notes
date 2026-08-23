@@ -17,6 +17,10 @@
 
 ## Combat stats (per Garmoth, 2026-08-21)
 
+> **Enhancing round 1 (2026-08-23):** **AP 335, AAP 334, DP 386, GS 736, DR 470** (build value ~348B).
+> Armor at **PRI**, weapons at **DUO**, Kharazad accessories V–VII. Big DP jump (352→386) as the new
+> armor enhances — more to come.
+>
 > **Recaptured 2026-08-22 — full Hyperboost gear done** (PEN Kharazad + Fiery Sovereign weapons + the
 > DR armor set). **AP 281 → 328, DP 342 → 352, GS 628 → 714**, Crit Dmg **16% → 43%**, DR **367 → 452**.
 > **DP is still low because the new armor is at base enhancement** — it climbs a lot as he enhances it

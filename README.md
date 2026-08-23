@@ -15,11 +15,12 @@ every time.
 | [Reminders](handbook/reminders.md) · [Daily Routine](handbook/daily-routine.md) | Running to-do list of things noticed while playing, and the recurring daily tasks |
 | **[Systems Overview](handbook/systems-overview.md)** | **The map of the territory** — every major BDO system and how they interconnect |
 | [Account: Character Roster](handbook/account/roster.md) | The 12 characters, classes, and levels on the account |
-| [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 328 / DP 352 / GS 714 (Hyperboost done) |
+| [Account: Maegu Gear](handbook/account/gear-maegu.md) | The main's gear — AP 335 / DP 386 / GS 736 (enhancing) |
 | **[Hyperboost Plan](handbook/gear/hyperboost-plan.md)** | **The free catch-up — Maegu to ~350 AP / 427 DP for Morning Light Pt 2** |
 | [Maegu Build](handbook/combat/maegu-build.md) | Succession skill-point input order + add-ons (after the reset) |
 | **[Gear Enhancement](handbook/gear/enhancement.md)** | **Mats + cheap/free sources to enhance the character-bound Sovereign/armor gear** |
 | [Crafting Cheat Sheet](handbook/gear/crafting-cheatsheet.md) | Recipes for the Primordial Black Stone (weapons) + Flawless Chaotic Black Stone (armor) |
+| [Failstacking](handbook/gear/failstacking.md) | How to build failstacks — and why the 100k Cron pile makes it easy |
 | [Combos → Your Keys](handbook/combat/combo-transposition.md) · [Infinite Combo](handbook/combat/maegu-infinite-combo.html) | Convert default-hotkey guides to Jon's ESDF layout + the worked combo graphic |
 | [Keybinds](handbook/client/keybinds.md) · [Visual Keymap](handbook/client/keymap.html) | Jon's ESDF layout — table + a glanceable keyboard for the 2nd monitor |
 | [Life Skills: Overview](handbook/lifeskills/overview.md) | Parked — Cooking Guru, Master fishing/processing, and the levels |
