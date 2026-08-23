@@ -6,6 +6,26 @@
 > Priority per [BDFoundry](https://www.blackdesertfoundry.com/olvia-academy-guide/), personalized to
 > Jon's account.
 
+## ⏳ How the Academy cycle works (don't graduate early!)
+
+The Academy is a **temporary "semester," not a permanent weekly hub** ([BDFoundry](https://www.blackdesertfoundry.com/olvia-academy-guide/),
+[official GM Notes](https://www.naeu.playblackdesert.com/en-US/News/Detail?groupContentNo=9926&countryType=en-US)):
+
+- **While enrolled:** pick up **3 weekly quests/week** (bulletin board / NPC Cliff — Combat, Life Skill,
+  or Visit) for Academy Coins. This is the only recurring coin income. Also Abyssal Echo + the free
+  (slow) Academy cooking/alchemy tools.
+- **Graduation LOCKS YOU OUT** of all of it — weeklies, Abyssal Echo, and the free tools all stop.
+  Graduating is a one-time payout: **300 coins + Graduate title + knowledge**, plus a bonus **~300 coins**
+  for attending the ceremony and typing **"Olvium Frontia!"** in general chat.
+- **So finishing the courses does NOT give a standing weekly.** After graduation there's no reason to
+  return to Olvia for Academy content.
+- **Cycle reset:** Class 3 ends **2026-11-11**. When a cycle ends, course progress resets; you may
+  **re-enroll in a future class** for more coins. **Banked coins are kept permanently.**
+
+> ✅ **Play:** don't graduate until you've bought everything you want below. Keep farming the 3 weekly
+> quests each week (the two Advice of Valks are one-time buys). Graduate near the end (before ~Nov 11)
+> to collect the title + 300 coins. Milk the coin farm first.
+
 ## Buy in this order
 
 | # | Item | Cost | Cap | Why |
