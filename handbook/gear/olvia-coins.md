@@ -1,10 +1,30 @@
 # Olvia Academy Coin — spend priority
 
-> Last updated: 2026-08-22. Jon has **200 coins** now and earns more via Academy dailies/quests —
-> so this is the **order to buy in** before the semester ends (Class 3 ends 2026-11-11).
+> Last updated: 2026-08-23. Earns more via weekly quests before Class 3 ends **2026-11-11**.
 > Shop snapshot: [screenshot](../../research/account/2026-08-22-olvia-academy-coin-shop.png).
 > Priority per [BDFoundry](https://www.blackdesertfoundry.com/olvia-academy-guide/), personalized to
 > Jon's account.
+
+## ✅ Already bought (2026-08-23)
+
+**Advice of Valks (+250)**, **Advice of Valks (+200)**, **Essence of Dawn**, **Embers of the Primordial.**
+The unique/one-time failstack buys are secured.
+
+## 🎯 Remaining targets — buy up to cap BEFORE graduating
+
+⚠️ **Cap-reset is unconfirmed** — guides confirm **coins + owned items carry across semesters** and you
+can re-enroll for more coins, but **NOT whether the per-item purchase caps reset** on a new class.
+**Safe play: treat caps as lifetime and buy what you want this semester.** _Verify in-game: after
+re-enrolling next class, check if a capped item's counter went back to 0._
+
+| Priority | Item | Cost / cap | Why (validated 2026-08-23) |
+|---|---|---|---|
+| **1** | **Choose Your Rare Hammer Box → pick Obsidian** | 90 / cap 3 | **Obsidian Hammers for Shai's Blackstar.** Shai's Florang (main) + Vitclari (sub) are STANDARD weapons → Tuvala→boss→**Blackstar**→Sovereign, so they need Obsidian for the TET→PEN tap. Maegu's 10 went to her awakening. Confirmed via [shai-weapons](shai-weapons.md). |
+| **2** | **Mythical Censer** | — / cap 2 | **Tier-10 Mythical Horse awakening** (combines two T9 Dream Horses; consumed per ~3% attempt). Ties to Jon's AFK horse training. 2 = a start, not a full supply. |
+| **3** | **Manos box** (life-skill gear) | — | **Parked life-skill** territory — lowest priority, buy with leftover coins only. |
+
+_(Obsidian Hammer standalone entry: same use as the Rare Hammer Box choice above — the box is the
+efficient way to get them.)_
 
 ## ⏳ How the Academy cycle works (don't graduate early!)
 
@@ -42,32 +62,17 @@ published in guides — structure is solid, numbers aren't. _(sourced 2026-08-23
 > quests each week (the two Advice of Valks are one-time buys). Graduate near the end (before ~Nov 11)
 > to collect the title + 300 coins. Milk the coin farm first.
 
-## Buy in this order
+## Originally-planned buys (now DONE ✅)
 
-| # | Item | Cost | Cap | Why |
-|---|---|---|---|---|
-| **1** | **Advice of Valks (+250)** | 70 | **1** | **Top priority** — a 250 failstack is the hardest thing here to get anywhere else, and it's a one-time buy. Grab it first. |
-| **2** | **Advice of Valks (+200)** | 60 | **1** | Same logic, also one-time. |
-| **3** | **Embers of the Primordial** (×5) | 20 | 10 (=50) | **Sovereign weapon material** — Jon's endgame weapon goal. Coins are an efficient source, but he's *also* farming these from the relocated **LoML boss alts**, so this is a supplement, not a must-max. |
-| 4 | **Caphras Stone** (×300) | 20 | 10 (=3000) | Good value if leveling gear with caphras. |
-
-**~200-coin plan now:** Advice +250 (70) + Advice +200 (60) = **130**, then **3× Embers** (60) = 15
-Embers, ~10 left over. Then keep buying **Embers / Caphras** as more coins come in.
+The first-priority buys — **Advice of Valks +250 & +200** (unique one-time failstacks), **Essence of
+Dawn**, **Embers of the Primordial** — are all purchased. **Caphras (×300, cap 10)** remains a
+good-value optional if coins pile up with nothing else to spend on.
 
 ## Skip / deprioritize (for Jon specifically)
 
-- **Obsidian Hammer** (90, cap 3) — BDFoundry ranks these high generally, but **Jon already got 10
-  from the quest**, which covers the TET→PEN Blackstar tap. Don't spend 90 coins each unless short.
-- **Essence of Dawn** (10, cap 10) — the **quest gives 60**, enough for the Kharazad set. Only a cheap
-  top-up if he wants extras.
-- **Choose Your Rare Hammer Box** (90, cap 3) — situational; expensive.
 - **The other Embers** — Despair / Frost / Resonance / Hongik: **only Embers of the _Primordial_ feed
   Sovereign weapons.** The others are for other/specific systems (usage unconfirmed) — don't spend
   coins on them speculatively.
+- **Essence of Dawn** extras — the quest gave 60 (enough for Kharazad); already topped up if wanted.
 - Cheap fillers (Sharp Black Crystal Shard, Black Gem, Mass of Pure Magic, Desperate Crystal of
-  Origin, Rebellious Spirit Crystal, Mythical Censer, Atanis' Element) — buy only if a specific need
-  comes up.
-
-> **Note on Jon's instinct:** Embers of the Primordial *are* the right Sovereign material, but buy the
-> two **Advice of Valks first** — they're unique and one-time, while Embers also drop from the LoML
-> bosses. Don't blow all 200 coins on Embers.
+  Origin, Rebellious Spirit Crystal, Atanis' Element) — buy only if a specific need comes up.
