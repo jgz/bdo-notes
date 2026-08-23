@@ -44,12 +44,14 @@ it's free leveling.
 - **If tagging a boss alt** (Witcheezy/Mysteezy are parked), turn on **"Travel Separately"** so it
   stays at its boss while still banking EXP.
 
-## The money-saver: wait for a copy-cost event
+## The money-saver: "featured class rotation" (the "on rotation" discount)
 
-Pearl Abyss regularly runs events that **cut Item Copy cost by 50% or down to 1 fuel (10M total)**.
-If Jon wants to copy his full Sovereign/Kharazad set onto a tagged alt, **do it during one of those
-events** — it's then nearly free. (Watch the events list / this pairs with the [enhancement](../gear/enhancement.md)
-event-watching habit.)
+Pearl Abyss runs a **rotating featured-class** discount ("Be the Class You Want" style) — classes
+cycle through with a **reduced Item-Copy cost**; at the strongest version it drops to **1 fuel (10M)**.
+That's what "on rotation" means. **Real data point (Jon, 2026-08-22):** with **Maegu on rotation**,
+copying his full Sovereign gear onto the tagged Witch cost **45 Marni's Fuel = 450M** (vs the ~1.5B
+range at full price). So: if copying onto a class, **wait for it to hit rotation** (ideally the 1-fuel
+event). Pairs with the [enhancement](../gear/enhancement.md) event-watching habit.
 
 ## Can't be copied
 

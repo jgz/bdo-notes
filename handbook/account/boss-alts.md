@@ -22,7 +22,7 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 |---|---|---|---|
 | **Mysteezy** | Mystic | **Uturi** (LoML world boss) | Moving up 2026-08-22 (next spawn); leaving there for the foreseeable future |
 | **WooJeezy** | Woosa | **Garmoth** | Staying put — keep for **Garmoth's Heart** |
-| **Witcheezy** | Witch | **Golden Pig King** (LoML world boss) | Relocated 2026-08-22 |
+| **Witcheezy** | Witch | **Golden Pig King** (LoML world boss) | Relocated 2026-08-22. **Tagged to Maegu** — full gear copied (450M, Maegu on rotation) + banks Maegu's combat EXP; **Travel Separately** keeps it parked at the boss. Playable on demand. → [tagging](tagging.md) |
 
 _(Building this out as Jon relocates each alt.)_
 
