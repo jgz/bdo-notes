@@ -41,7 +41,7 @@ naming convention (name → class, `-jeezy`/`-eezy` = variation of JGZ). Level a
 | Kuneezy | Kunoichi | 56 | Coastal Cliff | — | |
 | Lahneezy | Lahn | 61 | Velia | — | |
 | Doseezy | **Dosa** | 61 | Port Epheria | — | |
-| Scholeezy | Scholar | 59 | Polly's Forest | — | |
+| Scholeezy | Scholar | 59 | Polly's Forest | — | Former season char — **auto-graduated** during the 2-yr break (season end / 180-day inactivity); now a normal char, Tuvala converted |
 
 > **Roster completeness:** the character list scrolls; the above is everything visible through
 > Scholeezy. **Confirm whether any characters exist below Scholeezy** in the list.
