@@ -33,6 +33,16 @@ concrete goal:
   Origin armor on the main; Sovereign weapons via an optional short season run). Full plan →
   **[gear/hyperboost-plan.md](gear/hyperboost-plan.md)**. This over-gears her for Morning Light.
 
+### 💰 Resource priority (2026-08-22)
+
+**Maegu's gear comes first** — silver + shared mats (Caphras, Embers of the Primordial, black stones)
+go to finishing/enhancing her gear. **Anything to spare** funds **Shai** as a long back-burner
+(Blackstars → Sovereign Florang/Vitclari, and **banking Embers for the Primordial Artina Sol**).
+Note the **Ember constraint**: the one-time 100 (50 boss-token + 50 Olvia) went to Maegu's weapons;
+ongoing is only **~4/week** (bound, not on market), so a Primordial Sol is **~6 months** of saving →
+[artina-sol.md](gear/artina-sol.md). Do the Sol's **Sunset** step early (strong buff weapon); leave
+Primordial as the slow finish.
+
 **Life skills are PARKED.** Jon feels he over-invested in life skills already and wants a break from
 them. The [life-skill pages](lifeskills/overview.md) stay as a captured asset to come back to later —
 not a current priority.

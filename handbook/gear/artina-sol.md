@@ -48,16 +48,35 @@ the same farming feeds this (but also competes — see below).
 - **Flame of the Primordial** (Heating) = **Embers of the Primordial ×100** — **bound, not on CM.**
   Farm from **LoML world bosses** (seal → 50 Embers) + **Olvia Academy Coins** (→ 50).
 
-## Stockpile these two (overlaps with Maegu farming)
+## ⚠️ The real bottleneck: Embers of the Primordial (~6-month project)
 
-1. **10,000 Caphras** — Caphras is *the* universal sink (Maegu's armor + weapons already eat 10 per
-   crafted stone). Grinding **Olun's Valley** under **Agris Fever** covers all of it → [enhancement](enhancement.md).
-2. **100 Embers of the Primordial** — Jon's **LoML boss alts + Olvia coins** already farm these for
-   Maegu's Sovereign weapons, so they're accumulating — **but the Sol competes with the weapons for
-   the same Embers**, so budget for both.
+**Embers are the gate on the whole thing — Step 3 (Primordial) is a long back-burner.** Jon's
+ground-truth on the economy (2026-08-22):
+- The **one-time 100 Embers** — **50** from the Morning Light **boss-token exchange** (once per family)
+  + **50** from **Olvia Academy coins** — are **already spent finishing Maegu's Sovereign weapons.**
+- The **only ongoing source is ~4 Embers/week** bought with Morning Light boss tokens. **Not on the
+  Central Market** (bound).
+- So a *second* Flame (100 Embers) for the Sol is **~25 weeks ≈ 6 months** of the weekly trickle.
+
+**Decision: back-burner.** Just **save spare Embers over time** with the understanding they're
+earmarked for the Sol (after Maegu's needs). Silver/resource priority stays **Maegu's gear first**;
+spare resources go to **Shai** (her Blackstars → Sovereign Florang/Vitclari, and the banked Embers for
+the Sol).
+
+> **Verify (could shorten the timeline):** whether Jon's **LoML boss alts** (seals) or the **weekly
+> boss-subjugation quests** yield extra Embers / a **Flame of the Primordial** directly beyond the
+> 4/week — the earlier research hinted at a weekly-quest Flame source. If so, the Sol is faster than 6
+> months. Check in-game.
+
+## Caphras (the other input) — already being farmed
+
+**10,000 Caphras** for the Sunset Glow Crystal. Caphras is Jon's universal sink anyway (Maegu's armor
++ weapons) — grinding **Olun's Valley** under **Agris Fever** covers it → [enhancement](enhancement.md).
+Worth checking storage — he may have a Caphras pile banked from years back.
 
 ## "One night to knock it out"?
 
-Yes — **once you have the mats.** The exchange + two reforms are quick and guaranteed (an evening's
-work). The *long* part is gathering the **10k Caphras + 100 Embers** beforehand — that's the thing to
-start hoarding now and check what he already has.
+The **exchange + Sunset reform** could be a one-night job (once the Caphras is banked). But **Primordial
+is gated on ~6 months of Embers**, so realistically: do **Steps 1–2 (→ Sunset Artina Sol, +35 monster
+AP)** when convenient — that's already a strong buff-bot weapon — and treat **Step 3 (Primordial)** as
+the slow finish as Embers accumulate.
