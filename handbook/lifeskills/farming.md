@@ -50,6 +50,17 @@
 - **Klau's Old Moon Seed Pouch** (50-slot seed bag, once-per-family quest from Klau in Velia, Farming
   Apprentice 10): it's a **physical item Jon must move between characters** — park it on the farm-sitter.
 
+## What to bring (packing list — simpler than the old days)
+
+| Item | Notes |
+|---|---|
+| **Fences** | Finto's + Strong Fences (place on flat ground) |
+| **Magical seeds** | plant into the placed fences (each takes 5 plots) |
+| **Water** | **Purified Water** or **Distilled Water** (+15 growth, best); or buy **Mineral Water** (+5) from cooking/innkeeper vendors for convenience. Stand on the farm → **right-click** water to apply. |
+| ~~Fertilizer~~ | ⚠️ **REMOVED from the game (June 4, 2026 patch)** — Organic/Byproduct/Inorganic Fertilizer all deleted (their job was cutting growth time, now standardized). Holders were compensated with silver. **Don't bring/craft any — it no longer exists.** |
+
+That's the whole list now: **fences + magical seeds + water.**
+
 ## The daily loop
 
 1. Log the **farm-sitter alt** (already parked at the fences — no travel).
