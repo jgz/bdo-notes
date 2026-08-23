@@ -63,10 +63,16 @@ Dandelion/Blackstar awakening) **in Shai's inventory** and select it via the **"
   equip on Shai — the copy only covers **armor + accessories**. So unlike the Witch (who just uses
   Maegu's copied Sovereign weapons), **a combat Shai still needs her OWN weapon set, leveled
   separately.** Shai is the single exception to "copy gear, play any class."
-- **Mitigation:** you rarely gear Shai for combat anyway — she's a **support/buff/lifeskill** class
-  (party buffs via the Sol talent weapon, movement, gathering). For that (or just leveling
-  **Shaijeezy, 59**), the tag (shared EXP + copied armor/accessories) is plenty; only a combat-DPS
-  Shai would need the separate weapon investment, which is rarely worth it.
+- **Shai's weapons are a self-contained parallel progression** (nothing from Maegu feeds them):
+  **Florang** (main), **Vitclari** (offhand), and the **Sol / Artina Sol** (Talent/awakening weapon —
+  the party-buff piece). She gets **no Sovereign versions**: devs skipped a Blackstar/Sovereign
+  awakening for Shai because the Sol isn't marketable. Her endgame equivalent is the **Primordial
+  Artina Sol** (upgrade **Sunset Artina Sol → Primordial Artina Sol**, +35 Extra Monster AP). The Sol
+  is also **excluded from Jetina Guaranteed-PEN, tagging, and class exchange**.
+- **Jon's use case = group-grind buff-bot** (Shai is a wanted support in high-end grind groups —
+  party AP/accuracy/attack-speed buffs + okay AoE). Eventually worth it, not urgent. When he does it,
+  the tag hands Shai his **armor + accessories**, so it's **just the weapons** to build — a dedicated
+  Shai track (Florang/Vitclari + the Sol → Primordial Artina Sol), separate from Maegu's gear.
 
 ## Can't be copied
 
