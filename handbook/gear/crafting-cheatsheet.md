@@ -30,6 +30,12 @@ Recipe B is just Recipe A with an extra step — use A unless you have leftover 
 Both stones: **10× the materials + 1 Black Stone Powder** per batch → **10 stones at once.** Always
 mass-process; it's far faster than one at a time.
 
+**No mastery proc (fixed yield).** Unlike cooking/alchemy (where guru mastery procs bonus output),
+these enhancement-stone recipes are **fixed** — Processing Mastery does **not** give extra stones. A
+10-batch yields exactly 10. _(Strong understanding — if mastery procced free black stones it'd be a
+famous exploit, and it isn't. Easy self-check: if a 10-batch ever yields 11+, mastery is proccing.)_
+Jon's Master processing still helps elsewhere (intermediate mats, life-skill income), just not here.
+
 ## Where each sub-material comes from
 
 | Material | Used for | Where to get it | Buy on market? |
