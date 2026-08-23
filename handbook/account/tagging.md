@@ -72,7 +72,8 @@ Dandelion/Blackstar awakening) **in Shai's inventory** and select it via the **"
 - **Jon's use case = group-grind buff-bot** (Shai is a wanted support in high-end grind groups —
   party AP/accuracy/attack-speed buffs + okay AoE). Eventually worth it, not urgent. When he does it,
   the tag hands Shai his **armor + accessories**, so it's **just the weapons** to build — a dedicated
-  Shai track (Florang/Vitclari + the Sol → Primordial Artina Sol), separate from Maegu's gear.
+  Shai track (Florang/Vitclari + the Sol → Primordial Artina Sol), separate from Maegu's gear —
+  progression path from PEN Tuvala: [gear/shai-weapons.md](../gear/shai-weapons.md).
 
 ## Can't be copied
 
