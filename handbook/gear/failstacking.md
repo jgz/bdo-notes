@@ -36,7 +36,22 @@ protected fail still gives +1 and no downgrade). With ~100k Crons that means:
 Many shops sell Advice of Valks for coins/currencies (the **Olvia coin shop** had +200/+250; also
 loyalty/event/Pearl shops, Fughar, Challenge (Y) tab). Easy, no-skill top-up — watch for them.
 
-## Hand-building (the Reblath method) — optional for Jon
+## ⚠️ The pity changes what you can use as fodder
+
+**Modern pity-gear can't build big stacks** — you'd hit the guaranteed pity, which succeeds and resets
+your stack. This includes **Sovereign, Kharazad, Slumbering Origin, AND Blackstar** (Blackstar has its
+own Agris pity now — so it's *bad* fodder, not good; you'd also waste the weapon). On a pity item you
+can only add a **handful** of taps before the pity caps you (e.g. the ring: ~10–12 from its ~12 pity).
+
+**Fodder needs NO pity → that's Reblath.** Reblath armor has no pity and a capped low success rate, so
+it fails endlessly — it builds **up to ~250 stacks**. That's the one thing you can tap infinitely; you
+do **not** need Blackstar/boss gear. For **300+**, top up a ~250 Reblath stack with **Advice of Valks**.
+
+**Do you even need a huge stack?** On pity-gear, not really — the pity guarantees success within N
+fails regardless. A big pre-stack mainly **cuts how many expensive materials** (Essence of Dawn,
+Primordial Black Stones) you burn before it lands. It's efficiency, not a requirement.
+
+## Hand-building (the Reblath method) — the way to a big stack
 
 The classic cheap way to build a big stack without touching real gear:
 1. Buy cheap **Reblath Shoes** from **Tranan Underfoe (Velia)**.
@@ -45,8 +60,8 @@ The classic cheap way to build a big stack without touching real gear:
 4. On a success (+15), reset it and keep going.
 5. **Store the built stack in Naderr's Band** so a lucky success elsewhere doesn't waste it.
 
-**Optional for Jon** given the Cron surplus — but it's the way to bank a big stack cheaply before a
-precious weapon PEN tap. It's not complicated: fail cheap stuff → number goes up → spend it.
+It's **the** way to bank a big stack (up to ~250), since pity-gear can't build one. Not complicated:
+fail cheap Reblath → number goes up → store it → spend it on the real gear. Top up with Advice for 300+.
 
 ## ⭐ Pity + failstack swapping (the high-end trick)
 
