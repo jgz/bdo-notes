@@ -29,6 +29,21 @@ needs copying.
 - **"Travel Separately"** toggle — tagged characters can be in **different locations** (leave one at a
   boss alt / a second grind spot) instead of sharing a location.
 
+## Tag XP-sharing — free leveling for under-61 alts ✅ worth it
+
+Tagging isn't just for gear. **Combat + Skill EXP from monster kills is shared to the tagged
+character** — grind on Maegu and the tagged char banks the *same* EXP, claimed by swapping to it and
+pressing **"Get EXP"** in the Tag window. Since Jon grinds Maegu anyway (Caphras/mats/Morning Light),
+it's free leveling.
+
+- **One at a time** — only 2 chars tagged, so it levels one under-61 alt per stretch; re-tag the next
+  when done.
+- **Does NOT share:** AFK training-dummy leveling, life-skill combat EXP.
+- **Good candidates** (closest to 61): **Witcheezy (Witch, 58), Shaijeezy (Shai, 59), Scholeezy
+  (Scholar, 59)**; also Sorceezy/Kuneezy (56). Getting to 61–62 is quick; past ~63 slows.
+- **If tagging a boss alt** (Witcheezy/Mysteezy are parked), turn on **"Travel Separately"** so it
+  stays at its boss while still banking EXP.
+
 ## The money-saver: wait for a copy-cost event
 
 Pearl Abyss regularly runs events that **cut Item Copy cost by 50% or down to 1 fuel (10M total)**.
