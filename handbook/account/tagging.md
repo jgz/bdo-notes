@@ -6,10 +6,16 @@
 
 ## Why this matters for Jon
 
-His best gear is **character-bound** (Sovereign weapons, Kharazad accessories) — it **can't be moved**
-to another character via storage. So **tag + Item Copy is the only way to play a different class on
-his Maegu gear** without building a second set (impossible for the bound pieces). Useful given he has
-12 characters and might want to try other classes.
+**Only the Sovereign WEAPONS are character-bound** — stuck on Maegu, can't be moved via storage. His
+**armor + accessories (Kharazad, Fallen God's/Labreska/Dahn/Ator) are Family-bound** — he can just
+**bank them and pull them out on any character** (confirmed by Jon 2026-08-22). So to play another
+class on his Maegu gear he moves the armor/accessories via the bank, and handles **just the weapon**
+via one of:
+- a **Weapon Exchange Coupon** (moves the character-bound weapon to another character), or
+- the **tag system's Item Copy** (copies the weapon onto the tagged char).
+
+That's why the tag copy cost below is **weapon-based** — the weapon is the only piece that actually
+needs copying.
 
 ## Current mechanics (2026)
 
@@ -33,4 +39,4 @@ event-watching habit.)
 ## Can't be copied
 
 Jetina gear (unless PEN), Tuvala weapons after graduation, costumes, story-quest gear, rented CP gear.
-Sovereign / Kharazad are not excluded (copyable).
+Sovereign weapons are copyable (they're the point — armor/accessories move via bank anyway).

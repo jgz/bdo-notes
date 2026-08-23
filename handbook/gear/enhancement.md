@@ -1,7 +1,9 @@
 # Enhancing the Hyperboost gear — materials & plan
 
-> Last updated: 2026-08-22. Jon's Sovereign weapons + Fallen God's/Labreska/Dahn/Ator armor are
-> **character-bound** — no "buy the next tier, flip the old one." Self-enhance only. The *materials*,
+> Last updated: 2026-08-22. This gear can't be bought/sold on the market — the **Sovereign weapons are
+> character-bound** (stuck on Maegu), and the **armor + Kharazad accessories are Family-bound** (movable
+> between Jon's own characters via bank, but still not marketable). Either way: no "buy the next tier,
+> flip the old one" — **self-enhance only.** The *materials*,
 > though, are mostly marketable. Sourced from BDFoundry per-piece guides (all 2026-07-30 / 08-13),
 > cross-checked GrumpyG / BDO Codex / official wiki. **Note: unlike the Blackstar TET→PEN tap (which
 > had Obsidian-Hammer downgrade protection), this gear DEGRADES a level on failure** — so it's a real
