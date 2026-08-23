@@ -14,6 +14,22 @@ The Academy is a **temporary "semester," not a permanent weekly hub** ([BDFoundr
 - **While enrolled:** pick up **3 weekly quests/week** (bulletin board / NPC Cliff — Combat, Life Skill,
   or Visit) for Academy Coins. This is the only recurring coin income. Also Abyssal Echo + the free
   (slow) Academy cooking/alchemy tools.
+
+### Where the coins actually come from (they're front-loaded)
+
+Jon noticed the **cooking course quests don't drip coins like the combat course did** — correct, because
+coins live in **one-time** sources, not per-quest:
+
+| Source | Coins? | Notes |
+|---|---|---|
+| **Enrollment** | one-time lump | already collected |
+| **Course completion** | one-time lump per course | **Combat course is coin-heavy**; **life-skill courses (cooking/gathering/fishing) pay mostly life-skill EXP + knowledge** per step, smaller coin payout. This is why cooking feels dry. |
+| **3 weekly bulletin quests** | ✅ **recurring** | the steady coin stream after courses are done |
+| **Cliff's weekly quest** | ❌ (indirect) | gives an **Abyssal Echo** → boss (Olun's Golem / Urugon / Ulutuka) dropping **gear loot** (Gold Bars, Advice +60–100, Caphras), **not coins** |
+| **Graduation** | one-time **300** (+~300 bonus) | see below |
+
+**So once the courses are done, the weeklies ARE the coin source.** Exact per-course coin amounts aren't
+published in guides — structure is solid, numbers aren't. _(sourced 2026-08-23: BDFoundry, games.gg, official GM Notes)_
 - **Graduation LOCKS YOU OUT** of all of it — weeklies, Abyssal Echo, and the free tools all stop.
   Graduating is a one-time payout: **300 coins + Graduate title + knowledge**, plus a bonus **~300 coins**
   for attending the ceremony and typing **"Olvium Frontia!"** in general chat.
