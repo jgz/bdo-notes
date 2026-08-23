@@ -5,6 +5,21 @@
 > Jon starts with **PEN Tuvala** on her. Sourced: BDFoundry Shai guide + search (2026); **newest
 > Sovereign/Primordial specifics are thin on open guides — verify in-game / Shai Class Discord.**
 
+## Why the Artina Sol is "different" (the root cause)
+
+The Sol is a **"Talent" weapon** — a support *instrument* (Shai's party-buff songs/dances), unique to
+Shai; no other class has one. The single fact that drives all its quirks: **it's never on the Central
+Market** — it's **quest-obtained and account-bound**, not bought/crafted/traded. Every "normal weapon"
+system is built around marketable weapons, so they all skip the Sol:
+- **Tag copy** prices off weapon market value → no price → can't copy.
+- **Jetina Guaranteed-PEN** / **class exchange coupons** → standard-weapon systems → Sol excluded.
+- **No Sovereign** → Sovereign is crafted from (marketable) PEN Blackstar; the Sol lives outside that
+  economy, so devs gave it a **parallel track** (Sunset → Primordial Artina Sol) at the same power.
+
+Bottom line: every other class shares one weapon economy (market → boss → Blackstar → Sovereign, all
+tradeable/copyable); **Shai's Sol sits in its own sealed track** because it's a bound, non-marketable
+class instrument obtained only through Shai quests.
+
 ## Priority order for a buff-bot (you don't need max weapons)
 
 The support role wants the **Sol** (buffs) + "okay damage." A very achievable target:
