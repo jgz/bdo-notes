@@ -32,6 +32,34 @@ the material to stockpile above all else.
 > inputs (Primordial Crystals, Mass of Pure Magic, Caphras), NOT Crons.** Don't chase Primordial
 > Hammers; **melt any you get into 1,000 Crons each.**
 
+## Cron cost per enhancement level (reference)
+
+Crons consumed per **Enhance (Protected)** attempt (prevents the level-down on a fail). Verified
+2026-08-23, dual-sourced (BDFoundry / orbit-games / GrumpyG / official). `0→PRI` is always **0** (can't
+drop below base). **J's Hammer does not work on any of these** — Cron (or Primordial Hammer on weapons
+TRI+) only.
+
+| Step | **Weapons** (Sovereign) | **Armor** (Slumbering Origin) | **Accessories** (Kharazad) |
+|---|--:|--:|--:|
+| 0 → PRI | 0 | 0 | 0 |
+| PRI → DUO | 320 | 1,500 | 120 |
+| DUO → TRI | 560 | 2,100 | 280 |
+| TRI → TET | 780 | 2,700 | 540 |
+| **TET → PEN** | **970** | **4,000** | **840** |
+| PEN → HEX | 1,350 | — (PEN cap) | 1,090 |
+| HEX → SEP | 1,550 | — | 1,480 |
+| SEP → OCT | 2,250 | — | 1,880 |
+| OCT → NOV | 2,760 | — | 2,850 |
+| NOV → DEC | 3,920 | — | 3,650 |
+
+- **Armor is the Cron hog** — 3–4× the weapon cost per tier (PRI→DUO alone is 1,500 vs 320). Weapons
+  and Kharazad accessories are cheap by comparison.
+- **Accessories degrade (don't shatter)** on fail — Cron protects the level, same as the others.
+- Crystal-of-Origin items are an optional alternative to Cron on armor (PRI→DUO Desperate, DUO→TRI
+  Distorted, TRI→TET Silent) — lower-confidence mapping; Cron works at every step regardless.
+- **Jon's ~100k Crons in context:** taking each armor piece **to DUO** = 1,500/attempt (cheap);
+  **PEN-ing all 3 weapons** ≈ ~50k across the grind. He can protect everything and still have a pile.
+
 ## Armor — all four pieces, same system
 
 The four armor pieces share one enhancement system and one **Agris Essence pity pool**. Path:
@@ -69,8 +97,8 @@ Path: base → PRI → DUO → TRI → TET → **PEN** → HEX → SEP → OCT �
 - **Primordial Crystal** (the catalyst) — **marketable**; also Night Vendor (Patrigio) + a weekly
   world-boss quest (LoML/Seoul boss — where the boss alts help).
 - **Degrades on fail** (−20 max durability). Two ways to protect the level (**J's Hammer does NOT work**):
-  - **Cron (Enhance Protected)** — any level; still **builds failstack** on fail. PRI 320 / DUO 560 /
-    TET 970 / **PEN 1,350** Crons.
+  - **Cron (Enhance Protected)** — any level; still **builds failstack** on fail. Costs per level in
+    the [Cron cost table above](#cron-cost-per-enhancement-level-reference) (e.g. TET→PEN = 970).
   - **Primordial Hammer** — the Sovereign equivalent of the Obsidian Hammer; works **TRI+ only**,
     consumed per use, and **does NOT build failstack**. Melts into **1,000 Crons** via Heating if
     unused. Likely from the Olvia **"Choose Your Rare Hammer Box"** (90 coins) — verify.
