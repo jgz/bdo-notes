@@ -50,9 +50,17 @@ ongoing is only **~4/week** (bound, not on market), so a Primordial Sol is **~6 
 [artina-sol.md](gear/artina-sol.md). Do the Sol's **Sunset** step early (strong buff weapon); leave
 Primordial as the slow finish.
 
-**Life skills are PARKED.** Jon feels he over-invested in life skills already and wants a break from
-them. The [life-skill pages](lifeskills/overview.md) stay as a captured asset to come back to later —
-not a current priority.
+**Life skills — partially UN-PARKED (2026-08-23).** With the Maegu catch-up essentially done, Jon is
+re-opening life skills, but **selectively and on his terms** (not the old over-investment):
+- **Training = overnight/AFK skill.** Runs while he sleeps on the **Forest Path Wagon**, never stops,
+  not weight-gated. End goal: **T8 Coursers → T9 Dream Horses** toward the **Krogdalo T10 collection**
+  (already has Doomeezy T10 free + a T9 Arduanatt). Full plan → **[horse-training.md](lifeskills/horse-training.md)**.
+- **Cooking = active daytime skill.** Done in the background while he works from home; **gated by
+  Weight Limit** (he hasn't bought much weight), so it's a hands-on-during-the-day thing, not AFK.
+- **Fishing** — heavily done in the past; not a current focus.
+- **Fairy** ("Aloof Tink", Radiantly Shining Lv 31) is well-developed → [account/fairy.md](account/fairy.md).
+
+The broader [life-skill empire](lifeskills/overview.md) (CP/workers/nodes, guru-box loop) stays parked.
 
 ## Where Jon left off (last-active goals — Jon's recollection, 2026-08-21)
 
