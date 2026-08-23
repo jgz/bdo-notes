@@ -59,11 +59,14 @@ Shai's weapons (**Florang** main, **Vitclari** offhand, **Artina Sol** talent we
 and can't be copied — which used to block gear-copying Shai entirely. **Fixed 2024-01-10:** you can
 now gear-copy to/from Shai **if you put an awakening weapon from *any other* class** (a cheap
 Dandelion/Blackstar awakening) **in Shai's inventory** and select it via the **"+"** button during copy.
-- Copying to Shai gives her the **armor + accessories** (usable); **Shai still fights with her own
-  Florang/Vitclari** — you can't equip Maegu's Sovereign weapons on her, so the weapon copy is a
-  technicality.
-- **XP-only tagging works regardless** (never depended on weapons) — so to just level **Shaijeezy
-  (59)** like the Witch, tag and grind; add a spare awakening weapon only if you also want the gear copy.
+- **⚠ The copy does NOT give Shai usable weapons.** No other class's weapons (Sovereign included) can
+  equip on Shai — the copy only covers **armor + accessories**. So unlike the Witch (who just uses
+  Maegu's copied Sovereign weapons), **a combat Shai still needs her OWN weapon set, leveled
+  separately.** Shai is the single exception to "copy gear, play any class."
+- **Mitigation:** you rarely gear Shai for combat anyway — she's a **support/buff/lifeskill** class
+  (party buffs via the Sol talent weapon, movement, gathering). For that (or just leveling
+  **Shaijeezy, 59**), the tag (shared EXP + copied armor/accessories) is plenty; only a combat-DPS
+  Shai would need the separate weapon investment, which is rarely worth it.
 
 ## Can't be copied
 
