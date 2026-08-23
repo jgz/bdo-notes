@@ -24,6 +24,14 @@
 **The shared money sink is Caphras** — both crafted stones need **10 Caphras each**. So Caphras is
 the material to stockpile above all else.
 
+> 💰 **Jon has ~100,000 Cron Stones banked** (never enhanced combat gear in his life — 2026-08-23).
+> That's ~165–300B of value and it **removes downgrade risk from the entire progression.** **Cron-protect
+> every risky tap** — you never lose a level. On weapons, Cron even **builds failstack while
+> protecting** (strictly better than the Primordial Hammer for him). PEN-ing all 3 Sovereign weapons
+> is only ~50k Crons, so he's not remotely Cron-limited. **Real bottlenecks = the stones + their
+> inputs (Primordial Crystals, Mass of Pure Magic, Caphras), NOT Crons.** Don't chase Primordial
+> Hammers; **melt any you get into 1,000 Crons each.**
+
 ## Armor — all four pieces, same system
 
 The four armor pieces share one enhancement system and one **Agris Essence pity pool**. Path:

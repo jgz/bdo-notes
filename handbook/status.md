@@ -35,6 +35,10 @@ concrete goal:
 
 ### 💰 Resource priority (2026-08-22)
 
+**Big asset: ~100,000 Cron Stones banked** (2026-08-23, never enhanced combat gear) ≈ 165–300B value.
+Cron-protect every risky tap → **downgrade risk is off the table** for the whole gear grind; Crons are
+**not** a constraint. Real bottlenecks = enhancement stones + Caphras + Mass of Pure Magic + Embers.
+
 **Maegu's gear comes first** — silver + shared mats (Caphras, Embers of the Primordial, black stones)
 go to finishing/enhancing her gear. **Anything to spare** funds **Shai** as a long back-burner
 (Blackstars → Sovereign Florang/Vitclari, and **banking Embers for the Primordial Artina Sol**).
