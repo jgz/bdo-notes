@@ -53,6 +53,18 @@ copying his full Sovereign gear onto the tagged Witch cost **45 Marni's Fuel = 4
 range at full price). So: if copying onto a class, **wait for it to hit rotation** (ideally the 1-fuel
 event). Pairs with the [enhancement](../gear/enhancement.md) event-watching habit.
 
+## Shai — special case (FIXED 2024-01-10)
+
+Shai's weapons (**Florang** main, **Vitclari** offhand, **Artina Sol** talent weapon) are class-unique
+and can't be copied — which used to block gear-copying Shai entirely. **Fixed 2024-01-10:** you can
+now gear-copy to/from Shai **if you put an awakening weapon from *any other* class** (a cheap
+Dandelion/Blackstar awakening) **in Shai's inventory** and select it via the **"+"** button during copy.
+- Copying to Shai gives her the **armor + accessories** (usable); **Shai still fights with her own
+  Florang/Vitclari** — you can't equip Maegu's Sovereign weapons on her, so the weapon copy is a
+  technicality.
+- **XP-only tagging works regardless** (never depended on weapons) — so to just level **Shaijeezy
+  (59)** like the Witch, tag and grind; add a spare awakening weapon only if you also want the gear copy.
+
 ## Can't be copied
 
 Jetina gear (unless PEN), Tuvala weapons after graduation, costumes, story-quest gear, rented CP gear.
