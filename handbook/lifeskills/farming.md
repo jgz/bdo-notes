@@ -31,9 +31,11 @@
 - **Park a plain, GEARLESS alt at the farm.** Farming needs no life-skill/mastery gear — a naked alt
   harvests identically to a kitted one. Keeps Jon's good life gear free for his cooking main; no riding
   up on the life-skill alt each day.
-- **Which alt:** anything with a **reasonable energy pool** (farming actions cost energy from that
-  character's pool; a parked alt regenerates energy overnight — plenty for a daily magical-seed loop).
-  A decent **gathering level** on it is a minor energy-saver, not required.
+- **Which alt: literally any character, even a fresh one.** Energy MAX is **family-wide** (set by
+  Knowledge, not per-character progress) — all of Jon's characters cap at the **same ~327**. Each
+  character's *current* energy regenerates independently, and the once-a-day cadence keeps the sitter
+  topped up. Farming costs little energy per day, so 327 is plenty. (A higher **gathering level** on the
+  sitter slightly lowers per-action energy cost — negligible here, not worth caring about.)
 
 ## Fences (Jon's situation)
 
