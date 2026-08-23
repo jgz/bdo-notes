@@ -60,8 +60,14 @@ Path: base → PRI → DUO → TRI → TET → **PEN** → HEX → SEP → OCT �
 
 - **Primordial Crystal** (the catalyst) — **marketable**; also Night Vendor (Patrigio) + a weekly
   world-boss quest (LoML/Seoul boss — where the boss alts help).
-- **Degrades on fail** (−20 max durability). **Cron protects** the level: PRI 320 / DUO 560 / TET 970
-  / **PEN 1,350** Crons. **J's Hammer can't be used.** Agris pity also applies.
+- **Degrades on fail** (−20 max durability). Two ways to protect the level (**J's Hammer does NOT work**):
+  - **Cron (Enhance Protected)** — any level; still **builds failstack** on fail. PRI 320 / DUO 560 /
+    TET 970 / **PEN 1,350** Crons.
+  - **Primordial Hammer** — the Sovereign equivalent of the Obsidian Hammer; works **TRI+ only**,
+    consumed per use, and **does NOT build failstack**. Melts into **1,000 Crons** via Heating if
+    unused. Likely from the Olvia **"Choose Your Rare Hammer Box"** (90 coins) — verify.
+  - Use Cron below TRI and to keep stacks climbing toward TET→PEN; use hammers to save Crons at TRI+.
+  Agris pity also applies.
 - **TET→PEN base rate: 0.469% @ 0 FS → ~7.5% @ 150 FS.** So: **150+ failstacks + Crons**, or grind the
   Agris pity. Hardest normal step before the HEX–DEC endgame.
 

@@ -53,4 +53,7 @@ Everything else (Sharp Black Crystal Shard, Black Stone Powder) is cheap on the 
 
 - **Fails degrade the gear** (armor −1 level & **−30 max durability**; weapon −20) — repair max
   durability with **Memory Fragments** (use **Artisan's Memory** = ×5). See [enhancement.md](enhancement.md).
+- **Weapon fail-protection:** **Primordial Hammer** (Sovereign, TRI+, no FS gain) or **Cron** (any
+  level, builds FS: PRI 320/DUO 560/TET 970/PEN 1350). **J's Hammer does NOT work on Sovereign.**
+  A Primordial Hammer melts to 1,000 Crons. (Armor protection = **Crystal of Origin** items.)
 - Meta: take **armor to DUO** cheaply, revisit TRI+ later with Crons + high failstacks; TET→PEN is brutal.
