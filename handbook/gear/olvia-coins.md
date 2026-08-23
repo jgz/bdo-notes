@@ -10,12 +10,17 @@
 **Advice of Valks (+250)**, **Advice of Valks (+200)**, **Essence of Dawn**, **Embers of the Primordial.**
 The unique/one-time failstack buys are secured.
 
-## 🎯 Remaining targets — buy up to cap BEFORE graduating
+## 🎯 Remaining targets — all high-priority, grind weeklies while available
 
-⚠️ **Cap-reset is unconfirmed** — guides confirm **coins + owned items carry across semesters** and you
-can re-enroll for more coins, but **NOT whether the per-item purchase caps reset** on a new class.
-**Safe play: treat caps as lifetime and buy what you want this semester.** _Verify in-game: after
-re-enrolling next class, check if a capped item's counter went back to 0._
+**Purchase caps do NOT reset between semesters** (Jon, 2026-08-23). These are **one-time Family
+exchanges** — the Academy is a **one-time catch-up mechanic**, not a repeatable shop, so the limits
+behave like **season rewards** (don't refresh on re-enroll), not like a daily/event store. Coins and
+owned items carry over, but the caps are **lifetime**. You also **can't buy everything in a single
+semester** anyway — the coin volume is too high.
+
+**Plan:** everything left on the list is stuff Jon wants, so **buy highest-priority first** (below) and
+**do the 3 weeklies every week for as long as the Academy is available.** No need to hold coins — spend
+as they come, priciest-wanted items first.
 
 | Priority | Item | Cost / cap | Why (validated 2026-08-23) |
 |---|---|---|---|
