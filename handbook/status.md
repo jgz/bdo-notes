@@ -13,9 +13,12 @@ lopsided**:
 - **Strong life skills** (in-game 2026-08-21 → [lifeskills/overview.md](lifeskills/overview.md)):
   **Cooking Guru 1**, **Fishing Master 21**, **Processing Master 8**, Farming/Training/Hunting at
   Artisan, Gathering Professional 8. Alchemy/trading/sailing/barter are the undeveloped tail.
-- **Mid-tier combat gear** ([gear-maegu.md](account/gear-maegu.md), Garmoth 2026-08-21): **Maegu at
-  AP 281 / AAP 274 / DP 342, GS 628** — PEN weapons + PEN body armor, but **TET awakening/sub/gloves,
-  leftover PEN Tuvala shoes, and mostly free Capotia accessories.** Accessories are the weak axis.
+- **Endgame combat gear, now enhancing** ([gear-maegu.md](account/gear-maegu.md), Garmoth 2026-08-23):
+  **Maegu at AP 348 / AAP 341 / DP 410, GS 754**, DR 488, Crit 43%. Full Hyperboost kit (Fiery
+  Sovereign weapons, DR Slumbering Origin armor, Kharazad accessories) — armor at **DUO**, sub **TRI**,
+  Kharazad **HEX/SEP**. The remaining DP gain comes from pushing armor to TET/PEN.
+- **Gear build value ~499.6B** (Garmoth estimate, 2026-08-23, up from ~236.4B) — the worth of the gear,
+  **not** liquid silver.
 - **CP / workers / nodes / liquid silver** not yet captured — see "What's still open."
 
 _Life-skill and gear numbers are from screenshots (2026-08-21), archived in

@@ -1,8 +1,9 @@
 # Gear: Maegu (main)
 
-> Snapshot **2026-08-21** from Jon's Garmoth planner screenshot
-> ([evidence](../../research/account/2026-08-21-maegu-garmoth-gear.png) · planner:
-> https://garmoth.com/character/d690GifdPi). `V` = PEN (+5 / cap), `IV` = TET (+4).
+> Snapshot **2026-08-23** from Jon's Garmoth planner screenshot
+> ([evidence](../../research/account/2026-08-23-maegu-garmoth-gear.png) · planner:
+> https://garmoth.com/character/d690GifdPi). `VII` = SEP, `VI` = HEX, `V` = PEN, `IV` = TET,
+> `III` = TRI, `II` = DUO.
 > Enhancement reads straight off the screenshot; anything about *current meta* (breakpoints, what
 > to upgrade first) is flagged for research — don't treat it as settled (see [`AGENTS.md`](../../AGENTS.md)).
 
@@ -15,27 +16,28 @@
 | Level | **62** |
 | Region | NA (PC) |
 
-## Combat stats (per Garmoth, 2026-08-21)
+## Combat stats (per Garmoth, 2026-08-23)
 
-> **Enhancing round 1 (2026-08-23):** **AP 335, AAP 334, DP 386, GS 736, DR 470** (build value ~348B).
-> Armor at **PRI**, weapons at **DUO**, Kharazad accessories V–VII. Big DP jump (352→386) as the new
-> armor enhances — more to come.
+> **Enhancing round 2 (2026-08-23):** **AP 348, AAP 341, DP 410, GS 754**, DR **488**, Crit **43%**,
+> Accuracy **1037**. Armor all at **DUO**, sub-weapon **TRI**, Kharazad up to **HEX/SEP**. DP climbed
+> 386 → 410 as the armor moved PRI → DUO; still headroom toward the ~427 the Garmoth path projected.
+>
+> **Round 1 (2026-08-23, earlier / stale capture):** AP 335, AAP 334, DP 386, GS 736, DR 470 — armor
+> PRI, weapons DUO, Kharazad V. _(This was the low snapshot Jon flagged; the numbers above are current.)_
 >
 > **Recaptured 2026-08-22 — full Hyperboost gear done** (PEN Kharazad + Fiery Sovereign weapons + the
-> DR armor set). **AP 281 → 328, DP 342 → 352, GS 628 → 714**, Crit Dmg **16% → 43%**, DR **367 → 452**.
-> **DP is still low because the new armor is at base enhancement** — it climbs a lot as he enhances it
-> to TET/PEN (that's the remaining DP gain toward the ~427 the Garmoth path projected).
+> DR armor set). AP 281 → 328, DP 342 → 352, GS 628 → 714, Crit Dmg 16% → 43%, DR 367 → 452.
 
-| Stat | 08-21 → weapons/accs → **+armor (now)** |
+| Stat | 08-21 → 08-22 → 08-23 r1 → **now (08-23 r2)** |
 |---|---|
-| **AP** | 281 → 328 → **328** |
-| **Awakening AP (AAP)** | 274 → 328 → **328** |
-| **DP** | 342 → 352 → **352** (base armor — will climb with enhancement) |
-| **Gearscore (GS)** | 628 → 680 → **714** |
-| All Accuracy | 928 → 1001 → **1003** |
+| **AP** | 281 → 328 → 335 → **348** |
+| **Awakening AP (AAP)** | 274 → 328 → 334 → **341** |
+| **DP** | 342 → 352 → 386 → **410** ⬆ (armor PRI→DUO) |
+| **Gearscore (GS)** | 628 → 714 → 736 → **754** |
+| All Accuracy | 928 → 1003 → — → **1037** |
 | Critical Hit Damage | +16% → **+43%** |
-| **Damage Reduction** (M/R/M) | 367 → 376 → **452** ⬆ (DR armor) |
-| Evasion (M/R/M) | 903 → 918 → **909** (chose DR over evasion) |
+| **Damage Reduction** (M/R/M) | 367 → 452 → 470 → **488** ⬆ |
+| Evasion (M/R/M) | 903 → 909 → — → **932** |
 | CC resist (Stun/Grab/KB/Float) | 35% → **45%** |
 
 ## Gear
@@ -43,9 +45,9 @@
 ### Weapons
 | Slot | Item | Enh. |
 |---|---|---|
-| Primary (Charm) | **Fiery Sovereign Foxspirit Charm** | (recapture) |
-| Awakening (Fans) | **Fiery Sovereign Foxtail Fans** | (recapture) |
-| Sub-weapon (Binyeo Knife) | **Sovereign Binyeo Knife** | (recapture) |
+| Primary (Charm) | **Fiery Sovereign Foxspirit Charm** | **PEN (V)** |
+| Awakening (Fans) | **Fiery Sovereign Foxtail Fans** | (numeral not legible in shot — confirm) |
+| Sub-weapon (Binyeo Knife) | **Sovereign Binyeo Knife** | **TRI (III)** |
 
 _All three converted to **Sovereign** via Hyperboost (2026-08-22). **"Fiery"** = an **Inverted Heart of
 Garmoth** applied to main + awakening (the +2 crystal sockets / AP / crit placement); sub left plain
@@ -54,10 +56,10 @@ for a future 3rd heart. **Reforge slots (5 each) not yet filled** → [reforge-s
 ### Armor
 | Slot | Item | Enh. |
 |---|---|---|
-| Helmet | **Labreska's Helmet** | base — enhance (DR variant) |
-| Chest | **Fallen God's Armor** | base — enhance (DR variant) |
-| Gloves | **Dahn's Gloves** | base — enhance (DR variant) |
-| Shoes | **Ator's Shoes** | base — enhance (DR variant) |
+| Helmet | **Labreska's Helmet** | **DUO (II)** (DR variant) |
+| Chest | **Fallen God's Armor** | **DUO (II)** (DR variant) |
+| Gloves | **Dahn's Gloves** | **DUO (II)** (DR variant) |
+| Shoes | **Ator's Shoes** | **DUO (II)** (DR variant) |
 
 _Armor upgraded 2026-08-22 (Hyperboost) — replaced the old PEN Griffon / Red Nose / Bheg / Tuvala set.
 Took the **DR (Damage Reduction) variants** ([why](../combat/maegu-build.md#defense-evasion-vs-dr--build-dr-2026-08-22)).
@@ -66,16 +68,17 @@ Took the **DR (Damage Reduction) variants** ([why](../combat/maegu-build.md#defe
 ### Accessories
 | Slot | Item | Enh. |
 |---|---|---|
-| Ring 1 | **Kharazad Ring** | PEN (V) |
-| Ring 2 | **Kharazad Ring** | PEN (V) |
-| Earring 1 | **Kharazad Earring** | PEN (V) |
-| Earring 2 | **Kharazad Earring** | PEN (V) |
-| Necklace | **Kharazad Necklace** | PEN (V) |
-| Belt | **Kharazad Belt** | PEN (V) |
+| Ring 1 | **Kharazad Ring** | HEX (VI) |
+| Ring 2 | **Kharazad Ring** | HEX (VI) |
+| Earring 1 | **Kharazad Earring** | HEX (VI) |
+| Earring 2 | **Kharazad Earring** | HEX (VI) |
+| Necklace | **Kharazad Necklace** | SEP (VII) |
+| Belt | **Kharazad Belt** | HEX (VI) |
 | Spirit Stone | **Destruction Spirit Stone** | — |
 
 _(Full PEN Kharazad set completed 2026-08-22 via the Hyperboost family quests — replaced the old
-Capotia set + Crescent ring + Bronte's Bolt.)_
+Capotia set + Crescent ring + Bronte's Bolt. Enhanced past PEN since: **all HEX except the SEP
+necklace** as of 2026-08-23.)_
 
 ### Artifacts & lightstones
 | Artifact | Lightstones |
@@ -110,5 +113,7 @@ Crystal of Crimson Flame – Power · 2× Black Magic Crystal – Addis · 2× D
 
 ## Value note
 
-Garmoth's silver figure is now **~236.4B** (~30B on 2026-08-21) — the **estimated build value** after
-the full Hyperboost gear, **not liquid silver.** Jon's actual liquid silver is still TO CAPTURE.
+- **Build value (Garmoth's estimate): ~499.6B** (499,577,585,917) as of **2026-08-23**, up from ~236.4B
+  after the initial Hyperboost gear. This is the *estimated worth of the gear* (the coin figure on the
+  Garmoth screen), **not liquid silver** — it climbs as the gear enhances.
+- **Liquid silver: still TO CAPTURE** — Jon's actual spendable wallet hasn't been screenshotted yet.
