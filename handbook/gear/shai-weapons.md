@@ -33,20 +33,11 @@ chase, not a requirement.
 2. **Artina Sol → Sunset Artina Sol → Primordial Artina Sol** (endgame, +35 Extra Monster AP).
    _Upgrade mats for the Sunset/Primordial steps not well-documented on open guides — verify._
 
-## Main hand — Florang
+## Main hand (Florang) + Offhand (Vitclari) — STANDARD (confirmed by Jon 2026-08-22)
 
-1. **PEN Tuvala Florang → Kzarka Florang** (boss weapon; or Offin Tett Florang = more monster AP,
-   less accuracy).
-2. **→ Blackstar Florang** — BiS PvE (even TET Blackstar > PEN Kzarka in PvE via monster damage).
-3. **→ Sovereign Florang** *if* pushing endgame — **verify Shai has a Sovereign main** (her awakening
-   does NOT — uses Primordial Artina Sol instead).
-
-## Offhand — Vitclari
-
-1. **PEN Tuvala Vitclari → Kutum Vitclari** (get first — monster AP + accuracy, ideal for grind
-   groups). Nouver = PvP option.
-2. Blackstar Vitclari optional; BDFoundry says a Blackstar offhand usually isn't worth it — **Kutum is
-   the keeper.**
+These are **normal weapons** — same path as every other class, **combine two PEN Blackstars → the
+Sovereign version.** So Florang and Vitclari go **Tuvala → boss (Kzarka/Kutum) → Blackstar → Sovereign**
+just like Maegu's weapons, and they *can* be tagged/copied/exchanged. **Only the Sol is the exception.**
 
 ## Caveats
 
