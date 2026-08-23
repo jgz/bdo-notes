@@ -12,9 +12,10 @@
 1. **Doomeezy (T10 Mythical) is NOT your wagon "carry."** A max-level horse on a wagon **wastes a
    slot** — wagon Mount EXP is **split across the hitched horses**, so a finished horse just absorbs a
    share that should go to one that still needs levels (BDFoundry: *"max-level horses don't accelerate
-   others' progression"*). On top of that, guides uniformly say **never wagon-train Dream/Mythical
-   horses** (wagons nullify horse-costume/Krogdalo set effects). So Doomeezy stays a personal mount —
-   he's never on a training team.
+   others' progression"*). **A fully-skilled horse does NOT teach its skills to teammates** — that's a
+   myth; **skills are learned individually, per horse, by RNG on level-up**, never shared on a wagon or
+   in a stable. On top of that, guides uniformly say **never wagon-train Dream/Mythical horses** (wagons
+   nullify horse-costume/Krogdalo set effects). So Doomeezy stays a personal mount — never on a team.
 2. **T8 → T9 is ONE courser, not two.** You don't combine two coursers for a Dream Horse. You awaken a
    single trained courser **repeatedly** (it survives failures). The "two same-type horses" rule is
    only the **T9 → T10 Mythical** step.
@@ -28,7 +29,11 @@
 - **Skill learning:** each level-up is a *chance* to learn a mount skill. Your **Training life-skill
   level raises that chance** — at **Training Guru 20 it's ~100%** (a skill almost every level). This is
   why **courser hunting is done SOLO** (you want every level to roll a skill toward the 7 courser
-  skills).
+  skills). **Skills are per-horse and RNG — not shared between horses.**
+- **⚠️ A horse's skill ceiling is fixed AT BIRTH.** The Skill-XP each foal earns per level is rolled
+  when it's born, so a **low-roll foal literally can't learn all 7 courser skills** no matter how you
+  train it. Courser hunting is partly luck — level candidates solo, keep the good rolls, **Imperial-
+  Deliver the duds**.
 - **Training Mastery** (from gear) boosts wild-capture rate, mount EXP, and — critically — **breeding /
   exchange tier chances** (higher mastery = T8 foals from T8 parents at lower combined parent levels).
 
