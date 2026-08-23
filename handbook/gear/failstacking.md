@@ -48,6 +48,25 @@ The classic cheap way to build a big stack without touching real gear:
 **Optional for Jon** given the Cron surplus — but it's the way to bank a big stack cheaply before a
 precious weapon PEN tap. It's not complicated: fail cheap stuff → number goes up → spend it.
 
+## ⭐ Pity + failstack swapping (the high-end trick)
+
+Because the **pity is deterministic** (guaranteed success at the threshold, e.g. Kharazad PEN→HEX at
+12 fails) and **failstacks are only consumed on a success**, the failstack on a guaranteed pity tap is
+**wasted**. So near the pity, **swap your high stack out for a cheap throwaway** and let the pity carry
+it — preserving the good stack for the next real gamble.
+
+- The **pity counter lives on the ITEM, not the failstack** — swapping failstacks does NOT reset your
+  progress toward pity.
+- **Play:** at (say) 11/12, store your high stack (failstack inventory / Naderr's Band), set a cheap
+  stack (+30) active, and finish the enhancement on that cheap stack. Reload the high stack afterward.
+- You only "lose" one more fail's cost (1 Essence of Dawn + Crons) that you were spending anyway — and
+  you save a stack that took real effort to build.
+- **This is standard high-end practice** — "failstack management around the pity": dump cheap stacks
+  into guaranteed/near-guaranteed taps, save big stacks for the true coin-flips.
+- _Real case (2026-08-23): Jon's PEN Kharazad ring → HEX, 11 fails from a 160 stack (all PEN Primordial
+  Hammers + ~8k Crons gone). At 11/12 he swapped the 170 stack out, took the pity on a cheap stack, and
+  kept the 170. Correct call._
+
 ## Bottom line
 
 The thing that scared you off enhancement is mostly solved by your Cron pile: **protect-tap and let
