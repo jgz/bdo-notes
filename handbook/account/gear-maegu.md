@@ -46,12 +46,16 @@
 | Slot | Item | Enh. |
 |---|---|---|
 | Primary (Charm) | **Fiery Sovereign Foxspirit Charm** | **PEN (V)** |
-| Awakening (Fans) | **Fiery Sovereign Foxtail Fans** | (numeral not legible in shot — confirm) |
+| Awakening (Fans) | **Fiery Sovereign Foxtail Fans** | **base — intentionally not enhanced** |
 | Sub-weapon (Binyeo Knife) | **Sovereign Binyeo Knife** | **TRI (III)** |
 
 _All three converted to **Sovereign** via Hyperboost (2026-08-22). **"Fiery"** = an **Inverted Heart of
 Garmoth** applied to main + awakening (the +2 crystal sockets / AP / crit placement); sub left plain
 for a future 3rd heart. **Reforge slots (5 each) not yet filled** → [reforge-stones](../gear/reforge-stones.md)._
+
+> ⚔️ **Jon plays Succession** — the awakening **Foxtail Fans do nothing for him**, so they're left at
+> **base on purpose.** Don't flag them as an upgrade gap and don't spend Primordial stones on them; only
+> the **Charm (main)** and **Binyeo (sub)** matter for the Succession weapon grind.
 
 ### Armor
 | Slot | Item | Enh. |
