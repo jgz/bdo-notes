@@ -18,6 +18,12 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
       mirror. Heart comes back undestroyed; sell/bank it (Sovereign uses the new Reforge Stones
       instead). ⏱ time-sensitive — do before the awakening combine. _(added 2026-08-22)_
 
+- [ ] **Grab "Operation Level-Up" support before Aug 27** — the leveling-boost event that backs the new
+      Heidel Ball 2026 EXP overhaul. Free help toward the newly-achievable 70 cap → [leveling](combat/leveling.md). _(added 2026-08-23)_
+- [ ] **Oct 7, 2026 — level cap → 75 + EXP overhaul** — hunting-ground EXP rates change that day, so
+      don't lock in a leveling schedule before it. Levels 70–75 give **family-wide +Monster AP/DR** worth
+      chasing → [leveling](combat/leveling.md). _(added 2026-08-23)_
+
 ## Done
 
 _(nothing yet)_

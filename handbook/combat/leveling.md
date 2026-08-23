@@ -1,49 +1,56 @@
-# Character leveling past 62 — is it worth it?
+# Character leveling & the 2026 cap overhaul — now worth doing
 
-> Last updated: 2026-08-23. Jon's question on returning: did the level cap go up, and should he push
-> Maegu past 62? Short answer: **no cap change, and don't actively grind past 62.** Sourced below.
+> Last updated: 2026-08-23. **Reverses an earlier draft of this note.** BDO's leveling was completely
+> overhauled at **Heidel Ball 2026** (announced ~July): a real level cap now exists, the EXP curve was
+> slashed so leveling is achievable, and **levels 70–75 give family-wide monster buffs.** For Jon this
+> flips leveling from "don't bother" to **a real goal.** Sourced below.
 
-## No hard cap — and 62 is still "the" level
+## The overhaul (two stages)
 
-BDO **has no hard level cap** and never really did. What players call the cap is a **soft cap**: XP
-requirements balloon exponentially until further levels feel impossible. The highest level anyone has
-reached is around **67**, after *years* of grinding. So the "65 was the cap" memory was always the
-soft wall, not a real ceiling — and **nothing changed on this front** while Jon was away. Any recent
-"level cap" news was not an actual cap increase. **62 remains the practical played-character level**,
-exactly as before.
+| Date | Change |
+|---|---|
+| **Aug 12, 2026** (done) | Level cap set to **70** (first-ever hard cap) |
+| **Oct 7, 2026** | Cap raised to **75** + **full EXP structure overhaul** + adjusted hunting-ground EXP |
 
-## The XP wall (why 61→62 was brutal, and 63 is worse)
+Before this there was no hard cap, just a brutal soft wall (62→63 ≈ **5 trillion** XP — effectively
+impossible for normal players). That wall is being **removed**: the new rates make the climb realistic.
 
-Combat XP roughly **doubles every level** up here ([GrumpyG leveling guide](https://grumpygreen.cricket/bdo-leveling-guide/)):
+## Levels 70–75: family-wide monster buffs ⭐
 
-| Level up | Combat XP needed |
-|---|--:|
-| 62 → 63 | ~5.05 **trillion** |
-| 63 → 64 | ~10.09 **trillion** |
+Each level from **70 to 75** grants **+3 Extra AP Against Monsters** and **+3 Monster Damage
+Reduction** — and these apply **account-wide to every Family/tagged character**, not just the earner.
+Full climb 70→75 ≈ **+15 Monster AP / +15 Monster DR account-wide** (some sources frame it as +18 if
+hitting 70 itself grants the first +3). This is a **permanent PvE power boost to the whole roster** —
+the reason it's now worth chasing.
 
-62→63 alone is more XP than the entire climb to 62.
+## Leveling is now achievable (the key change)
 
-## What you actually get per level (hidden stats)
+- New rate: **~2 months at ~2h/day to reach 75** (from a much lower start) — so **62 → 70 is realistic
+  in weeks**, not a fantasy.
+- At **70+ you gain ~1 level/month from weekly/PvP content alone** — Node Wars, Black Shrine, Guild
+  Bosses, Arena of Solare, Guild League — even grinding **zero** monsters.
+- Season + Olvia Academy now lands a fresh character around **~730 GS** as catch-up.
 
-Leveling past 60 grants small **hidden stat** bonuses, not ability unlocks:
+## Hidden per-level stats (unchanged mechanic)
 
-- **Most AP classes (incl. Maegu) gain hidden AP on ODD levels** — 61, 63, 65, 67…
-- **Shai** gains hers on **even** levels; a few classes (e.g. Wizard) every third level.
-- So Maegu's **next stat bump is at 63** (odd). Level **62 being even** is why it felt like a "dead"
-  level statwise — the ability/stat payoff Jon half-remembers at 62 was likely the *awakening/skill*
-  context, not a level-62 stat gain.
+Leveling past 60 still grants small **hidden stats**: most AP classes (incl. **Maegu**) gain hidden AP
+on **odd** levels (61, 63, 65…); Shai on even; a few classes every third. Small vs a gear enhancement,
+but real. The **new** account-wide 70–75 monster buffs are the meaningful prize, not the hidden AP.
 
-The per-level hidden AP is **small** — it does **not** jump you an [AP bracket](https://grumpygreen.cricket/bdo-ap-brackets/)
-on its own the way a gear enhancement does.
+## Players already above 70
 
-## Verdict for Jon (PvE / content focus)
+Per the official NA/EU recap + guides: adventurers at **70–72 before Aug 12 kept their levels** and got
+a **special commemorative title** — they were **not** reverted. _(Jon recalled a revert-to-70; the
+authoritative NA/EU sources say preserved+titled. Possible a higher-level or KR-server case differed —
+low-confidence on the revert story; the "kept + title" version is the sourced one.)_
 
-**Don't actively grind levels.** The ~5 trillion XP for 62→63 is worth far more poured into **gear**
-(AP/DP brackets dominate the tiny hidden per-level AP). Deliberately pushing 63+ is a hardcap-PvP
-min-maxer move, not worth it for enhancing gear + playing Land of the Morning Light Part 2.
+## Verdict for Jon
 
-**Instead: let 63 come passively** while grinding content and mobs. That's the correct way to pick it
-up — no dedicated leveling sessions.
+**Leveling toward 70 is now a legitimate goal**, unlike the pre-overhaul situation. The family-wide
++Monster AP/DR benefits the entire account permanently, and the new EXP rates make 62→70 reachable
+just by playing content (LoML Part 2 grinding counts). Don't build a rigid schedule yet — the **Oct 7
+overhaul changes hunting-ground EXP**, so grinding advice will shift. Grab **Operation Level-Up**
+support **before Aug 27**.
 
-_Sources: GrumpyG (leveling guide, AP brackets), iGV (highest level), NA/EU official forum feedback
-thread on levelling past 62. Fetched 2026-08-23._
+_Sources: BDFoundry Heidel Ball 2026 notes, GameMarket.gg (cap 70 article), official NA/EU GM Notes
+"Heidel Ball 2026 Recap", Inven Global. Fetched 2026-08-23._
