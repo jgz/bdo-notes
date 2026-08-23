@@ -69,8 +69,11 @@ agent-consumable.
 
 ## Slice roadmap (vertical, TDD, one PR each)
 
-- **S0** — bootstrap: create private `bdo-cmd`, Poetry src-layout, Typer skeleton, ruff/pytest, output
-  contract, config (region=NA), AWK install.
+- **S0** — bootstrap ✅ **DONE (2026-08-23)** → **[github.com/jgz/bdo-cmd](https://github.com/jgz/bdo-cmd)**
+  (private). Poetry src-layout, Typer skeleton, 3-layer dirs, output contract, config (NA), exceptions,
+  baseline tests (ruff+pytest green), `.claude/` agents+skills + `.awk-cmd.json` + AGENTS.md, AWK tooling
+  group wired to CodeArtifact. Issues #1 (agent-ready) … #5 filed. **Remaining Jon step:** `poetry
+  install` with CodeArtifact creds → run `awk-install` skill → start the repo-manager on issue #1.
 - **S1** — market client + `market price <item>` → JSON. *Proves API access + agent contract.*
 - **S2** — item-ID map + `market search <name>`.
 - **S3** — enhance data (curves/pity/cron → `data/game/`) + `enhance cost` / `optimal-fs` (TDD,
