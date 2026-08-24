@@ -38,10 +38,18 @@ of the same recipe; either makes a standard Balenos Meal.)_
 | Sub-component | Recipe (raw inputs) |
 |---|---|
 | **Cheese Gratin** (9203) | 5 Wheat Dough (7201) · 4 Cabbage (7318) · 1 Grilled Sausage (9427) · 3 Cheese (9062) · 3 Red Sauce (9004) |
-| **Meat Croquette** (9404) | 8 Pork (7905) · 5 Wheat Flour (7101) · 2 Cheese (9062) · 2 Egg (9064) · 4 Deep Frying Oil (9016) |
-| **Smoked Fish Steak** (9417) | 1 Mudskipper (8201) · 2 Salt (9001) · 1 Olive Oil (9015) |
+| **Meat Croquette** (9404) | **8 Meat** (any, see below) · 5 Wheat Flour (7101) · 2 Cheese (9062) · 2 Egg (9064) · 4 Deep Frying Oil (9016) |
+| **Smoked Fish Steak** (9417) | **1 Fish** (any, see below) · 2 Salt (9001) · 1 Olive Oil (9015) |
 | **Stir-Fried Vegetables** (9241) | 5 Cabbage (7318) · 2 Olive Oil (9015) · 2 Hot Pepper (7305) · 1 Salt (9001) |
 | **Beer** (9213) | 5 Wheat (7001) · 6 Mineral Water (9059) · 2 Leavening Agent (9005) · 1 Sugar (9002) |
+
+**Meat & fish are substitution groups — buy the cheapest.** The recipe count is **fixed** (8 meat /
+1 fish); only the *type* varies (verified in-game 2026-08-24 — the "Select Material" popup shows all
+meats at `8×`, prices only). Cheapest wins. Meat options seen: Weasel (26,300) · Rhino (27,600) · Pork
+(28,600) · Beef (28,600) · Bear (29,100) · Lamb (29,400) · Wolf (31,000) · Deer (31,100) · Fox (31,900)
+· Raccoon (33,400). Fish is an even longer list (fish count assumed constant at 1× — verify off a fish
+screenshot if it matters). **Jon's workflow:** keep **standing buy orders on several meats + fish at
+once** (the CM caps per-order quantity), pull filled stock from the market warehouse when cooking.
 
 ### Crafted intermediates (cook these *before* the sub-components)
 
@@ -56,19 +64,21 @@ of the same recipe; either makes a standard Balenos Meal.)_
 
 | Source | Items |
 |---|---|
-| 🏭 **Workers** (his empire) | Wheat (7001), Cabbage (7318), Egg (9064), Mudskipper (8201) |
+| 🏭 **Workers** (his empire) | Wheat (7001), Cabbage (7318), Egg (9064), Fish (worker/coastal nodes) |
 | 🌾 **Farmed** (his crop plots) | **Hot Pepper (7305)**, **Onion (7303)** |
-| 💰 **Bought — meat** | **Pork (7905)** — his one recurring market buy (~28.6k) |
-| 🥛 **Milk (9065)** | Not node-gatherable → **buy Cheese (9062) direct at 14k instead of Milk at 23k** (cheaper than making it), or milk cows. See cost note below. |
+| 💰 **Bought — meat + fish** | **Cheapest of the meat group** (~26–33k) + **fish** — standing buy orders on several types, pulled from warehouse. His main recurring silver cost. |
+| 🥛 **Milk (9065) → Cheese** | **Free.** Jon takes **Milk as the daily Imperial Delivery quest reward** and has a **25,000+ stockpile** → make Cheese from his own milk (do **not** buy Cheese). |
 | 🏪 **Vendor** (cooking NPC, ~trivial) | Salt (9001), Pepper (7301), Sugar (9002), Leavening Agent (9005), Mineral Water (9059), Olive Oil (9015), Deep Frying Oil (9016), Red Sauce (9004 — also on CM ~9.25k), Heavy Duty Packaging Cord (8198) |
 
 ## Cost notes (from the 2026-08-24 price pull)
 
-- **Pork is ~90% of the real silver cost.** Per meal you burn **14 Pork** (8 in Croquette + 6 in
-  Sausage) ≈ 400k at market — everything else Jon self-supplies or buys from a vendor for pennies. The
-  loop's margin *is* "workers/farm cover the rest; I only pay for meat."
-- **Buy Cheese, don't make it.** Cheese (14k) < its own Milk (23.3k). Making Cheese from Milk loses ~9k
-  each. Only make it if milking cows yourself.
+- **Meat is the one real silver cost.** Per meal you burn **14 meat** (8 in Croquette + 6 in Sausage) —
+  everything else Jon self-supplies or buys from a vendor for pennies. Buy the **cheapest of the meat
+  group** (Weasel ~26.3k beats Pork ~28.6k), via standing buy orders. Fish (1/meal) is trivial by
+  comparison. The loop's margin *is* "workers/farm cover the rest; I only pay for meat."
+- **Make Cheese from your milk stockpile — it's free.** Jon banks Milk daily from the Imperial quest
+  (25k+ on hand), so making Cheese costs nothing. _(Buying Cheese at 14k only beats buying Milk at 23k —
+  irrelevant when the milk is free. Don't buy either.)_
 - **Grind your own flour/dough.** Wheat Flour and Wheat Dough both sell at **4,190** vs Wheat at
   **2,410** — from worker wheat, grinding/shaking is ~free and roughly halves the cost vs buying dough.
   If you must buy, buy **Flour**, not Wheat+grind (same price, saves the step).
@@ -81,7 +91,7 @@ of the same recipe; either makes a standard Balenos Meal.)_
 
 1. **Wheat Flour** (grind worker Wheat) → **Wheat Dough** (Flour + Mineral Water)
 2. **Grilled Sausage** (Pork + farmed Onion + vendor Salt/Pepper)
-3. **Cheese** — or just buy it (cheaper)
+3. **Cheese** — dry it from the free Milk stockpile
 4. The **5 sub-components** (Cheese Gratin, Meat Croquette, Smoked Fish Steak, Stir-Fried Vegetables, Beer)
 5. **Balenos Meal** (24 → 1 box)
 6. **Guru's Cooking Box** → hand in at the **Imperial Crafting Delivery** NPC (800k/box, CP-capped/day)
