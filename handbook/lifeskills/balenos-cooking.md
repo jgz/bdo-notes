@@ -95,7 +95,7 @@ per-order quantity), relist-to-collect when filled, pull from the market warehou
   If you must buy, buy **Flour**, not Wheat+grind (same price, saves the step).
 - **Never buy the sub-components at market.** At market prices the mats for one meal (~650k+) dwarf the
   33.3k box value — the loop is only profitable because the inputs are worker-gathered/farmed and
-  **1,400 mastery multiplies output ~2.5× per cook**, so a stack of free wheat/cabbage/eggs stretches
+  **1,400 mastery multiplies output ~2.05× per cook** ([mastery-yield.md](mastery-yield.md)), so a stack of free wheat/cabbage/eggs stretches
   across thousands of meals.
 
 ## Build order (batch-cook top to bottom)
