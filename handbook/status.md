@@ -60,6 +60,7 @@ re-opening life skills, but **selectively and on his terms** (not the old over-i
   (already has Doomeezy T10 free + a T9 Arduanatt). Full plan → **[horse-training.md](lifeskills/horse-training.md)**.
 - **Cooking = active daytime skill.** Done in the background while he works from home; **gated by
   Weight Limit** (he hasn't bought much weight), so it's a hands-on-during-the-day thing, not AFK.
+  Free-first plan to raise it → **[weight-limit.md](lifeskills/weight-limit.md)**.
 - **Farming = once-a-day morning task** (un-parked 2026-08-23). The 2026 growth-time change (~20–22h
   crops, bigger harvests) + workers auto-handling pests makes it a low-touch daily loop. Plan: a
   **gearless farm-sitter alt** parked at the fences (farming has no mastery, so no life gear needed).
