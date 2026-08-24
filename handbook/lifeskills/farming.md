@@ -12,6 +12,18 @@
   `[Farming] Klau's Old Moon Seed Pouch` (Black Spirit → Klau in Velia; needs Farming Apprentice 10).
   It's a **physical item — move it between characters**.
 
+## Garden automation fixtures (cover the tasks workers can't)
+
+Workers do pruning + pests but **can't** water or scare birds. These two fixtures cover those, crafted
+at a **Carpentry Workshop** (worker-made):
+
+- **Scarecrow** — install into a fence; **takes 1 plot slot**. Auto-keeps birds away → less damage,
+  faster growth. (Slot cost matters on magical-seed fences — 10 plots = 2 magical seeds, so a scarecrow
+  drops usable capacity.)
+- **Irrigation System** — reduces crop **water consumption** → water less often, fewer shortages.
+
+⟹ workers (prune/pests) + scarecrow (birds) + irrigation (water) = a near hands-off garden.
+
 ## Yield & gear
 
 - **Yield = seed quality only** (magical > special > regular). **Farming has no Mastery** — no gear,
