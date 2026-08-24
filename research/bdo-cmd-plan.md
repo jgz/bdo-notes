@@ -80,6 +80,25 @@ agent-consumable.
 > filter, not a "get rich crafting" engine. _(Sources: Steam/BDO forums, GrumpyG/Eminent processing,
 > official CM tax/band rules — 2026-08-24.)_
 
+### Worked example — Forest Path Wagon Wheel (first live test-case, 2026-08-24)
+
+The tool surfaced this instantly via `item recipe 53411` + `market prices`/`orders` — and it's the
+perfect illustration of the reality check.
+
+- **Looks like a goldmine:** sells at the **800M cap**, order book = **26 buyers / 0 sellers** (real
+  demand, no supply).
+- **Recipe:** 30 Loopy Tree Timber + 60 Steel + **1000 Piece of Image**. Piece of Image (Simple Alchemy,
+  →150) = **1 Merindora's Element** (non-tradable, ~2/day) + 100 Weeds + **300 Trace of Nature**. So one
+  wheel ≈ 7 Merindora's Element + ~700 Weeds + **~2,100 Trace of Nature**.
+- **Cost is ~all Trace of Nature:** ~2,100 × **286k ≈ 601M** = **98%** of the ~610M input cost.
+- **After 35% tax:** net **676M** (Value Pack) / **520M** (none). Buying mats → **~+66M w/ VP, ~−90M
+  LOSS without** = a wash. Self-gathering Trace → profitable, but **selling that Trace raw nets ~508M
+  anyway**, so crafting adds only ~159M for the Merindora time-gate + labor.
+- **Verdict:** the 800M is an illusion — it's just ~600M of Trace of Nature funneled through the recipe.
+  The scarcity/demand exists *because* it's a gated, unprofitable-to-mass-produce craft, not free money.
+- **Jon's takeaway:** keep such setups for **personal-use** items (make/enhance the wheels he wants),
+  then **shut it down and reclaim the CP** for the passive node empire (the actually-profitable play).
+
 ## The two hard problems
 
 1. **Enhancement success curves** — the math is only as good as `p(gear, level, failstack)`. We have
