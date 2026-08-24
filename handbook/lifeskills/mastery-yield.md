@@ -58,10 +58,11 @@ mainly buying **throughput** (bigger batches = less clicking for the same volume
 - **Confirms the craft-profit reality check** ([bdo-cmd-plan](../../research/bdo-cmd-plan.md)): the real
   margin is the mastery multiplier applied to **near-free self-supplied inputs**. Buying mats at market
   and reselling the craft stays a wash — the ~2× doesn't beat the market's own markup + tax.
-- **The tool needs this.** A correct `craft profit` must compute **real yield = recipe output ×
-  mastery multiplier**, not the raw recipe number — otherwise it undercounts cooking/processing output by
-  ~2×. The curve data is already in `~/.bdo-cmd/dumps/mastery.json`, so a `mastery yield <profession>
-  <level>` helper (or a `--mastery` flag on `craft profit`) is a clean feature. → candidate bdo-cmd issue.
+- **A nuance to bank for the eventual `craft profit` tool — not to build yet.** Any real profit calc must
+  use **real yield = recipe output × mastery multiplier**, not the raw recipe number, or it undercounts
+  cooking/processing output by ~2×. The curve data is in `~/.bdo-cmd/dumps/mastery.json`. Per Jon's
+  build sequence (data commands first; reason out the nuances with the data before crystallizing logic),
+  this stays **agent-reasoned for now** — captured here, not filed as a build issue.
 - **Imperial cooking:** the ~2× cooking yield is *the* reason the Balenos box loop stays cheap — one
   batch of worker mats makes roughly twice the meals the recipe implies. See
   [balenos-cooking.md](balenos-cooking.md).
