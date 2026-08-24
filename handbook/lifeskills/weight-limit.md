@@ -23,17 +23,29 @@ done **on JGZ specifically**.
 | # | Source | LT | Scope | Effort |
 |--:|---|---|---|---|
 | 1 | **Loyalty store**: `Weight Limit +50 LT` (17553) ×4 | **+200** | Per-char | 3,500 loyalty each (~140 login-days) — **biggest free per-char lever** |
-| 2 | **Adventure Logs** (do once, benefit forever) | **~+90–110** | **Family-wide** | Bartali +28 · base logs ~+22 · LoML Boss Storybook ~+40 |
-| 3 | **Region questlines on JGZ** (misc "+Weight" quest rewards) | ~+100 *(approx)* | Per-char | Hours of story on that char; exact total unconfirmed |
-| 4 | **Combat leveling** | +2–4 / level (auto) | Per-char | Free, automatic as JGZ levels |
-| 5 | **Strength → Lv30 soft cap** | +40 | Per-char | AFK trade-pack loop in a safe town; low priority |
-| 6 | **NPC Amity** (`Amity: Weight Limit Up`, item 933) | small | Per-char | Minor; from Amity conversations *(verify current)* |
-| 7 | **Value Pack** (free from events / earned pearls) | +200 | Family (while active) | You should run it anyway for the market-tax cut |
+| 2 | **Adventure Logs** (do once, benefit forever) | **~+40–50** | **Family-wide** | Bartali ~+19–28 · Rulupee +6 · Deve's/Herald's/misc +2 each · LoML logs |
+| 3 | **Combat leveling JGZ** (the real per-char "questing" weight) | +1–4 / level (auto) | Per-char | Free byproduct of running the story to ~56–60 |
+| 4 | **Strength → Lv30 soft cap** | +40 | Per-char | AFK trade-pack loop in a safe town; low priority |
+| 5 | **NPC Amity** (`Amity: Weight Limit Up`, item 933) | small | Per-char | Minor; from Amity conversations *(verify current)* |
+| 6 | **Value Pack** (free from events / earned pearls) | +200 | Family (while active) | You should run it anyway for the market-tax cut |
 
-**Adventure Log breakdown** (all family-wide, one-time): Igor Bartali's Adventure Log **+28** (15 vols) ·
-Deve's Encyclopedia +2 · Herald's Journal +2 · Fughar's Journal +2 · Rulupee's Travel Log +6 · Boss
-Storybook +10 · **LoML Boss Storybook ~+40** (chapters 2–5). O'dyllita/Magnus/Atoraxxion logs give more
-family-wide stats (LT amounts unconfirmed — do them for the AP/DP anyway).
+**Adventure Log breakdown** (all family-wide, one-time): Igor Bartali's Adventure Log **~+19–28** (15
+vols; sources conflict) · Rulupee's Travel Log +6 · Deve's Encyclopedia +2 · Herald's Journal +2 ·
+Fughar's Journal +2 · LoML Boss Storybook logs. O'dyllita/Magnus/Atoraxxion logs give more family-wide
+stats (LT amounts unconfirmed — do them for the AP/DP anyway). Realistic log total ~**+40–50 LT**.
+
+### ⚠️ There is NO permanent "weight questline" — don't chase it
+
+Verified against the NA client data (2026-08-24): **no quest gives a permanent Weight Limit increase.**
+Per-character quest weight is a tiny, un-itemizable byproduct of main-story progression — the real
+per-char gain from "doing quests" is just the **combat levels** you pick up. The famous-sounding weight
+quests are all **traps**:
+- **Black Spirit's Gift III** (`699-16`) = **+200 LT for 24h only**, temporary — not permanent.
+- **Weight of the World** (`4560-15`), **The Weight of Karlstein's Name I/II** (`3132-34/35`) = story
+  quests, **zero** weight despite the name.
+- **`[Shakatu's Gift]` Family Inventory questline** (`5742-6`, Lv 60) = **+150 LT to the Family
+  Inventory bag** (+2 slots) — the *shared bag*, **not** JGZ's carry weight. Worth doing for account
+  logistics, but it does nothing for cooking haul weight.
 
 ## FREE session buffs — Jon already cooks these
 
@@ -64,8 +76,8 @@ The best weight-per-Pearl deal available, by a wide margin. **60% off: 6,000 →
   +300 *or* +350 item twice (Jon hasn't).
 
 **Efficiency: 2,400 ÷ 650 = 3.7 Pearls/LT** — **~2.3× better than the best standard tier** (8.5). One
-purchase lands more weight (+650) than the entire free per-character bucket combined (Loyalty 200 +
-quests ~100 + Strength 40 ≈ 340). Time-limited + 1/family → **worth buying now even under the
+purchase lands more weight (+650) than the entire free *permanent* per-character bucket combined
+(Loyalty 200 + Strength 40 + combat levels ≈ 250–300). Time-limited + 1/family → **worth buying now even under the
 "free-first" plan** (it doesn't conflict — the free sources are slow and additive). Commit it to JGZ.
 
 ### Standard Pearl tiers
