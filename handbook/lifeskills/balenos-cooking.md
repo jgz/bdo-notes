@@ -43,13 +43,24 @@ of the same recipe; either makes a standard Balenos Meal.)_
 | **Stir-Fried Vegetables** (9241) | 5 Cabbage (7318) · 2 Olive Oil (9015) · 2 Hot Pepper (7305) · 1 Salt (9001) |
 | **Beer** (9213) | 5 Wheat (7001) · 6 Mineral Water (9059) · 2 Leavening Agent (9005) · 1 Sugar (9002) |
 
-**Meat & fish are substitution groups — buy the cheapest.** The recipe count is **fixed** (8 meat /
-1 fish); only the *type* varies (verified in-game 2026-08-24 — the "Select Material" popup shows all
-meats at `8×`, prices only). Cheapest wins. Meat options seen: Weasel (26,300) · Rhino (27,600) · Pork
-(28,600) · Beef (28,600) · Bear (29,100) · Lamb (29,400) · Wolf (31,000) · Deer (31,100) · Fox (31,900)
-· Raccoon (33,400). Fish is an even longer list (fish count assumed constant at 1× — verify off a fish
-screenshot if it matters). **Jon's workflow:** keep **standing buy orders on several meats + fish at
-once** (the CM caps per-order quantity), pull filled stock from the market warehouse when cooking.
+**Meat & fish are substitution groups — buy the cheapest.** Confirmed from the dump (`recipes.json` +
+item descriptions, 2026-08-24): the recipe count is **fixed** — **8 meat** / **1 fish** — regardless of
+type; only the item swaps (the "Select Material" popup just re-prices the same slot). Cheapest legal fill
+wins.
+
+- **Meat Croquette accepts 15 meats** (Pork's "Alternative Ingredient" list — *not* the whole "Meat"
+  market subcategory, which mixes in unrelated cooking groups like Chicken/Whale). Live cheap cluster
+  (base price, 2026-08-24): **Rhino 26,100 · Weasel 26,300 · Rock Elephant 26,700 · Bear 27,400 · Deer
+  28,800 · Beef 28,600 · Goat 28,100.** Mid: Pork 30,700 · Wolf 31,300 · Rabbit 31,500 · Fox 31,900.
+  Outlier: **Gazelle ~46k (avoid).** → run standing buy orders on the **~26–28k cluster** (Rhino /
+  Weasel / Rock Elephant / Bear / Deer), take whatever fills.
+- **Smoked Fish Steak accepts fish broadly** (Fish category; recipe rep = Mudskipper). Only **1 per
+  meal**, so it's a rounding error next to the 14 meat — any cheap common fish is fine. Fish is also
+  **worker-producible** (Mudskipper `gatheredFrom`: Fish Net / Fish Drying Rack), so his coastal workers
+  can feed this slot directly.
+
+**Jon's workflow:** keep **standing buy orders on several cheap meats + fish at once** (the CM caps
+per-order quantity), relist-to-collect when filled, pull from the market warehouse when cooking.
 
 ### Crafted intermediates (cook these *before* the sub-components)
 
