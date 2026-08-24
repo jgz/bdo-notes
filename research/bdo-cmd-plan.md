@@ -107,6 +107,34 @@ unprofitable-to-mass-produce. **Jon's takeaway:** use the setup for **personal-u
 the wheels he wants, build his own wagon), then **shut it down and reclaim the CP** for the passive node
 empire (the actually-profitable play).
 
+### Worked example — Void crystals (grind-loot conversion, 2026-08-24)
+
+**Crystal of Void – Ah'krad (15279)** / **Crystal of Void Destruction (15280)** — endgame combat
+transfusion crystals, **~3B each**, order book **0 stock** (they *shatter on death* → constant rebuy).
+Simple Alchemy: 1 base crystal (Glorious Crystal of Gallantry-Ah'krad ~800M / Crystal of Precise
+Destruction ~100M) + 500 Black Stone + 300 Magical Lightstone Crystal + **30 Gem of Void** (821182,
+~50M, a **grind drop** — Golden Pig Cave / Ah'krad endgame zone).
+
+- **Buy-all-inputs at market ≈ break-even:** −0.36B (no VP) / +0.22B (VP). The recipe is *not* the money.
+- **Self-farm the Gems of Void → convert:** 30 gems sold raw ≈ 1.18B net (VP); converted into the crystal
+  ≈ 1.62B net → **conversion adds ~+0.44B/crystal** on top of grind loot you already own.
+- A "160B stack" = someone **grinding the void gems + base crystals**, then converting. The video framed
+  it as "I just craft now" — the punchline (per Jon) is that the crafting sits on top of a lot of grinding.
+
+### ⭐ The general principle (Jon, 2026-08-24) — "grind-loot conversion"
+
+**Nearly every grind spot drops a low-value / bound byproduct that's near-worthless raw, but converting
+it (Simple Alchemy or a workshop) into a marketable item captures real money.** The crafter isn't
+skipping the grind — **the craft is a markup on grind loot.** This unifies every case so far (Void gems →
+3B crystal; Trace/Merindora → wagon parts; worker mats → Imperial boxes): the recipe alone is
+break-even-to-loss; the value is **self-supplied inputs + a conversion uplift**.
+
+**What this means for the tool:** `craft profit`'s real question is **not** "which market-buy craft is
+profitable" (almost none) — it's **"for the loot I already have, is convert-and-sell worth more than
+sell-raw, and by how much?"** i.e. a **make-vs-sell-raw uplift screener priced on self-supplied (≈free)
+inputs**, feeding the `inventory cleanout-plan`. Build it that way when the time comes; for now this is a
+banked nuance, reasoned by the agent (per the data-commands-first build philosophy), not a build issue.
+
 ## The two hard problems
 
 1. **Enhancement success curves** — the math is only as good as `p(gear, level, failstack)`. We have
