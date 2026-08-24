@@ -65,6 +65,10 @@ re-opening life skills, but **selectively and on his terms** (not the old over-i
   **gearless farm-sitter alt** parked at the fences (farming has no mastery, so no life gear needed).
   Full setup → **[farming.md](lifeskills/farming.md)**.
 - **Fishing** — heavily done in the past; not a current focus.
+- **Sea / Bartering = new long-term goal (2026-08-24).** Buffed Apr 2026; genuinely lucrative but
+  **active** gameplay. Months-long ship build (target **Epheria Caravel** → Carrack), leveraging the
+  existing CP/worker empire + a **ship worker-project already started** (status TBD in-game). Full plan →
+  **[sea-barter.md](lifeskills/sea-barter.md)**.
 - **Fairy** ("Aloof Tink", Radiantly Shining Lv 31) is well-developed → [account/fairy.md](account/fairy.md).
 
 The broader [life-skill empire](lifeskills/overview.md) (CP/workers/nodes, guru-box loop) stays parked.
