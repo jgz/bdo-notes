@@ -30,6 +30,11 @@
 leveling a Dream/Mythical (keeps costume set + full per-level skill rolls). Mount EXP scales with
 distance/speed. Training Guru 20 ≈ ~100% skill-learn per level.
 
+**AFK route:** base out of **Stonetail Horse Ranch** (by Heidel). Loop a **straight, low-turn road** —
+classics: **Heidel↔Velia** or **Heidel→above Lynch Farm Ruins**; a **city loop** is safest overnight
+(open roads aren't a safe zone). Turns slow the horse → less EXP, so straighter = better. Drag the
+auto-path marker to empty minimap space to force an infinite **green** back-and-forth.
+
 **⚠️ Leveling is now BANKED (early-2026 rework) — horses don't auto-level.** Riding/AFK accumulates
 training EXP into a **pool** on the horse; you must **manually apply it via the Harnessed Horse List →
 "Level Up"**. The auto-loop still earns the XP — but there's now a follow-up step to apply the levels
