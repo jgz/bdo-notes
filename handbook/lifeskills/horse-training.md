@@ -30,6 +30,11 @@
 leveling a Dream/Mythical (keeps costume set + full per-level skill rolls). Mount EXP scales with
 distance/speed. Training Guru 20 ≈ ~100% skill-learn per level.
 
+**⚠️ Leveling is now BANKED (early-2026 rework) — horses don't auto-level.** Riding/AFK accumulates
+training EXP into a **pool** on the horse; you must **manually apply it via the Harnessed Horse List →
+"Level Up"**. The auto-loop still earns the XP — but there's now a follow-up step to apply the levels
+(and the XP bar shows partial progress poorly). So an overnight loop = a morning "Level Up" pass.
+
 ## Training-EXP boosts (reference)
 
 Value Pack +30% mount EXP · Fiery Celerity Draught +30/+30 (600 min) · Trainer's Clothes (Loggia ~28% →
