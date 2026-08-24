@@ -68,6 +68,18 @@ agent-consumable.
    the main reason to build bdo-cmd. Also feeds **arbitrage** (buy raw → convert → sell) and
    **enhance-for-profit** (buy base → enhance → sell, using the enhance math + order-book pricing).
 
+> ⚠️ **Reality check — the tool is a SCREENER, not a money printer (community consensus + Jon's prior).**
+> In BDO, **most crafting/processing/flipping is marginal-to-unprofitable when you buy the inputs**:
+> finished goods often sell for *less* than their mats (classic example: a boat deco sells ~400k vs ~1.4M
+> in mats → sell the raws); processing margins are thin (~8% seen) unless the mat was free or demand is
+> real; and flipping is gutted by the **±7.5% price band + 35% tax** (65% payout, 84.5% w/ Value Pack).
+> The genuinely profitable loops **bypass market pricing**: Imperial cooking/alchemy (NPC pays **250%**),
+> selling **free worker-gathered raws**, and a few price-sensitive niches. **So `craft profit`'s most
+> common correct answer is "don't craft — sell the raws," and its value is catching the rare positive
+> margins + steering the stockpile to `cleanout-plan`/NPC loops.** Build it as a make-vs-buy-vs-sell-raw
+> filter, not a "get rich crafting" engine. _(Sources: Steam/BDO forums, GrumpyG/Eminent processing,
+> official CM tax/band rules — 2026-08-24.)_
+
 ## The two hard problems
 
 1. **Enhancement success curves** — the math is only as good as `p(gear, level, failstack)`. We have
