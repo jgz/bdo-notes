@@ -1,6 +1,6 @@
 # Life Skills: Overview
 
-> Last updated: 2026-08-21. **Status: TO FILL** (levels/mastery) — framing is from Jon's description.
+> Last updated: 2026-08-24. Levels/mastery captured; Imperial loop + worker empire documented below.
 
 Life skills are **Jon's strongest axis** and the intended engine to fund everything else on a
 gear-poor account. This page is the hub for the life-skill economy; each skill gets its own deep-dive
@@ -18,7 +18,7 @@ Beginner → Apprentice → Skilled → Professional → Artisan → Master → 
 
 | Skill | Rank | Mastery | Note |
 |---|---|---|---|
-| **Cooking** | **Guru 1** | **555** | The headline strength — guru-box loop, imperial cooking |
+| **Cooking** | **Guru 1** | **~1,400** | With life gear (Jon, 2026-08-24) — the effective number; 555 was level-only. Guru boxes at the **800k cap** (maxed). |
 | **Fishing** | **Master 21** | **505** | Highest *rank* on the account; low-attention income |
 | **Processing** | **Master 8** | **440** | Sub-skills all 440 (shaking/grinding/chopping/drying/filtering/heating) |
 | **Farming** | Artisan 9 (98.6%) | 395 | Basically about to hit Master; feeds cooking/alchemy |
@@ -35,12 +35,27 @@ bankable skills; farming/training/hunting are Artisan and close behind. Alchemy,
 barter are the undeveloped tail. Jon's self-description ("guru cooking, high Master processing")
 checks out exactly.
 
-## Open questions
+## The Imperial Cooking loop (SOLVED — Jon has run this for years)
 
-- [ ] Inventory **Manos life gear + mastery accessories** already owned (the mastery multiplier that
-      lifts every number above).
-- [ ] **Is guru cooking still good income?** Verify current guru-box value and the best cooking
-      money loop (imperial delivery vs Central Market) in today's economy — and pin down exactly
-      which meal/box Jon was farming (he recalls a "guru box" ingredient setup; identify the recipe).
-- [ ] Best **processing** income chain right now for a Master 8 processor.
-- [ ] Which life-skill loops best **fund the gear catch-up** with least attention.
+- Meal = **Balenos**. Guru's Cooking Boxes turn in at **800k each** (the Imperial NPC pays 250% of box
+  value; **800k is the cap**, already hit at 1,400 mastery → more cooking mastery won't raise box income).
+- Imperial delivery is **once/day**, **CP ÷ 2 boxes** → Jon turns in **184/day** (369 CP).
+- One day of crafting while working ≈ **2 weeks** of Imperial deliveries. Prep is fast → this loop is
+  "done", not where Jon's interest is.
+
+## Worker / CP empire (Jon, 2026-08-24)
+
+- **369 total CP.** ~**200–250 CP** of workers out **gathering**; **all the most expensive nodes worked**.
+- **Mostly Artisan workers** (not fully min-maxed).
+- Most gathered materials are **stockpiled, unused** (years of node mats sitting) → the `inventory
+  cleanout-plan` target.
+- Dedicated worker loop for **Forest Path Wagon mats** (e.g. Knot Wood).
+- **Balenos ingredient setup:** workers gather everything except the **farmed** items (hot peppers,
+  onions — Jon farms those); only **meat** is bought off market.
+
+## Direction: advanced money-making (the real interest, 2026-08-24)
+
+Jon has the basic loops solved (Imperial cooking, gathering). What he actually wants is the **production
+economy**: **enhancing for profit, market arbitrage, and buy-mats → worker-craft in workshops → sell.**
+He's never found a good tool to estimate **workshop crafting profit** → that's the **north-star use case
+for `bdo-cmd`** (see [research/bdo-cmd-plan.md](../../research/bdo-cmd-plan.md)).

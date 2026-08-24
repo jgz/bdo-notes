@@ -20,7 +20,9 @@ lopsided**:
 - **Gear build value ~499.6B** (Garmoth estimate, 2026-08-23, up from ~236.4B) — the worth of the gear,
   **not** liquid silver.
 - **Liquid silver: ~48.2B** (captured 2026-08-23 from the Central Market Balance field).
-- **CP / workers / nodes** not yet captured — see "What's still open."
+- **369 CP**, ~200–250 CP of **Artisan-ish workers** gathering the expensive nodes (mats mostly
+  stockpiled/unused); **Cooking Guru ~1,400 mastery** (Balenos Imperial loop maxed at 800k/box) →
+  [lifeskills/overview.md](lifeskills/overview.md).
 
 _Life-skill and gear numbers are from screenshots (2026-08-21), archived in
 [`research/account/`](../research/account/)._
@@ -111,7 +113,8 @@ What he remembers working on before the break — the in-progress threads to pic
       [client/keybinds.md](client/keybinds.md). Built a glanceable **[visual keymap](client/keymap.html)**
       (published artifact) for his second monitor. Finding: **BDO stores keybinds server-side, not on
       disk** (every local `<ShortcutKey>` node is empty) — re-capture via screenshot if he rebinds.
-- [ ] _(Deferred)_ Capture CP / workers / nodes / liquid silver — life-skill empire is parked.
+- [x] Capture CP / workers / liquid silver → **369 CP, ~200–250 worker CP, ~48.2B silver** (2026-08-24).
+      Node-by-node worker/stockpile detail still uncaptured (feeds the `inventory cleanout-plan` workflow).
 - [ ] _(Deferred)_ Vet the source list → [`research/sources.md`](../research/sources.md).
 
 ## ⚠️ Re-onboarding research questions (unverified — do NOT plan around these yet)

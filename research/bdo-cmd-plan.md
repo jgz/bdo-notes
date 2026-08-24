@@ -48,13 +48,25 @@ agent-consumable.
 
 ## The payoff workflows
 
+> ⭐ **North star (Jon, 2026-08-24):** *"I can never find a good tool for estimating the cost of buying
+> stuff off the market and then crafting it with the different workshops using workers and then selling
+> it."* Jon has the basic life-skill loops mastered for years (Imperial Balenos cooking at the 800k box
+> cap, gathering empire). His actual interest is the **advanced production economy** — **workshop
+> crafting profit, market arbitrage, and enhancing for profit.** Workflow #4 below is *the* thing.
+
 1. **`enhance upgrade-path`** — ranked upgrades like Garmoth, but **personalized**: prices *Jon's* Crons
    / Advice of Valks / self-produced mats at **$0 (or opportunity cost)**, so the ranking reflects his
    *real* cost, not market. This is the thing a generic site can't do.
-2. **`inventory cleanout-plan`** — value years of node mats + event/quest items → **sell / process-then-
-   sell / break-down / use** recommendations.
+2. **`inventory cleanout-plan`** — value years of node mats + event/quest items (Jon's stockpile from a
+   ~200–250 CP gathering empire) → **sell / process-then-sell / break-down / use** recommendations.
 3. **`recipes can-make` / processing profit** — what's profitable to make, and what he can make with
    what he already holds.
+4. **⭐ `craft profit` — workshop crafting profitability.** For a craftable item: **input cost** (buy
+   mats at Jon's real buy-order price via `market orders`) + **workshop/worker process** (which workshop,
+   worker time/labor) → **output value** (sell at realistic price) ⇒ **margin & profit/hour**. Covers
+   worker-crafted goods, not just Processing(L). This is the tool Jon has never been able to find, and
+   the main reason to build bdo-cmd. Also feeds **arbitrage** (buy raw → convert → sell) and
+   **enhance-for-profit** (buy base → enhance → sell, using the enhance math + order-book pricing).
 
 ## The two hard problems
 
