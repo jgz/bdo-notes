@@ -33,14 +33,20 @@ meat), he **places buy orders at the lowest bracket price and waits** — on liq
 within hours (sellers dump for instant silver). So **his effective cost ≈ the bottom of the Base ±7.5%
 window**, well below `last_sold_price`.
 
-- **Interim heuristic (works with current tool):** Jon's buy cost ≈ **`base_price × 0.925`, snapped up
-  to the nearest bracket.** Caphras: 905k × 0.925 = 837,125 → **~840k** (vs ~970k last-sold — ~13% less).
-- **Caveat:** this gives the *price*, not the *fill-time*. Whether a bottom bid fills fast depends on
-  buy-queue depth — for less-liquid items Jon may need to bid a bracket or two higher. The tool doesn't
-  expose the order book yet → **[#12](https://github.com/jgz/bdo-cmd/issues/12)** (add buy/sell order
-  counts per bracket). Until then, use the heuristic for staples and sanity-check thin items in-game.
-- **Rule:** cost Jon's materials at the **buy-order price** (≈ base × 0.925), not `last_sold` — else
-  every estimate is inflated.
+- **Best source — `bdo-cmd market orders <id>`** (shipped, [#12](https://github.com/jgz/bdo-cmd/issues/12)):
+  the **live order book** — per-bracket `price / sellers / buyers`. This is the authoritative read of
+  Jon's real cost and fill-likelihood: the **lowest sell** = instant-buy price; the **buy-order
+  brackets** (and their depth) = where he'd queue and how contested it is. In BDO a bracket holds sell
+  orders *or* buy orders (matching orders transact instantly), so sells stack above the clearing level,
+  buys below.
+- **Fallback heuristic (no order book):** Jon's buy cost ≈ **`base_price × 0.925`, snapped to a
+  bracket** (bottom of the ±7.5% window). Approximate — prefer `market orders` when it matters.
+- **Rule:** cost Jon's materials at the **buy-order / lowest-sell price** from `market orders`, not
+  `last_sold` — else estimates inflate.
+
+> **Reading the book:** all-sellers-no-buyers (like Caphras 2026-08-24: 33k stock, last_sold < base) =
+> **sell glut → cheap, instant-buy at the lowest sell**. Deep buy-order queue = contested → a low bid
+> may sit; bid up a bracket or two to fill.
 
 **Example — Caphras Stone (2026-08-23):** base 905k, live window ~840k–970k, but dev caps **820k / 3M**.
 Its base has **deflated to near its floor** (heavy oversupply); the 3M ceiling is where the old "~3M
