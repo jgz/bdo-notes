@@ -1,80 +1,46 @@
-# Farming — the once-a-day morning routine
+# Farming — reference
 
-> Last updated: 2026-08-23. Jon is **un-parking farming** as a low-touch **once-a-day** task (a
-> "morning coffee" chore he does and forgets). The 2026 growth-time change made this viable. He already
-> has **magical seeds** and fences ready. Sourced: GrumpyG / BDFoundry / official (2026).
+> Last updated 2026-08-23. Low-touch once-a-day farming (magical seeds, worker-tended). Reference facts
+> + the 2026 changes that differ from what Jon last knew. Assumes he knows how to play.
 
-## Why it's once-a-day now (the 2026 change)
+## What changed (2026)
 
-- **Crops take ~20–22 hours to fully grow** — a natural **daily cycle**. Plant, come back ~a day later.
-- The 2026 update **lengthened growth time but boosted harvest yield/variety per pull** (and removed
-  growth-reducing fertilizers) — a deliberate shift to **fewer, bigger harvests** instead of constant
-  babysitting. Exactly the low-touch rhythm Jon wanted.
+- **Crops grow ~20–22h** now, with **bigger harvests per pull** — fewer, larger cycles → fits once-a-day.
+- **Fertilizer REMOVED entirely** (June 4 2026 patch; holders refunded silver). Organic / Byproduct /
+  Inorganic all deleted — none exist to craft or carry.
+- **Klau's Old Moon Seed Pouch** (added ~mid-2025): 50-slot seed bag, once-per-family quest
+  `[Farming] Klau's Old Moon Seed Pouch` (Black Spirit → Klau in Velia; needs Farming Apprentice 10).
+  It's a **physical item — move it between characters**.
 
-## Key mechanics that make it low-effort
+## Yield & gear
 
-- **No mastery, yields = SEED QUALITY only.** Farming has **no Life Skill Mastery** and no gear that
-  boosts yield. Crop output depends on **seed quality (magical > special > regular)** — *not* farming
-  level, gathering mastery, or any life gear. Jon's **magical seeds = top yield regardless of who
-  harvests.**
-- **Gathering mastery does NOT affect harvesting** — separate skill. The only cross-link: a higher
-  **gathering LEVEL** (not mastery) slightly **reduces energy cost** per farming action.
-- **Workers handle the annoying part.** Blight (weeds/pests) rolls every ~5 min. **Assign workers to
-  the gardens → they auto-prune and auto-kill pests.**
-  - **1 worker per fence** (max one per fence; that worker tends the whole fence, any seed type). So
-    workers needed = **number of fences** you run — *not* per plot. Unchanged by the 2026 updates.
-  - Workers **only prune + kill pests** — they **don't water, scare birds, harvest, or breed**, and
-    **worker-tended crops give Jon no Farming XP or Sharp shards** (fine for the low-effort goal; tend
-    by hand instead if he ever wants to *level* farming).
-  - **Feed them via Family Inventory** (farm workers burn stamina fast — "lots of beer") so they
-    auto-eat and **stay on-site** instead of walking home = truly AFK. **Giant workers** are best (more
-    stamina, less feeding).
-- **Magical seeds are self-sustaining:** each takes **5 plot spaces** (fewer plants to manage), and
-  **breeding them yields more magical seeds** — so the farm restocks its own seed supply.
+- **Yield = seed quality only** (magical > special > regular). **Farming has no Mastery** — no gear,
+  farming level, or **gathering mastery** affects harvest yield.
+- ⟹ **The farm-sitter alt needs NO life gear.** Any character works; energy cap is **family-wide**
+  (Jon's = 327, identical on every char), regenerates per-character — plenty for a daily loop.
 
-## The dedicated farm-sitter alt
+## Packing list
 
-- **Park a plain, GEARLESS alt at the farm.** Farming needs no life-skill/mastery gear — a naked alt
-  harvests identically to a kitted one. Keeps Jon's good life gear free for his cooking main; no riding
-  up on the life-skill alt each day.
-- **Which alt: literally any character, even a fresh one.** Energy MAX is **family-wide** (set by
-  Knowledge, not per-character progress) — all of Jon's characters cap at the **same ~327**. Each
-  character's *current* energy regenerates independently, and the once-a-day cadence keeps the sitter
-  topped up. Farming costs little energy per day, so 327 is plenty. (A higher **gathering level** on the
-  sitter slightly lowers per-action energy cost — negligible here, not worth caring about.)
+**Fences + magical seeds + water.** Water item = **Purified Water / Distilled Water** (+15 growth) or
+**Mineral Water** (+5, buy from cooking vendor). No fertilizer (removed — see above).
 
-## Fences (Jon's situation)
+## Fences
 
-- **Finto's Strong Fence** (the 1 free one) + **rented Strong Fences** (10 CP each). Both are **10-slot**
-  fences — identical for growing; Finto's just costs no CP.
-- **Old Moon Fence** = same 10 slots, **smaller footprint** (less walking/water), but **requires Farming
-  Master 1** and costs 10 CP (rented) — Jon is **Farming Artisan**, so **not available yet**. Strong
-  Fences are his best option now.
-- **Upgrade trigger:** at **Farming Master 1**, swap rented Strong → rented Old Moon (same CP/slots,
-  tidier footprint). Also unlocks **Klau's Old Moon Fence**.
-- Mixing fence types is fine. Each rented Strong ties up **10 CP** — watch that if CP gets tight.
-- **Klau's Old Moon Seed Pouch** (50-slot seed bag, once-per-family quest from Klau in Velia, Farming
-  Apprentice 10): it's a **physical item Jon must move between characters** — park it on the farm-sitter.
+| Fence | Slots | CP | Requirement |
+|---|--:|--:|---|
+| **Finto's Strong** (the free one) | 10 | 0 | — |
+| Strong (rented) | 10 | 10 | — |
+| Old Moon (rented) | 10 | 10 | **Farming Master 1** — smaller footprint |
+| Klau's Old Moon | 10 | — | Farming Master 1 |
 
-## What to bring (packing list — simpler than the old days)
+Jon is **Farming Artisan** → Strong Fences are the best option now. At **Master 1**, swap rented Strong →
+Old Moon (same CP/slots, tidier footprint). Mixing types is fine.
 
-| Item | Notes |
-|---|---|
-| **Fences** | Finto's + Strong Fences (place on flat ground) |
-| **Magical seeds** | plant into the placed fences (each takes 5 plots) |
-| **Water** | **Purified Water** or **Distilled Water** (+15 growth, best); or buy **Mineral Water** (+5) from cooking/innkeeper vendors for convenience. Stand on the farm → **right-click** water to apply. |
-| ~~Fertilizer~~ | ⚠️ **REMOVED from the game (June 4, 2026 patch)** — Organic/Byproduct/Inorganic Fertilizer all deleted (their job was cutting growth time, now standardized). Holders were compensated with silver. **Don't bring/craft any — it no longer exists.** |
+## Workers
 
-That's the whole list now: **fences + magical seeds + water.**
+**1 worker per fence** (max one; it tends the whole fence, any seed type) — so workers needed = number
+of fences, *not* per plot. Unchanged by 2026 updates. Workers only prune/kill pests — **not** water,
+harvest, or breed, and they give the player **no Farming XP / Sharp shards** (tend by hand if leveling
+farming).
 
-## The daily loop
-
-1. Log the **farm-sitter alt** (already parked at the fences — no travel).
-2. **Water**, **breed/harvest** what's ready, **replant** magical seeds.
-3. Log out. **Workers keep pests/weeds down** between visits.
-
-Not min-maxed (optimal farming rewards frequent tending), but a sustainable, forget-about-it daily
-routine — which is the whole point.
-
-_Sources: GrumpyG farming guide, BDFoundry farming guide + Life Skill Mastery, official NA/EU
-Adventurer's Guide (Farming/Garden). Fetched 2026-08-23. Farming has no mastery — that's unchanged._
+_Sources: GrumpyG, BDFoundry, official NA/EU wiki (2026)._
