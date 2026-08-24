@@ -37,6 +37,8 @@ checks out exactly.
 
 ## The Imperial Cooking loop (SOLVED — Jon has run this for years)
 
+> **Full recipe tree + sourcing audit → [balenos-cooking.md](balenos-cooking.md).**
+
 - Meal = **Balenos**. Guru's Cooking Boxes turn in at **800k each** (the Imperial NPC pays 250% of box
   value; **800k is the cap**, already hit at 1,400 mastery → more cooking mastery won't raise box income).
 - Imperial delivery is **once/day**, **CP ÷ 2 boxes** → Jon turns in **184/day** (369 CP).
