@@ -54,15 +54,32 @@ leaving on the table.
 
 ## PAID — Pearl weight (only after the free buckets)
 
+### ⭐ [Returning] Weight Up Pack — grab this one (live 2026-08-24, 27-day window)
+
+The best weight-per-Pearl deal available, by a wide margin. **60% off: 6,000 → 2,400 Pearls.**
+- **Contains +300 LT + +350 LT = +650 LT** (both character-bound → open on **JGZ**).
+- Bonus: 30× each Finto's **Filling / Sweet / Fresh** Juice (Health / Breath / **Strength** EXP — the
+  Fresh Juice feeds the free +40 Strength weight source).
+- **Limit 1 per family**, bound when obtained, 27d 4h left. Blocked only if a char already bought the
+  +300 *or* +350 item twice (Jon hasn't).
+
+**Efficiency: 2,400 ÷ 650 = 3.7 Pearls/LT** — **~2.3× better than the best standard tier** (8.5). One
+purchase lands more weight (+650) than the entire free per-character bucket combined (Loyalty 200 +
+quests ~100 + Strength 40 ≈ 340). Time-limited + 1/family → **worth buying now even under the
+"free-first" plan** (it doesn't conflict — the free sources are slow and additive). Commit it to JGZ.
+
+### Standard Pearl tiers
+
 All **permanent, per-character, one purchase per tier per character** (buy on JGZ). Bigger tier = better
 value; **buy largest-first, on sale** (Pearl Shop rotates 10–20% off ~weekly).
 
 | Item | id | +LT | Pearls | Pearls/LT |
 |---|--:|--:|--:|--:|
+| **[Returning] Weight Up Pack** | — | **650** | **2,400** | **3.7 ⭐ best** |
 | Weight Limit +50 LT | 17553 | 50 | 600 | 12.0 |
 | Weight Limit +100 LT | 17554 | 100 | 1,000 | 10.0 |
 | Weight Limit +150 LT | 17597 | 150 | 1,350 | 9.0 |
-| **Weight Limit +200 LT** | 17670 | 200 | 1,700 | **8.5 (best)** |
+| **Weight Limit +200 LT** | 17670 | 200 | 1,700 | 8.5 (best standard) |
 | [Event] Sealed +250 / +300 | 616359 / 860098 | 250 / 300 | ~2,400 / 2,800 | event-only; **bypass the per-char purchase cap** |
 
 - The 4 standard tiers = **+500 LT** on one char. Event "Sealed" items stack on top of the cap.
@@ -96,6 +113,8 @@ each) to the Imperial manager.
 
 ## Jon's action order
 
+0. **⏳ Buy the [Returning] Weight Up Pack on JGZ before it expires (~27 days)** — +650 LT at 3.7
+   Pearls/LT, 1/family, the best deal there is. Do this even though it's paid; it's the exception.
 1. **Start the Loyalty `+50 LT` ×4 buy on JGZ today** (+200, slow — begin the clock).
 2. **Finish the account Adventure Logs** (Bartali + base + LoML) → ~+90–110 family-wide, benefits JGZ now.
 3. **Value Pack always on** (tax cut + 200 LT).
