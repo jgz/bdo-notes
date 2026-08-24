@@ -19,7 +19,8 @@ lopsided**:
   Kharazad **HEX/SEP**. The remaining DP gain comes from pushing armor to TET/PEN.
 - **Gear build value ~499.6B** (Garmoth estimate, 2026-08-23, up from ~236.4B) — the worth of the gear,
   **not** liquid silver.
-- **CP / workers / nodes / liquid silver** not yet captured — see "What's still open."
+- **Liquid silver: ~48.2B** (captured 2026-08-23 from the Central Market Balance field).
+- **CP / workers / nodes** not yet captured — see "What's still open."
 
 _Life-skill and gear numbers are from screenshots (2026-08-21), archived in
 [`research/account/`](../research/account/)._

@@ -120,4 +120,5 @@ Crystal of Crimson Flame – Power · 2× Black Magic Crystal – Addis · 2× D
 - **Build value (Garmoth's estimate): ~499.6B** (499,577,585,917) as of **2026-08-23**, up from ~236.4B
   after the initial Hyperboost gear. This is the *estimated worth of the gear* (the coin figure on the
   Garmoth screen), **not liquid silver** — it climbs as the gear enhances.
-- **Liquid silver: still TO CAPTURE** — Jon's actual spendable wallet hasn't been screenshotted yet.
+- **Liquid silver: ~48.2B** (48,228,398,694) — captured **2026-08-23** from the Central Market Balance
+  field. This is real spendable silver (war-chest for the enhancement grind).
