@@ -136,9 +136,15 @@ Path: base → PRI → DUO → TRI → TET → **PEN** → HEX → SEP → OCT �
 
 ### The materials, cheapest sources
 
+> **Live prices** (via `bdo-cmd market price`, NA, 2026-08-24 — last-sold; re-run for current):
+> Caphras Stone **~950k** · Sharp Black Crystal Shard **~5.85M** · Black Stone Powder **~7k** · Memory
+> Fragment **~1.53M** · Primordial Crystal **~24.5M** · Primordial Black Stone **~48.6M**. _(Mass of Pure
+> Magic = not marketable.)_ The old "~3M Caphras" figure was a **misread of the market price-cap**, not
+> the real price.
+
 - **Caphras (THE bottleneck — 10 per crafted stone):** grind **Dehkia Olun's Valley (~150/h**, also
   best for Black Stones + shards + silver — one spot covers everything) or Turos (~100/h); or buy
-  ~**3M** each. **Use Agris Fever** (spend Agris Essence for +100–300% drop rate) to multiply the grind.
+  ~**950k** each (live). **Use Agris Fever** (spend Agris Essence for +100–300% drop rate) to multiply the grind.
 - **Black Stones:** Olun's Valley (~300+/h weapon), or just buy — they're cheap on the market.
 - **Memory Fragments** (durability repair): sell trash loot → buy fragments off market (usually best);
   or **Latent Aura → 1 Memory Fragment** from boss attendance; watch for [Event] Advice of Memory.
@@ -157,7 +163,7 @@ Path: base → PRI → DUO → TRI → TET → **PEN** → HEX → SEP → OCT �
 1. **Today:** redeem `2026NAEUSHOWDOWN` (1,000 Crons), claim August login kit, do **Emma Bartali's
    Adventure Log** (free +6/+6 + Ancient Hammer/Stone), melt spare Hyperboost items for Crons.
 2. **Stockpile Caphras** — the universal bottleneck (10 per stone, both systems). Grind Olun's Valley
-   under **Agris Fever** (covers Caphras + Black Stones + shards + silver at once), or buy at ~3M.
+   under **Agris Fever** (covers Caphras + Black Stones + shards + silver at once), or buy at ~950k (live).
 3. **Armor: push each piece to DUO** with self-heated Flawless Chaotic Black Stones + Crystal of Origin
    protections; **stop at DUO** for now, revisit TRI+ later with Crons + high failstacks.
 4. **Weapons: chip PRI→DUO→TRI** with Primordial Black Stones + Crons on the risky steps; leave the

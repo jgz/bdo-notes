@@ -40,7 +40,7 @@ Jon's Master processing still helps elsewhere (intermediate mats, life-skill inc
 
 | Material | Used for | Where to get it | Buy on market? |
 |---|---|---|---|
-| **Caphras Stone** ⭐ | both (10 each) | Grind **Olun's Valley** (Agris Fever); or **CM ~3M** | ✅ yes |
+| **Caphras Stone** ⭐ | both (10 each) | Grind **Olun's Valley** (Agris Fever); or **CM ~950k** (live 2026-08-24) | ✅ yes |
 | **Sharp Black Crystal Shard** | both | Grind drops; blacksmith combine; **CM** | ✅ yes |
 | **Primordial Crystal** | weapons | **LoML boss-token currency** (Jon knows); Night Vendor | ✅ (also marketable) |
 | **Mass of Pure Magic** ⚠️ | armor | **NOT marketable** — grind drops, world bosses, gathering magical/mysterious seeds, Star's End, [Weekly] Tunkuta quest | ❌ **farm it** |
