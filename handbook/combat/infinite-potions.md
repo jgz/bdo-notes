@@ -82,9 +82,9 @@ Pity pieces on hand (Duvencrune) + **193 Atanis' Elements** banked (1 Element = 
 | MP | **subtotal** | 4 | **296** |
 
 **Plan: finish HP now.** 193 Elements ≥ 162 HP short → spend **162** to complete all 3 HP pity components,
-**31 left**. Then HP still needs its **last 2** (Gayak's Courage Stone = 30 Garmoth's Scales · Musical
-Spirit's Sound Stone = 300 Peridot Leaves — _do these mats exist? TBD_) → Yaz's Pouch → **infinite HP
-done.** MP is 296 short; the 31 leftover barely dents it → grind Tshira/Manshaum/Navarn + 3 MP weeklies
+**31 left**. HP **last 2** are in hand: **Gayak's Courage Stone** = 30 Garmoth's Scales (✅ has) · **Musical
+Spirit's Sound Stone** = 300 **Peridot Leaf** (item 44295 — Jon has it; confirm the count reaches 300,
+counting Peridot Petal/Fruit/Tree higher denominations). Then Yaz's Pouch → **infinite HP done.** MP is 296 short; the 31 leftover barely dents it → grind Tshira/Manshaum/Navarn + 3 MP weeklies
 (+5 each) over time, then the MP last-2 exchanges. _(Eyeball the Atanis→pity ratio in-client before
 dumping all 162 — 1:1 is community-stated, not printed by BDFoundry.)_
 
