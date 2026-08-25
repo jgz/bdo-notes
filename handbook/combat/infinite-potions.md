@@ -8,8 +8,9 @@
 
 ## What they are / why finish them
 
-- **Ornette's Spirit Essence** = **infinite HP potion** (550 HP, same stats/cooldown as an instant XL).
-- **Odore's Spirit Essence** = **infinite MP/WP/EP/SP potion** (works for every class's resource).
+- **Ornette's Spirit Essence** = **infinite HP potion** (HP Recovery **+275**, 2s cooldown, per current
+  official notes; some guides cite 550 — verify in-client).
+- **Odore's Spirit Essence** = **infinite MP/WP/SP potion** (Recovery **+325**, 6s cd — every class's resource).
 - **Never deplete, cost 0 silver forever, weigh ~50 LT total** (vs ~20 XL potions of weight) — saves
   billions over time and frees inventory/weight. Once crafted, drop them in **Family Inventory** and use
   across all characters. This is a permanent account QoL win — worth closing out.
@@ -47,10 +48,16 @@ is not an extra grind. No more praying for a ~50-hour RNG drop.
    fast path — spend the banked Elements straight into whichever first-3 components he still needs.
    (Atanis' Element drops in certain monster zones; the **Season server also grants 100 once per
    family**.)
-2. **Weekly quests** — **+5 pity pieces each**, reset **Thursday 00:00 UTC**. HP: Sherekhan Necropolis
-   (1,000 kills) · Forest Ronaros (1,000) · Blood Wolf Settlement (1,500). MP: Navarn Steppe (250 kills +
-   250 feathers) · Tshira Ruins (1,500) · Manshaum Forest (1,000).
-3. **Direct grinding** — the pity pieces drop from those same designated zones while you grind.
+2. **Weekly quest** — **⚠️ only ONE of the six per week, for +5 pity pieces**, reset Thursday 00:00 UTC
+   (from the region Node-Management NPC, Combat filter). This cap has **not** changed — it's the real
+   limiter, so weeklies are a trickle (5/week), not a fast lane. **The kill counts HAVE been cut
+   repeatedly** (2022 launch: 3,000–4,000 each → Oct-2024: ~1,000–1,500 → trending to ~1,000 in 2025-26;
+   **verify the exact current number on the live quest**). Cutting kills just makes the one weekly faster,
+   not more frequent.
+3. **Direct grinding (the real bulk)** — the pity pieces drop as loot while you grind those same zones.
+   This + Atanis' Element is how you actually amass pieces; the weekly is a small bonus.
+4. **Watch for events** — PA periodically runs **"Speed Up Ornette/Odore's Essence Crafting"** events that
+   grant bonus pity pieces (a 2025 summer event ≈ 3 weeks' worth). Free MP progress.
 
 ## The last 2 pieces (resource exchange, after the first 3)
 
@@ -105,7 +112,7 @@ could convert to branded "Ancient" versions — no longer obtainable. Doesn't af
 ## Sources
 
 - [BDFoundry — Infinite Potions Guide](https://www.blackdesertfoundry.com/infinite-potions-guide/)
-- [Garmoth — The Infinite HP Potion](https://garmoth.com/guides/post/the-infinite-hp-potion)
-- [Garmoth — The Infinite MP Potion](https://garmoth.com/guides/post/the-infinite-mp-potion)
-- [Garmoth — Faster Infinite Potion Quests](https://garmoth.com/guides/post/faster-infinite-potion-quests)
+- [GrumpyG — Infinite Potion (Ornette's & Odore's)](https://grumpygreen.cricket/infinite-potion/) · [Pity System](https://grumpygreen.cricket/infinite-pity/)
+- [Garmoth — The Infinite HP Potion](https://garmoth.com/guides/post/the-infinite-hp-potion) · [MP Potion](https://garmoth.com/guides/post/the-infinite-mp-potion) · [Faster Infinite Potion Quests](https://garmoth.com/guides/post/faster-infinite-potion-quests)
+- [Official — Weekly Spirit Essence quests: update history](https://www.naeu.playblackdesert.com/en-US/Adventure/History?_groupMasterNo=3100)
 - [BDO Codex — Atanis' Element (item 752530)](https://bdocodex.com/us/item/752530/)
