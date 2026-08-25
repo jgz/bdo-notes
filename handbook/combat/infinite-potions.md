@@ -70,3 +70,11 @@ the infinite potion. (Or the incremental Blessed → Greater Blessed → full pa
 
 _Historical note: pre-Sept-2021 was pure RNG (~50 hrs/piece, no guarantee). Potions made before then
 could convert to branded "Ancient" versions — no longer obtainable. Doesn't affect Jon starting now._
+
+## Sources
+
+- [BDFoundry — Infinite Potions Guide](https://www.blackdesertfoundry.com/infinite-potions-guide/)
+- [Garmoth — The Infinite HP Potion](https://garmoth.com/guides/post/the-infinite-hp-potion)
+- [Garmoth — The Infinite MP Potion](https://garmoth.com/guides/post/the-infinite-mp-potion)
+- [Garmoth — Faster Infinite Potion Quests](https://garmoth.com/guides/post/faster-infinite-potion-quests)
+- [BDO Codex — Atanis' Element (item 752530)](https://bdocodex.com/us/item/752530/)

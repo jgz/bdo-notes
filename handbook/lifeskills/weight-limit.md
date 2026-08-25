@@ -138,4 +138,14 @@ each) to the Imperial manager.
 
 _Flags: exact per-region quest LT and O'dyllita/Magnus/Atoraxxion log LT are unconfirmed (estimated);
 Pearl prices from GrumpyG may be stale (verify in client); Amity weight and current attendance/event
-weight coupons are time-sensitive — check the live boards._
+weight coupons are time-sensitive — check the live boards. Permanent weight-item IDs cross-checked
+against the NA client dump._
+
+## Sources
+
+- [BDFoundry — How to Increase Weight Limit](https://www.blackdesertfoundry.com/how-to-increase-weight-limit/)
+- [BDFoundry — Adventure Logs Overview](https://www.blackdesertfoundry.com/adventure-logs-overview/)
+- [Saarith — Weight Limit & Inventory Space](https://saarith.com/bdo-weight-limit-inventory-space/)
+- [Altar of Gaming — Max Weight Limit Increase](https://altarofgaming.com/black-desert-online-max-weight-limit-increase/)
+- [GrumpyG — Bartali Adventure Log](https://grumpygreen.cricket/bdo-bartali-adventure-log/) · [Family Inventory](https://grumpygreen.cricket/family-inventory/) · [Pearl Shop / P2W](https://grumpygreen.cricket/bdo-pearl-price/) · [Life Skill Clothes](https://grumpygreen.cricket/life-clothes/)
+- [BDO Codex — WON Magic Crystal – Cobelinus (+50 LT)](https://bdocodex.com/us/item/15806/)

@@ -117,6 +117,13 @@ the chain **Land → L1 → … → L7** (or divert **L4 → Crow Coins**). Sell
    every eligible day**, farm **Sea Monster's Ooze** (needs cannons), keep barter loops for vouchers/coins.
 4. **Long-term: Caravel → Carrack: Advance** (additional months, Khan-tier mats + L5 barter).
 
-_Sources: official NA/EU Apr-16-2026 patch notes; BDFoundry (bartering, sailing, Epheria Sailboat/Caravel,
-Carrack guides); GrumpyG (barter/sailing, sailors, Crow Coin shop, Ravinia, sailing EXP, ship durability).
-IDs via bdo-cmd. Verify current-patch mat quantities in-game._
+_Verify current-patch mat quantities in-game. IDs via bdo-cmd._
+
+## Sources
+
+- [BDFoundry — Bartering Guide](https://www.blackdesertfoundry.com/bartering-guide/)
+- [BDFoundry — Epheria Sailboat & Caravel Guide](https://www.blackdesertfoundry.com/epheria-sailboat-and-caravel-guide/)
+- [BDFoundry — Epheria Frigate & Galleass Guide](https://www.blackdesertfoundry.com/epheria-frigate-and-galleass-guide/)
+- [GrumpyG — Bartering / Sailing](https://grumpygreen.cricket/bdo-barter-sailing/)
+- [GrumpyG — Epheria Caravel](https://grumpygreen.cricket/bdo-epheria-caravel/) · [Epheria Sailboat](https://grumpygreen.cricket/bdo-epheria-sailboat-guide/)
+- Official NA/EU **Apr-16-2026 patch notes** (bartering buff).
