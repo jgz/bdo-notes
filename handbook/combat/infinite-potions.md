@@ -29,10 +29,17 @@ exchanges unlocked after the first 3.
 
 ## The pity system (THE change — grind is now guaranteed)
 
-For each of the **first 3 pieces**: collect **100 pity pieces** → trade them to **NPC Merindora (Grana)**
-for the matching **catalyst** ("roar/breath" item) → **Simple Alchemy: 100 pity pieces + catalyst = the
-full piece.** (e.g. 100 Dragon's Fang + 1 Dragon's Roar = Sherekhan's Panacea.) No more praying for a
-~50-hour RNG drop.
+For each of the **first 3 pieces**: collect **100 pity pieces**, show them to **NPC Merindora (Grana)** →
+she gives the matching **catalyst** ("roar/breath" item) **as part of that same exchange (no extra
+pieces)** → **Simple Alchemy: 100 pity pieces + catalyst = the full piece.** (e.g. 100 Dragon's Fang + 1
+Dragon's Roar = Sherekhan's Panacea.) **Net cost is a flat 100 pity pieces per component** — the catalyst
+is not an extra grind. No more praying for a ~50-hour RNG drop.
+
+**The 6 pity pieces (IDs) → component:**
+- **HP:** Dragon's Fang (40762)→Sherekhan's Panacea · Tranquil Tinniolum (40758)→Ron's Tintinnabulum ·
+  Blood Wolf's Oath (40760)→Ash Halfmoon Kagtunak.
+- **MP:** Valtarra's Memory (40754)→Valtarra's Clairvoyance · Katzvariak's Venom (40752)→Markthanan's
+  Gland · Narc's Solace (40756)→Narc's Crimson Tear.
 
 **Three ways to get pity pieces (stack them):**
 1. **⭐ Atanis' Element — Jon's stockpile.** **1 Atanis' Element = 1 pity piece**, exchanged at
@@ -57,6 +64,29 @@ Not pity-based — hand in materials at node managers:
 
 Once all 5 pieces are in hand: use **Yaz's Combinables Pouch**, arrange the 5 in a **+ shape**, combine →
 the infinite potion. (Or the incremental Blessed → Greater Blessed → full path.)
+
+## Jon's current progress (2026-08-25)
+
+Pity pieces on hand (Duvencrune) + **193 Atanis' Elements** banked (1 Element = 1 pity piece). He has
+**no** full pieces yet — only pity pieces. Need 100 per component.
+
+| Potion | Piece | Have | Short |
+|---|---|--:|--:|
+| **HP** | Blood Wolf's Oath | 70 | 30 |
+| HP | Tranquil Tinniolum | 67 | 33 |
+| HP | Dragon's Fang | 1 | 99 |
+| HP | **subtotal** | 138 | **162** |
+| **MP** | Katzvariak's Venom | 2 | 98 |
+| MP | Narc's Solace | 2 | 98 |
+| MP | Valtarra's Memory | 0 | 100 |
+| MP | **subtotal** | 4 | **296** |
+
+**Plan: finish HP now.** 193 Elements ≥ 162 HP short → spend **162** to complete all 3 HP pity components,
+**31 left**. Then HP still needs its **last 2** (Gayak's Courage Stone = 30 Garmoth's Scales · Musical
+Spirit's Sound Stone = 300 Peridot Leaves — _do these mats exist? TBD_) → Yaz's Pouch → **infinite HP
+done.** MP is 296 short; the 31 leftover barely dents it → grind Tshira/Manshaum/Navarn + 3 MP weeklies
+(+5 each) over time, then the MP last-2 exchanges. _(Eyeball the Atanis→pity ratio in-client before
+dumping all 162 — 1:1 is community-stated, not printed by BDFoundry.)_
 
 ## Jon's action plan
 
