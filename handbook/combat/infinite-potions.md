@@ -97,8 +97,9 @@ catalyst) = the component:
 
 **Phase 2 — buy Everlasting Water** (40745) from Merindora (needed for the first combine).
 
-**Phase 3 — combine ladder** via **Yaz's Combinables Pouch** (open inventory → click the pouch icon at
-the bottom). **Shape matters:**
+**Phase 3 — combine ladder** via **Yaz's Combinables Pouch** — this is a **UI button, NOT an item to
+acquire**: open your inventory and click the pouch icon at the bottom of the window. It opens the
+combination grid. **Shape matters:**
 1. **Blessed Spirit Essence** (250 HP) — **minus (−) shape**: 1 component (e.g. Sherekhan's Panacea) +
    Everlasting Water.
 2. **Greater Blessed Spirit Essence** (400 HP) — **minus (−) shape**: the Blessed Essence + a **different**
