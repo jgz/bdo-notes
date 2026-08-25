@@ -36,6 +36,17 @@ ship (doubled weight vs Sailboat); Carrack Advance is the long-term chase.
 
 ## Building it (the grind)
 
+### Getting ship blueprints
+
+The **Epheria Sailboat / Frigate blueprints** come from **`[Repeat] Philaberto Falasi's Request`**
+(Philaberto Falasi, Port Epheria): hand over **10 rough gemstones** — any one of Rough Ruby / Sapphire /
+Topaz / Emerald / Diamond (turn in the cheapest) → one **partial blueprint** (pick Sailboat *or*
+Frigate). Need **several** partials to build; assemble at **Port Epheria 3-5, 2F Shipyard**.
+**No longer a daily (2026-08-25)** — it's now **infinitely repeatable in one sitting**, so just batch out
+however many blueprints you need when you're actually ready to build (Jon parks **Dosa** in Port Epheria
+for this). Rough gemstones come from **grinding raw gems** (Amethyst/Ruby/etc.) via processing, or off the
+market.
+
 - **4 ship parts** per ship (figurehead / plating / cannon / sail): craft green grade → enhance to **+10**
   → craft blue grade → +10. Enhanced with **Tidal Black Stone** (id **756001**; from barter vouchers via
   Ravinia). _(Epheria **Sailboat/Frigate** gear instead uses **Verdant Black Stone**, id **45506**.)_
