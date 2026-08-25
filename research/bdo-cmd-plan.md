@@ -72,7 +72,8 @@ agent-consumable.
 > In BDO, **most crafting/processing/flipping is marginal-to-unprofitable when you buy the inputs**:
 > finished goods often sell for *less* than their mats (classic example: a boat deco sells ~400k vs ~1.4M
 > in mats → sell the raws); processing margins are thin (~8% seen) unless the mat was free or demand is
-> real; and flipping is gutted by the **±7.5% price band + 35% tax** (65% payout, 84.5% w/ Value Pack).
+> real; and flipping is gutted by the **±7.5% price band + 35% tax** (65% payout, 84.5% w/ Value Pack; **Jon's
+actual net = 85.15% / ×0.8515** — VP + 1% family fame — use this for his sell math).
 > The genuinely profitable loops **bypass market pricing**: Imperial cooking/alchemy (NPC pays **250%**),
 > selling **free worker-gathered raws**, and a few price-sensitive niches. **So `craft profit`'s most
 > common correct answer is "don't craft — sell the raws," and its value is catching the rare positive
