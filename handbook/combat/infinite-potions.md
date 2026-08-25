@@ -81,10 +81,11 @@ Pity pieces on hand (Duvencrune) + **193 Atanis' Elements** banked (1 Element = 
 | MP | Valtarra's Memory | 0 | 100 |
 | MP | **subtotal** | 4 | **296** |
 
-**Plan: finish HP now.** 193 Elements ≥ 162 HP short → spend **162** to complete all 3 HP pity components,
-**31 left**. HP **last 2** are in hand: **Gayak's Courage Stone** = 30 Garmoth's Scales (✅ has) · **Musical
-Spirit's Sound Stone** = 300 **Peridot Leaf** (item 44295 — Jon has it; confirm the count reaches 300,
-counting Peridot Petal/Fruit/Tree higher denominations). Then Yaz's Pouch → **infinite HP done.** MP is 296 short; the 31 leftover barely dents it → grind Tshira/Manshaum/Navarn + 3 MP weeklies
+**Plan: finish HP now — FULLY UNBLOCKED (2026-08-25).** All three HP requirements are covered with
+surplus: 193 Atanis' Elements ≥ 162 pity short (31 left); **200+ Garmoth's Scales** ≥ 30 (Gayak's Courage
+Stone); **1,289 Peridot Leaf** (item 44295) ≥ 300 (Musical Spirit's Sound Stone). Nothing left to
+gather — just execute: spend 162 Elements → 3 pity components at Merindora → 2 exchanges → Yaz's Pouch →
+**infinite HP potion.** MP is 296 short; the 31 leftover barely dents it → grind Tshira/Manshaum/Navarn + 3 MP weeklies
 (+5 each) over time, then the MP last-2 exchanges. _(Eyeball the Atanis→pity ratio in-client before
 dumping all 162 — 1:1 is community-stated, not printed by BDFoundry.)_
 
