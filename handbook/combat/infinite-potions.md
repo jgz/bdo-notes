@@ -130,10 +130,18 @@ combination grid. **Shape matters:**
 - Don't confuse your pieces with the **"Ancient"** versions (40736–40744) — those are the pre-Sept-2021
   legacy items, not what you're making.
 
-## Jon's current progress (2026-08-25)
+## ✅ DONE (2026-08-25) — a day-one goal, finally closed
 
-Pity pieces on hand (Duvencrune) + **193 Atanis' Elements** banked (1 Element = 1 pity piece). He has
-**no** full pieces yet — only pity pieces. Need 100 per component.
+- **HP (Ornette's Spirit Essence): CRAFTED.** Finished via the banked Atanis' Elements + Garmoth's Scales
+  + Peridot Leaf → Yaz's Pouch. Sits in Family Inventory for the whole account.
+- **MP (Odore's Spirit Essence): BOUGHT** off the market (~10B) rather than grinding — the correct call
+  (see grind-vs-buy above).
+- **The infinite-potion grind is complete.** Nothing left here. Snapshot below kept for reference.
+
+## Progress snapshot (at start of the 2026-08-25 push)
+
+Pity pieces on hand (Duvencrune) + **193 Atanis' Elements** banked (1 Element = 1 pity piece). Only pity
+pieces, no full pieces. Need 100 per component.
 
 | Potion | Piece | Have | Short |
 |---|---|--:|--:|
