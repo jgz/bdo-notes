@@ -84,10 +84,45 @@ Not pity-based — hand in materials at node managers:
 - **MP:** Krogdalo's Protection Stone = **100 Rumbling Earth Shards** · Night Crow's Dawn Stone = **100
   Dragon Scale Fossils** (Forboding Altar).
 
-## Final craft
+## Final craft — exact HP step-by-step (verified vs client data)
 
-Once all 5 pieces are in hand: use **Yaz's Combinables Pouch**, arrange the 5 in a **+ shape**, combine →
-the infinite potion. (Or the incremental Blessed → Greater Blessed → full path.)
+You currently hold **pity pieces**, not components. Full path, in order:
+
+**Phase 1 — make the 3 grinded components** (at **Merindora**, Grana). For each, top pity pieces to 100
+(spend Atanis' Elements), show Merindora the 100 → she gives the catalyst → Simple Alchemy (100 pity +
+catalyst) = the component:
+- Blood Wolf's Oath 70 → +30 Elements → **Ash Halfmoon Kagtunak**
+- Tranquil Tinniolum 67 → +33 Elements → **Ron's Tintinnabulum**
+- Dragon's Fang 1 → +99 Elements → **Sherekhan's Panacea**  _(162 Elements total; Jon has 193)_
+
+**Phase 2 — buy Everlasting Water** (40745) from Merindora (needed for the first combine).
+
+**Phase 3 — combine ladder** via **Yaz's Combinables Pouch** (open inventory → click the pouch icon at
+the bottom). **Shape matters:**
+1. **Blessed Spirit Essence** (250 HP) — **minus (−) shape**: 1 component (e.g. Sherekhan's Panacea) +
+   Everlasting Water.
+2. **Greater Blessed Spirit Essence** (400 HP) — **minus (−) shape**: the Blessed Essence + a **different**
+   2nd component (e.g. Ron's Tintinnabulum).
+3. **Get the last 2 pieces:** 30 Garmoth's Scales → **Gayak's Courage Stone** (Camira) · 300 Peridot Leaf
+   → **Musical Spirit's Sound Stone** (Moyamo).
+4. **Ornette's Spirit Essence** (550 HP) — **plus (+) shape**: Greater Blessed + the **3rd** component
+   (Ash Halfmoon Kagtunak) + Gayak's Courage Stone + Musical Spirit's Sound Stone.
+
+**Phase 4 — park it in Family Inventory** to use on any character.
+
+### ⚠️ How you can screw it up (the pitfalls)
+- **NEVER cross HP and MP pieces in a combine.** This is *the* classic mistake — an MP piece slipped into
+  an HP essence (or vice versa). Jon is only doing HP now (buying MP), so keep every MP piece **out** of
+  these steps.
+- **Shape per stage:** minus (−) for **both** Blessed and Greater Blessed; plus (+) **only** for the
+  final Ornette's. Wrong shape = wrong result.
+- **A different component at each stage** — each of the 3 grinded components is used exactly once; **no
+  duplicates** in the final (you have 1 of each — don't try to reuse one).
+- ✅ **Safety net:** if you cross pieces / accidentally make two different essences, **use Simple Alchemy
+  on the Blessed Spirit Essence to return the pieces.** So mistakes are recoverable at the Blessed
+  stage — go slow and read each combine result before confirming.
+- Don't confuse your pieces with the **"Ancient"** versions (40736–40744) — those are the pre-Sept-2021
+  legacy items, not what you're making.
 
 ## Jon's current progress (2026-08-25)
 
