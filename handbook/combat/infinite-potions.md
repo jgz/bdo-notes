@@ -103,8 +103,11 @@ the bottom). **Shape matters:**
    Everlasting Water.
 2. **Greater Blessed Spirit Essence** (400 HP) — **minus (−) shape**: the Blessed Essence + a **different**
    2nd component (e.g. Ron's Tintinnabulum).
-3. **Get the last 2 pieces:** 30 Garmoth's Scales → **Gayak's Courage Stone** (Camira) · 300 Peridot Leaf
-   → **Musical Spirit's Sound Stone** (Moyamo).
+3. **Get the last 2 pieces — GATED:** these exchanges **do not appear until the Greater Blessed Essence
+   exists** (verified in-game 2026-08-25 — Jon had no Moyamo turn-in option before this step). After
+   making Greater Blessed, talk to **Merindora** to unlock them, then: 30 Garmoth's Scales → **Gayak's
+   Courage Stone** (Camira) · 300 Peridot Leaf → **Musical Spirit's Sound Stone** (Moyamo). The scales/
+   leaves just sit in your bag until then.
 4. **Ornette's Spirit Essence** (550 HP) — **plus (+) shape**: Greater Blessed + the **3rd** component
    (Ash Halfmoon Kagtunak) + Gayak's Courage Stone + Musical Spirit's Sound Stone.
 
