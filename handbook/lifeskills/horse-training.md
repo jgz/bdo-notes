@@ -26,6 +26,12 @@
 5. **T9 → T10 Mythical:** two same-type **Lv 30** T9s (M + F) + a **Mythical Censer**, **3% + 0.2%/fail**;
    success consumes both, failure returns both. All three Mythicals → **Krogdalo's Sanctuary**.
 
+**Krogdalo's Origin Stone** (id 50801, for Courser awakening): **buy off the Central Market** — **~40M
+each, deep supply** (~278 listed, 2026-08-25). It also appears in the **Atanis' Element** exchange
+(Merindora), but that is **NOT** its main source — **don't grind Atanis dailies for these**; the market
+is cheap and unlimited. Only convert *leftover* Atanis' Elements (e.g. Jon's ~30 post-infinite-potion)
+since they'd otherwise sit unused.
+
 **Method:** wagon (Forest Path, 4 horses) = bulk-level breeding fodder; **solo** = courser candidates &
 leveling a Dream/Mythical (keeps costume set + full per-level skill rolls). Mount EXP scales with
 distance/speed. Training Guru 20 ≈ ~100% skill-learn per level.
