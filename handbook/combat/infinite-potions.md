@@ -8,12 +8,29 @@
 
 ## What they are / why finish them
 
-- **Ornette's Spirit Essence** = **infinite HP potion** (HP Recovery **+275**, 2s cooldown, per current
-  official notes; some guides cite 550 — verify in-client).
-- **Odore's Spirit Essence** = **infinite MP/WP/SP potion** (Recovery **+325**, 6s cd — every class's resource).
+- **Ornette's Spirit Essence** = **infinite HP potion** (Recover **550 HP**, instant, 2s cd — per item data).
+- **Odore's Spirit Essence** = **infinite MP/WP/SP potion** (Recover **375**, instant, 5s cd — every class's resource).
 - **Never deplete, cost 0 silver forever, weigh ~50 LT total** (vs ~20 XL potions of weight) — saves
   billions over time and frees inventory/weight. Once crafted, drop them in **Family Inventory** and use
   across all characters. This is a permanent account QoL win — worth closing out.
+
+## ⚖️ Grind vs BUY (Jon, 2026-08-25) — different answer for HP vs MP
+
+**Pieces + components are all BOUND** (can't buy). Only the **finished potion is tradable**, register
+limit 1: **Ornette's HP (id 40770) ~9.9B · Odore's MP (id 40771) ~9.8–10B** (both in stock, buyable now).
+So it's all-or-nothing per potion: grind the whole thing, or buy the finished one.
+
+- **HP → CRAFT (free).** Jon already holds the 162 Atanis' Elements + scales + Peridot. Elements are
+  bound (0 market value, no other use) → completing HP costs ~nothing. Buying HP would waste ~10B.
+- **MP → BUY (~10B).** The MP pity zones (Tshira/Manshaum/Navarn) are old, low-silver; grinding yields
+  **bound pity pieces worth 0 on market** + weak loot (~1–2B/hr real value), and MP needs ~265 more pity
+  (after 31 Elements) + the last-2 exchanges + combine ≈ **20–30+ hrs**. Instead grind a top spot at GS
+  754 (~4–8B/hr) ~2 hrs and buy Odore's — **~10× the time-efficiency**, and it skips the entire MP grind.
+  The 31 leftover Elements + 4 MP pieces are a tiny sunk cost.
+
+**Principle:** finished good tradable + inputs **bound and only farmable in low-value zones** → high-GS
+player grinds best silver/hr and **buys**. (Inverse of the Void-crystal case, where the grind loot had
+market value — see [research/bdo-cmd-plan.md](../../research/bdo-cmd-plan.md).)
 
 ## The 5 pieces per potion
 
