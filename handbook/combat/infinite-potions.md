@@ -105,13 +105,11 @@ the bottom). **Shape matters:**
    2nd component (e.g. Ron's Tintinnabulum).
 3. **Get the last 2 pieces — GATED by a Merindora KNOWLEDGE** (verified 2026-08-25 — Moyamo shows no
    turn-in without it). The Camira/Moyamo exchanges only open once you hold the **"Ornette's Spirit
-   Essence" knowledge**, obtained by **showing Merindora (Grana) the components** — NOT from Moyamo/Camira
-   themselves. ⚠️ **Best order: show Merindora all 3 components BEFORE combining any into Blessed/Greater
-   Blessed** (the show-check normally wants 3 loose pieces). If you already made Greater Blessed (it eats
-   2 pieces) and Merindora won't grant the knowledge, **Simple-Alchemy the Greater Blessed/Blessed Essence
-   to recover the 2 pieces**, show all 3, get the knowledge, then re-combine. Then: 30 Garmoth's Scales →
-   **Gayak's Courage Stone** (Camira, Sherekhan Necropolis) · 300 Peridot Leaf → **Musical Spirit's Sound
-   Stone** (Moyamo).
+   Essence" knowledge** from **Merindora (Grana)** — NOT from Moyamo/Camira themselves. **Confirmed
+   2026-08-25: Merindora grants the knowledge even after you've already made the Greater Blessed Essence**
+   (which consumed 2 of the 3 components) — you do NOT need to reverse anything; having Greater Blessed +
+   the 3rd loose piece is fine. Once you have the knowledge: 30 Garmoth's Scales → **Gayak's Courage
+   Stone** (Camira, Sherekhan Necropolis) · 300 Peridot Leaf → **Musical Spirit's Sound Stone** (Moyamo).
 4. **Ornette's Spirit Essence** (550 HP) — **plus (+) shape**: Greater Blessed + the **3rd** component
    (Ash Halfmoon Kagtunak) + Gayak's Courage Stone + Musical Spirit's Sound Stone.
 
