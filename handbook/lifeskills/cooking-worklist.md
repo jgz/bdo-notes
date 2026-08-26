@@ -47,4 +47,52 @@ Per craft (~0.98 LT/craft → ~1,630 crafts fills the bag):
 
 _Prereq: process Lump of Raw Sugar first (Velia has 499 + 47k Raw Sugar = ~4,700 Lumps of headroom)._
 
-_(Balenos tree recipes get confirmed next.)_
+### 🎯 Substitution rule (Jon's optimization heuristic, 2026-08-26)
+Most cooking ingredients have **alternates**, and Jon has access to nearly all of them — so the choice is
+"**use the substitute backed by the most node throughput.**" Current standing choices:
+- **Pumpkin** wherever Cabbage is called for (most pumpkin nodes; ~19k across Calpheon/Heidel/Velia).
+- **Wheat** (→ Wheat Flour → Wheat Dough) over Potato (most wheat nodes). _(Wheat-vs-Potato value math TODO.)_
+- **Meat** = the **hunted/butchered meat group** (Rhino/Bear/Wolf/Deer/…), NOT Chicken — uses whatever's
+  stocked. (Chicken Meat is only for Grilled Bird Meat below.)
+- **Fish** = any — Jon picks from node/market stock. Until storages are captured, the worklist gives the
+  **quantity needed** and Jon fills it from whatever he has.
+
+_This substitution optimization (which alternate per node throughput) is where a future tool could help —
+for now, the heuristic above is the rule._
+
+### ✅ Balenos Meal tree (9601) — Jon's confirmed recipes
+Per craft. **Balenos Meal** = 1 Cheese Gratin + 1 Meat Croquette + 1 Smoked Fish Steak + 2 Stir-Fried Veg + 2 Beer.
+
+| Recipe | Ingredients (per craft) | Notes |
+|---|---|---|
+| **Meat Croquette** (9404) | 8 **Meat**(hunted) · 5 Wheat Flour · 2 Cheese · 2 Egg · 4 Deep Frying Oil🏪 | meat = hunted group, uses stock |
+| **Grilled Sausage** (9427) | 6 **Meat**(hunted) · 1 Onion · 2 Salt🏪 · 2 Pepper | |
+| **Smoked Fish Steak** (9417) | 1 **Fish**(any) · 2 Salt🏪 · 1 Olive Oil🏪 | Jon fills fish from stock/market; 52k already made |
+| **Cheese Gratin** (9203) | 5 Wheat Dough⚙️ · 4 **Pumpkin**🌾(subs Cabbage) · 1 Grilled Sausage · 3 Cheese⚙️ · 3 Red Sauce⚙️ | |
+| **Stir-Fried Veg** (9241) | 5 **Pumpkin**🌾(subs Cabbage) · 2 Olive Oil🏪 · 2 **HQ Hot Pepper** · 1 Salt🏪 | HQ Hot Pepper = **downgraded** from Special (NPC) — maintenance reminder |
+| **Beer** (9213) | 5 Wheat🏭 · 6 Mineral Water🏪 · 2 Leavening Agent🏪 · 1 Sugar🏪 | |
+| **Red Sauce** (9004) ⚙️craft | 1 Base Sauce🏪 · 1 **Meat**(hunted) · 2 Mineral Water🏪 · 2 Sugar🏪 | Jon crafts it (not vendor/market) |
+| **Wheat Flour** (7101) ⚙️grind | 1 Wheat🏭 | over Potato Flour |
+| **Wheat Dough** (7201) ⚙️shake | 1 Wheat Flour · 1 Mineral Water🏪 | over Potato Dough |
+| **Cheese** (9062) ⚙️dry | 1 Milk🏭 | |
+
+**Meat is consumed in Croquette (8) + Sausage (6) + Red Sauce (1)** — the hunted-meat group, **bought off
+market** (Jon's known recurring cost). Uses whatever's stocked (Velia: Rhino 8.6k, Bear 3.2k, Wolf 639).
+
+### Side products (worker/pet food — keep a small stockpile, not bulk)
+- **Grilled Bird Meat** (9492) — worker food. 2 **Chicken Meat** · 6 Deep Frying Oil🏪 · 2 Cooking Wine🏪 ·
+  1 Salt🏪. Velia has 33.8k — keep topped up.
+- **Organic Feed** (54018) — pet food, keep ~1,000. 2 dried fish · 5 Meat · 1 Mudskipper · 4 Chicken Meat.
+
+### Maintenance reminders (feed the recipes above)
+- ⚙️ **Process Lump of Raw Sugar** (Confit + wild-horse capture bait).
+- 🌶️ **Downgrade Special Hot Pepper → HQ Hot Pepper** at the NPC (for Stir-Fried Veg).
+- ⚙️ Keep **Wheat Flour / Wheat Dough** and **Cheese** processed ahead of the sub-components that need them.
+
+### The 4-stream dashboard (the deliverable)
+For each work cycle, generated from demand targets + current stock:
+1. 🌾 **Farm** — plant priority (Special Carrot, Special Hot Pepper→downgrade, Onion; Pumpkin is worker-node)
+2. ⚙️ **Process** — Wheat Flour/Dough, Cheese, Red Sauce, Lump of Raw Sugar (full-bag batches)
+3. 🏪 **Vendor** — bulk-buy shopping list (threshold ~10k)
+4. 💰 **Market** — hunted meat (+ fish as needed)
+   → **Cook** — sub-components → Balenos Meals; Carrot Confit; side products. Full-bag batches, one each.
