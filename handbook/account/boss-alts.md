@@ -59,15 +59,32 @@ world-boss timer** (Jon's populated server; that's the source of truth — check
   why he parked here years ago — building Ogre/Witch; no longer needed.)
 - **Black Shadow** — newer boss in the rotation (Sun ~17:00). Verify its drops.
 
-**Priority order** (Jon is heading toward one char per boss — this is the fill order as slots open, best
-value first):
-1. **Vell** — Vell's Heart (crystal). Top value.
-2. **Nouver · Kzarka · Kutum** — weapon/offhand bosses; weapons sell + hearts + drops; co-spawn constantly.
-   (Karanda already held by Shai.)
-3. **Offin** — Cobelinus weight crystals + Valtarra belt + Lemoria + stones. Solid mid-tier.
-4. **Black Shadow** — newer; verify drops, slot accordingly.
-5. **Quint & Muraka** — last. For Jon their accessory value (Ogre/Witch) is below Kharazad, so it's just
-   black stones + gold + Hunter's Seals — do them for completeness/silver once everything else is covered.
+## The real metric — SELLABLE jackpot value per kill (2026-08-26, live prices)
+
+World bosses are **time-gated ~5-min scheduled kills, not a grind** → they don't compete with silver/hr;
+they're **additive free money** on top of the schedule (esp. the co-spawn second kill). So the metric is
+**what the drop SELLS for** (Jon's rule: everything's buyable, so sell the drop and buy what you need),
+not whether Jon can use it. Jackpot sell values:
+
+| Boss | Top sellable drop(s) | Value |
+|---|---|--:|
+| **Vell** | Vell's Heart | **16.5B** |
+| **Garmoth** | Garmoth's Heart | **11.2B** |
+| **Kzarka** | Kzarka weapon (base) | ~178M |
+| **Offin** | Radiant weapon 93M · Valtarra Belt 30M · Cobelinus crystals | ~93M |
+| **Kutum / Nouver** | offhand weapon | ~86M / ~80M |
+| **Quint / Muraka** | **Tungrad Necklace 64M · Serap's Necklace 57.5M · Ogre Ring 49.5M** | ~50–64M |
+| **Karanda** | Ring of Crescent Guardian 27M · Witch's Earring ~5M | ~27M |
+
+**Correction:** Quint/Muraka are NOT bottom-tier — via the sell-it lens they drop **Tungrad/Serap's
+Necklaces (~57–64M)**, same band as the weapon bosses. Being past Ogre/Witch for *personal* use is
+irrelevant — they still sell.
+
+**Verdict:** once Jon has bodies for all, **do every boss** — each is net-positive on a schedule he's
+running anyway. Ranking is just jackpot size: **Vell & Garmoth first (11–16B hearts, the lottery
+tickets)**, then the ~50–180M-jackpot bosses (Kzarka > Offin > Kutum/Nouver ≈ Quint/Muraka) > Karanda.
+⚠️ These are *jackpot* values, not per-kill EV — true silver/kill = drop-rate × value (TODO: pull drop
+rates; a 178M Kzarka likely drops more often than a 16B Vell heart).
 
 Armor bosses (Bheg/Giath/Dim Tree/Urugon/Red Nose/Griffon) stay obsolete — skip.
 
