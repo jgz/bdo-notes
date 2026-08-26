@@ -40,6 +40,7 @@ checks out exactly.
 > **Full recipe tree + sourcing audit → [balenos-cooking.md](balenos-cooking.md).**
 > **Weight Limit is the cooking bottleneck — free-first plan → [weight-limit.md](weight-limit.md).**
 > **Why crafting pays when self-supplied: mastery ≈ 2× yield → [mastery-yield.md](mastery-yield.md).**
+> **Buffs for long cooking sessions (cook time / mastery / weight) → [cooking-buffs.md](cooking-buffs.md).**
 
 - Meal = **Balenos**. Guru's Cooking Boxes turn in at **800k each** (the Imperial NPC pays 250% of box
   value; **800k is the cap**, already hit at 1,400 mastery → more cooking mastery won't raise box income).
