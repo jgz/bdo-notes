@@ -51,7 +51,7 @@ _Prereq: process Lump of Raw Sugar first (Velia has 499 + 47k Raw Sugar = ~4,700
 Most cooking ingredients have **alternates**, and Jon has access to nearly all of them — so the choice is
 "**use the substitute backed by the most node throughput.**" Current standing choices:
 - **Pumpkin** wherever Cabbage is called for (most pumpkin nodes; ~19k across Calpheon/Heidel/Velia).
-- **Wheat** (→ Wheat Flour → Wheat Dough) over Potato (most wheat nodes). _(Wheat-vs-Potato value math TODO.)_
+- **Wheat** → Wheat Flour → Wheat Dough; **Potato** → Beer (grain split: wheat nodes feed flour/dough, potato nodes feed beer).
 - **Meat** = the **hunted/butchered meat group** (Rhino/Bear/Wolf/Deer/…), NOT Chicken — uses whatever's
   stocked. (Chicken Meat is only for Grilled Bird Meat below.)
 - **Fish** = any — Jon picks from node/market stock. Until storages are captured, the worklist gives the
@@ -70,7 +70,7 @@ Per craft. **Balenos Meal** = 1 Cheese Gratin + 1 Meat Croquette + 1 Smoked Fish
 | **Smoked Fish Steak** (9417) | 1 **Fish**(any) · 2 Salt🏪 · 1 Olive Oil🏪 | Jon fills fish from stock/market; 52k already made |
 | **Cheese Gratin** (9203) | 5 Wheat Dough⚙️ · 4 **Pumpkin**🌾(subs Cabbage) · 1 Grilled Sausage · 3 Cheese⚙️ · 3 Red Sauce⚙️ | |
 | **Stir-Fried Veg** (9241) | 5 **Pumpkin**🌾(subs Cabbage) · 2 Olive Oil🏪 · 2 **HQ Hot Pepper** · 1 Salt🏪 | HQ Hot Pepper = **downgraded** from Special (NPC) — maintenance reminder |
-| **Beer** (9213) | 5 Wheat🏭 · 6 Mineral Water🏪 · 2 Leavening Agent🏪 · 1 Sugar🏪 | |
+| **Beer** (9213) | 5 **Potato**🏭(subs Wheat) · 6 Mineral Water🏪 · 2 Leavening Agent🏪 · 1 Sugar🏪 | Potato = what the potato nodes feed (51k stocked) |
 | **Red Sauce** (9004) ⚙️craft | 1 Base Sauce🏪 · 1 **Meat**(hunted) · 2 Mineral Water🏪 · 2 Sugar🏪 | Jon crafts it (not vendor/market) |
 | **Wheat Flour** (7101) ⚙️grind | 1 Wheat🏭 | over Potato Flour |
 | **Wheat Dough** (7201) ⚙️shake | 1 Wheat Flour · 1 Mineral Water🏪 | over Potato Dough |

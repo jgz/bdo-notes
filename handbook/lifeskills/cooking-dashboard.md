@@ -26,7 +26,7 @@ Do top-down; each card assumes the ones above supplied their outputs. Done → d
 ### Beer — 1,190 crafts
 | Ingredient | Pull |
 |---|--:|
-| Wheat | 5,950 |
+| Potato | 5,950 |
 | Mineral Water | 7,140 |
 | Leavening Agent | 2,380 |
 | Sugar | 1,190 |
