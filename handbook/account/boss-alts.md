@@ -48,10 +48,26 @@ world-boss timer** (Jon's populated server; that's the source of truth — check
 - **Garmoth** — twice daily (**00:15 & 15:00**), solo slot. ✅ WooJeezy covers it.
 - **Kzarka · Nouver · Kutum · Karanda** — weapon/offhand bosses, co-spawn constantly with LotML. Prime
   targets for parked alts (weapons melt to black stones / minor use; hearts).
-- **Offin** — Offin Tett weapon materials.
-- **Quint & Muraka** (Calpheon Elders, ~17:00–20:00 slots) — drop-heavy pair.
-- **Vell** (sea) — **Vell's Heart** (crystal), high value; ~17:00/20:00 weekend slots.
+- **Vell** (sea) — **Vell's Heart** (crystal), high value; ~17:00/20:00 weekend slots. **Priority.**
+- **Offin** — **OPTIONAL.** Drops **Cobelinus weight crystals** (JIN/BON/WON — ties into Jon's weight
+  bottleneck), **Valtarra Eclipsed Belt**, Lemoria set, black stones/crystals, and the Offin Tett's
+  Radiant Weapon (yellow primary — sells, but obsolete vs Blackstar/Sovereign). A "crystals + belt + stone"
+  farm; worth it only if a spare char frees up.
+- **Quint & Muraka** (Calpheon Elders, ~17:00–20:00) — **SKIP for Jon.** Their value is **Ogre Ring /
+  Witch's Earring** accessory progression (Dim Ogre Ring + Mutant Enhancers + Hunter's Seals). Jon is on
+  **PEN Kharazad**, which sits *above* those accessories → the whole purpose is obsolete for him. (This is
+  why he parked here years ago — building Ogre/Witch; no longer needed.)
 - **Black Shadow** — newer boss in the rotation (Sun ~17:00). Verify its drops.
+
+**Priority order** (Jon is heading toward one char per boss — this is the fill order as slots open, best
+value first):
+1. **Vell** — Vell's Heart (crystal). Top value.
+2. **Nouver · Kzarka · Kutum** — weapon/offhand bosses; weapons sell + hearts + drops; co-spawn constantly.
+   (Karanda already held by Shai.)
+3. **Offin** — Cobelinus weight crystals + Valtarra belt + Lemoria + stones. Solid mid-tier.
+4. **Black Shadow** — newer; verify drops, slot accordingly.
+5. **Quint & Muraka** — last. For Jon their accessory value (Ogre/Witch) is below Kharazad, so it's just
+   black stones + gold + Hunter's Seals — do them for completeness/silver once everything else is covered.
 
 Armor bosses (Bheg/Giath/Dim Tree/Urugon/Red Nose/Griffon) stay obsolete — skip.
 
