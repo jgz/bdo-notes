@@ -51,7 +51,7 @@ _Prereq: process Lump of Raw Sugar first (Velia has 499 + 47k Raw Sugar = ~4,700
 Most cooking ingredients have **alternates**, and Jon has access to nearly all of them — so the choice is
 "**use the substitute backed by the most node throughput.**" Current standing choices:
 - **Pumpkin** wherever Cabbage is called for (most pumpkin nodes; ~19k across Calpheon/Heidel/Velia).
-- **Wheat** → Wheat Flour → Wheat Dough; **Potato** → Beer (grain split: wheat nodes feed flour/dough, potato nodes feed beer).
+- **Grain (Wheat/Potato) is fully interchangeable** — Wheat Flour = Potato Flour, Wheat Dough = Potato Dough (identical grade/weight/recipe use/market value ~4,190; only the raw grain differs, Potato ~2,190 < Wheat ~2,720). So the split is **pure node-throughput preference**: Jon runs Wheat → Flour/Dough, Potato → Beer. Either grain works anywhere.
 - **Meat** = the **hunted/butchered meat group** (Rhino/Bear/Wolf/Deer/…), NOT Chicken — uses whatever's
   stocked. (Chicken Meat is only for Grilled Bird Meat below.)
 - **Fish** = any — Jon picks from node/market stock. Until storages are captured, the worklist gives the
