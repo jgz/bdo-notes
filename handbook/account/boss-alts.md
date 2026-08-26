@@ -16,15 +16,60 @@ Stones (All AP / Accuracy / DR / …), and the rare Flame of the Primordial** �
 Primordial weapon enhance + reform materials.** That feeds the exact endgame weapon Jon is working
 toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-bosses-loml-guide/)
 
-## Current alt positions
+## Current alt positions (2026-08-26)
 
-| Alt | Class | Parked at | Notes |
-|---|---|---|---|
-| **Mysteezy** | Mystic | **Uturi** (LoML world boss) | Moving up 2026-08-22 (next spawn); leaving there for the foreseeable future |
-| **WooJeezy** | Woosa | **Garmoth** | Staying put — keep for **Garmoth's Heart** |
-| **Witcheezy** | Witch | **Golden Pig King** (LoML world boss) | Relocated 2026-08-22. **Tagged to Maegu** — full gear copied (450M, Maegu on rotation) + banks Maegu's combat EXP; **Travel Separately** keeps it parked at the boss. Playable on demand. → [tagging](tagging.md) |
+**All 4 LotML world-boss types are now covered**, plus Garmoth:
 
-_(Building this out as Jon relocates each alt.)_
+| Alt | Class | Parked at | Type | Notes |
+|---|---|---|---|---|
+| **Sorceezy** | Sorceress | **Sangoon** (LotML) | LotML | Moving 2026-08-26 |
+| **Witcheezy** | Witch | **Golden Pig King** (LotML) | LotML | **Tagged to Maegu** (full gear copied, banks Maegu EXP; Travel Separately keeps it parked) → [tagging](tagging.md) |
+| **Guardeezy** | Guardian | **Bulgasal** (LotML) | LotML | Moving 2026-08-26 |
+| **Mysteezy** | Mystic | **Uturi** (LotML) | LotML | Parked since 2026-08-22 |
+| **WooJeezy** | Woosa | **Garmoth** | Classic | Staying — **Garmoth's Heart** |
+
+## 2026 world-boss changes (affect the strategy)
+
+- **The 4 LotML bosses = Sangoon, Golden Pig King, Bulgalsal, Uturi.** Loot **drops directly** now (no
+  longer tied to weekly quests), and **you only need to kill ONE of each type per week for all that
+  type's rewards** → so **one alt per LotML type is enough; duplicates don't add LotML loot.** ✅ Jon has
+  exactly that. Drops: Advice of Valks +30/+40, Morning Light Boss Tokens, **Flame of the Primordial**,
+  **Embers/Primordial Crystal (Sovereign mats)**, Reforge Stones, Caphras, gold/black stones.
+- **Bosses now spawn max 2 per slot** (was 3–4).
+
+## ⭐ The co-spawn strategy (why Jon also wants CLASSIC alts)
+
+A LotML boss shares its time slot with a **classic** boss. Log into the **LotML alt** (better loot), kill
+it, log out, log into the **classic alt** for the same slot, kill that too — two bosses per slot. Pairing
+rotates by day/time; the LotML boss is always stacked with one classic. **Live schedule → Garmoth.com's
+world-boss timer** (Jon's populated server; that's the source of truth — check it for the day's slots).
+
+**Classic bosses in the rotation** (from Jon's Garmoth.com schedule, 2026-08-26):
+- **Garmoth** — twice daily (**00:15 & 15:00**), solo slot. ✅ WooJeezy covers it.
+- **Kzarka · Nouver · Kutum · Karanda** — weapon/offhand bosses, co-spawn constantly with LotML. Prime
+  targets for parked alts (weapons melt to black stones / minor use; hearts).
+- **Offin** — Offin Tett weapon materials.
+- **Quint & Muraka** (Calpheon Elders, ~17:00–20:00 slots) — drop-heavy pair.
+- **Vell** (sea) — **Vell's Heart** (crystal), high value; ~17:00/20:00 weekend slots.
+- **Black Shadow** — newer boss in the rotation (Sun ~17:00). Verify its drops.
+
+Armor bosses (Bheg/Giath/Dim Tree/Urugon/Red Nose/Griffon) stay obsolete — skip.
+
+## Available characters → classic-boss gaps
+
+Unassigned (from [roster](roster.md)): **Shai, Kunoichi, Lahn, Dosa, Scholar** (5). _(Note: Shai is parked
+at Karanda Ridge — may already be the Karanda alt; confirm.)_ Suggested fills, by classic value:
+
+| Boss | Why | Candidate |
+|---|---|---|
+| **Vell** | Vell's Heart (crystal) — high value | 1 alt |
+| **Nouver** | co-spawns most often; offhand + melts | 1 alt |
+| **Kzarka** | co-spawns; main weapon / melt | 1 alt |
+| **Kutum** | offhand + Kutum drops | 1 alt |
+| **Karanda** | co-spawns; Karanda Heart | Shai (already at Karanda Ridge?) |
+
+**Level-61 item:** use the auto-Lv61 (timepiece) item on a low-level available char (e.g. Kunoichi 56) to
+make it boss-ready without grinding. That still leaves **1 open slot for a Season character**.
 
 ## The plan (Jon's call, 2026-08-22)
 
