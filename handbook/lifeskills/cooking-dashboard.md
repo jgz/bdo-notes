@@ -5,7 +5,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Pull 
 ## 🏪 Buy first (in storage)
 | Item | Buy to |
 |---|--:|
-| Mineral Water | 40,000 |
+| Mineral Water | 45,000 |
 | Sugar | 30,000 |
 | Base Sauce | 20,000 |
 
@@ -14,11 +14,11 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Pull 
 ## ⚙️ Processing queue (fire & forget, ~30–45 min)
 Priority: recipe-short first, then convert surplus.
 
-### 1. Lump of Raw Sugar _(for Carrot Confit — have 499)_
+### 1. Lump of Raw Sugar _(for full Carrot Confit batch — have 499)_
 | Ingredient | Qty |
 |---|--:|
-| Raw Sugar | 6,000 |
-| Mineral Water | 600 |
+| Raw Sugar | 44,000 |
+| Mineral Water | 4,400 |
 
 ### 2. Wheat Dough _(for Cheese Gratin — have 2,390)_
 | Ingredient | Qty |
@@ -57,14 +57,14 @@ Priority: recipe-short first, then convert surplus.
 | Stir-Fried Vegetables | 4,570 |
 | Beer | 4,570 |
 
-### 3. Carrot Confit _(have 0 / next week's quest needs 650)_
+### 3. Carrot Confit _(full batch — Special Carrot 1,208 on hand, farm to 3,264 first)_
 | Ingredient | Qty |
 |---|--:|
-| Special Carrot | 700 |
-| Cinnamon | 1,400 |
-| Lump of Raw Sugar | 1,050 |
-| Mineral Water | 2,100 |
-| Salt | 700 |
+| Special Carrot | 3,264 |
+| Cinnamon | 6,528 |
+| Lump of Raw Sugar | 4,896 |
+| Mineral Water | 9,792 |
+| Salt | 3,264 |
 
 ---
 
