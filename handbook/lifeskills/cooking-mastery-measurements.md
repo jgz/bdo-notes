@@ -19,11 +19,27 @@ Book of Flora, ~+125). This is Jon's normal batch-session state, so plan against
 | Higher-grade proc rate | 16.2% |
 | Deer per sausage produced | 1.64 |
 
-## Pending
-- Meat Croquette (9404) — next
-- Red Sauce (9004)
-- Cheese Gratin (9203)
-- Balenos Meal (9601)
+## Meat Croquette (9404) — 2026-08-27
+| | |
+|---|--:|
+| Crafts (15,608 Wolf ÷ 8) | 1,951 |
+| Normal Meat Croquette | 6,111 |
+| Blue proc (Crispy Meat Croquette) | 1,101 |
+| **Total output** | **7,212** |
+| **Yield ×/craft** | **3.70×** |
+| Higher-grade proc rate | 15.3% |
+| Wolf per croquette produced | 2.16 |
+
+_(Prediction from sausage's 3.66× was ~7,140 total — actual 7,212, within ~1%.)_
+
+## Summary so far
+Two recipes measured, consistent: **~3.68× yield, ~15.7% higher-grade proc** at 1,539 buffed mastery. Safe
+to treat ~3.68× as the cooking yield across recipes for planning.
+
+## Pending (optional confirmation)
+- Red Sauce (9004) — small meat contributor
+- Cheese Gratin (9203) — no meat, but yield affects compounding
+- Balenos Meal (9601) — no meat, but yield affects compounding
 
 ## Implication (meat cost / box) — preliminary
 Real yield ~3.66× (vs modeled 2.05×) is why hand-calc gave 71 meat/box but BDOlytics gives **16**. Plugging
