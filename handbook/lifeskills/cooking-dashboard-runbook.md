@@ -42,7 +42,8 @@ If any of the four is missing, the file is wrong. Check them off before committi
 
 ## Priority rules
 - **Processing queue order:** (A) intermediates SHORT for what the cooking queue will consume
-  (Lump→Confit, Wheat Dough / Red Sauce → Cheese Gratin, etc.), then (B) convert big raw surpluses
+  (Lump→Confit, Wheat Dough → Cheese Gratin, etc. — **Red Sauce is a COOK recipe, it goes in the cook
+  queue, NOT here**; only Grind/Shake/Dry/Heat belong in the processing queue), then (B) convert surpluses
   (grain→Flour/Dough, milk→Cheese). "Short" = have < one full consumer batch's need.
 - **Cooking queue order:** vendor/processing prereqs handled above, then Beer/subs that are short, then
   **Balenos Meal**, then **Carrot Confit** if the quest gate trips.

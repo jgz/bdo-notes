@@ -25,14 +25,6 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Wheat Flour | 6,425 |
 | Mineral Water | 6,425 |
 
-### 3. Red Sauce
-| Ingredient | Qty |
-|---|--:|
-| Base Sauce | 20,000 |
-| Meat | 20,000 |
-| Mineral Water | 40,000 |
-| Sugar | 40,000 |
-
 ---
 
 ## 🔪 Cooking queue (~10–15 min each)
@@ -45,7 +37,15 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Salt | 6,400 |
 | Pepper | 6,400 |
 
-### 2. Cheese Gratin
+### 2. Red Sauce _(feeds Cheese Gratin)_
+| Ingredient | Qty |
+|---|--:|
+| Base Sauce | 20,000 |
+| Meat | 20,000 |
+| Mineral Water | 40,000 |
+| Sugar | 40,000 |
+
+### 3. Cheese Gratin
 | Ingredient | Qty |
 |---|--:|
 | Wheat Dough | 7,545 |
@@ -54,7 +54,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Cheese | 4,527 |
 | Red Sauce | 4,527 |
 
-### 3. Meat Croquette
+### 4. Meat Croquette
 | Ingredient | Qty |
 |---|--:|
 | Meat | 15,608 |
@@ -63,7 +63,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Egg | 3,902 |
 | Deep Frying Oil | 7,804 |
 
-### 4. Stir-Fried Vegetables _(downgrade Special Hot Pepper → HQ first)_
+### 5. Stir-Fried Vegetables _(downgrade Special Hot Pepper → HQ first)_
 | Ingredient | Qty |
 |---|--:|
 | Pumpkin | 10,955 |
@@ -71,7 +71,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | HQ Hot Pepper | 4,382 |
 | Salt | 2,191 |
 
-### 5. Balenos Meal
+### 6. Balenos Meal
 | Ingredient | Qty |
 |---|--:|
 | Cheese Gratin | 2,285 |
@@ -80,7 +80,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Stir-Fried Vegetables | 4,570 |
 | Beer | 4,570 |
 
-### 6. Carrot Confit _(full batch — Special Carrot 508 on hand + planted; farm to 3,264)_
+### 7. Carrot Confit _(full batch — Special Carrot 508 on hand + planted; farm to 3,264)_
 | Ingredient | Qty |
 |---|--:|
 | Special Carrot | 3,264 |
