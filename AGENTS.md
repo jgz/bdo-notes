@@ -1,3 +1,14 @@
+# ‼️ DO NOT GUESS. LOOK IT UP. ‼️
+
+**Read this before anything else, every time you open this repo.** Do not guess about ANY value,
+weight, price, recipe, quantity, or mechanic. If it's load-bearing, look it up from a primary source
+(`bdo-cmd`, the game data, `research/`, official patch notes) — NEVER use a placeholder, an
+assumption, or training-data memory. A guessed number that everything else is built on is worse than
+useless. If you can't verify it, stop and say so. Jon's words: *"Your guesses suck. Do not guess
+about anything. Look it up."*
+
+---
+
 # Agent Instructions — Black Desert Online Notes
 
 This repo is Jon's personal handbook and planning space for **Black Desert Online** (BDO, Pearl
