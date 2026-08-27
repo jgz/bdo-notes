@@ -13,6 +13,10 @@ Mastery does **not** change the recipe inputs — it multiplies the **output** p
 doubled) and still a wash when you buy mats at market (the multiplier applies, but market mats already
 cost more than the sell price). Mastery is the lever; cheap inputs are the fuel.
 
+> ⚠️ **Measured reality is higher than this table.** A real Grilled Sausage batch at 1,539 buffed mastery
+> yielded **3.66×**, not the ~2.1× below — this curve underestimates cooking yield badly. Use the measured
+> numbers in [cooking-mastery-measurements.md](cooking-mastery-measurements.md) for anything load-bearing.
+
 ## Cooking (Jon: ~1,400 mastery unbuffed → ~2.05× per cook)
 
 Average items per cook = **1 + `rates[4]`** (the bonus-yield coefficient); rare proc = **`rates[2]`**
