@@ -63,10 +63,6 @@ for now, the heuristic above is the rule._
 ### ✅ Balenos Meal tree (9601) — Jon's confirmed recipes
 Per craft. **Balenos Meal** = 1 Cheese Gratin + 1 Meat Croquette + 1 Smoked Fish Steak + 2 Stir-Fried Veg + 2 Beer.
 
-> ⚠️ **The Stir-Fried Veg count is 2 — the old "1 veg" trick no longer works.** The recipe UI still *displays*
-> the old flexibility (used to be able to sub 1 Stir-Fried Veg for 2 via grade-value), but as of 2026 the
-> craft strictly requires 2. Confirmed: all recipe DBs show a flat 2 (no 1-veg variant). Don't re-investigate.
-
 | Recipe | Ingredients (per craft) | Notes |
 |---|---|---|
 | **Meat Croquette** (9404) | 8 **Meat**(hunted) · 5 Wheat Flour · 2 Cheese · 2 Egg · 4 Deep Frying Oil🏪 | meat = hunted group, uses stock |
