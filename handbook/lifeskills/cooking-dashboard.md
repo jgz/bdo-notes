@@ -1,16 +1,44 @@
 # Cooking Dashboard — 2026-08-27 (all storages)
 
-One cooking queue, top to bottom. Do the batch, it drops off next refresh. Full batch = fills the bag; pull the exact quantities shown.
+Work top to bottom in each queue. Do the batch, it drops off next refresh. Pull the exact quantities shown.
 
 ## 🏪 Buy first (in storage)
 | Item | Buy to |
 |---|--:|
-| Mineral Water | 30,000 |
-| Sugar | 20,000 |
+| Mineral Water | 40,000 |
+| Sugar | 30,000 |
+| Base Sauce | 20,000 |
 
 ---
 
-## 🔪 Cooking queue
+## ⚙️ Processing queue (fire & forget, ~30–45 min)
+Priority: recipe-short first, then convert surplus.
+
+### 1. Lump of Raw Sugar _(for Carrot Confit — have 499)_
+| Ingredient | Qty |
+|---|--:|
+| Raw Sugar | 6,000 |
+| Mineral Water | 600 |
+
+### 2. Wheat Dough _(for Cheese Gratin — have 2,390)_
+| Ingredient | Qty |
+|---|--:|
+| Wheat Flour | 5,500 |
+| Mineral Water | 5,500 |
+
+### 3. Red Sauce _(for Cheese Gratin — have 2,287)_
+| Ingredient | Qty |
+|---|--:|
+| Base Sauce | 2,500 |
+| Meat | 2,500 |
+| Mineral Water | 5,000 |
+| Sugar | 5,000 |
+
+**Surplus to convert when idle:** Wheat 52,190 · Potato 51,380 · Raw Sugar 47,440 → grind to Flour/Dough.
+
+---
+
+## 🔪 Cooking queue (~10–15 min each)
 
 ### 1. Beer
 | Ingredient | Qty |
@@ -29,13 +57,7 @@ One cooking queue, top to bottom. Do the batch, it drops off next refresh. Full 
 | Stir-Fried Vegetables | 4,570 |
 | Beer | 4,570 |
 
-### 3. Lump of Raw Sugar _(process — needed for Confit below)_
-| Ingredient | Qty |
-|---|--:|
-| Raw Sugar | 6,000 |
-| Mineral Water | 600 |
-
-### 4. Carrot Confit _(have 0 / next week's quest needs 650)_
+### 3. Carrot Confit _(have 0 / next week's quest needs 650)_
 | Ingredient | Qty |
 |---|--:|
 | Special Carrot | 700 |
