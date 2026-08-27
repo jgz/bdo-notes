@@ -21,7 +21,13 @@ If any of the four is missing, the file is wrong. Check them off before committi
 ## Data & sizing
 - No `sqlite3` CLI on this box — query via `python3` + `sqlite3` module. Stock = `SUM(quantity)` across all
   locations for the item_id.
-- Batch = **full bag (1,600 LT)** sizes from the batch book. Mastery ~2× output does **not** change pulls.
+- Batch = **full bag (1,600 LT)** sizes from the batch book.
+- **Size by whichever weighs more — the INPUTS or the finished PRODUCT.** A batch fills 1,600 LT of the
+  heavier side. Cooking recipes are input-heavy (output lighter than inputs) → size by inputs. But mastery
+  multiplies OUTPUT, so light-input **processing** recipes (Wheat Flour, Wheat Dough, Cheese, Lump of Raw
+  Sugar) produce MORE weight than they consume → size these by **output**: crafts = 1,600 ÷ (processing-yield
+  × output-item-weight), so the batch finishes with a full bag of product instead of overflowing partway.
+  Requires the real **processing** yield (measure it — do NOT reuse the cooking yield or the handbook table).
 - **Every ingredient weight is looked up per-item (`bdo-cmd item info <id>` → `weight`) — NEVER a category
   placeholder.** A wrong weight silently corrupts every batch size (a 0.1 placeholder for Meat, real 0.03,
   made the meat recipes fill half). Confirmed weights: Meat = 0.03, Dried Fish = 0.5, grain/flour/dough/
