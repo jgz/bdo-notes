@@ -5,34 +5,35 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Pull 
 ## 🏪 Buy first (in storage)
 | Item | Buy to |
 |---|--:|
-| Mineral Water | 45,000 |
-| Sugar | 30,000 |
-| Base Sauce | 20,000 |
+| Raw Sugar | 150,000 |
+| Mineral Water | 80,000 |
+| Sugar | 50,000 |
+| Base Sauce | 15,000 |
 
 ---
 
 ## ⚙️ Processing queue (fire & forget, ~30–45 min)
 Priority: recipe-short first, then convert surplus.
 
-### 1. Lump of Raw Sugar _(for full Carrot Confit batch — have 499)_
+### 1. Lump of Raw Sugar
 | Ingredient | Qty |
 |---|--:|
-| Raw Sugar | 44,000 |
-| Mineral Water | 4,400 |
+| Raw Sugar | 145,450 |
+| Mineral Water | 14,545 |
 
-### 2. Wheat Dough _(for Cheese Gratin — have 2,390)_
+### 2. Wheat Dough
 | Ingredient | Qty |
 |---|--:|
-| Wheat Flour | 5,500 |
-| Mineral Water | 5,500 |
+| Wheat Flour | 14,545 |
+| Mineral Water | 14,545 |
 
-### 3. Red Sauce _(for Cheese Gratin — have 2,287)_
+### 3. Red Sauce
 | Ingredient | Qty |
 |---|--:|
-| Base Sauce | 2,500 |
-| Meat | 2,500 |
-| Mineral Water | 5,000 |
-| Sugar | 5,000 |
+| Base Sauce | 10,666 |
+| Meat | 10,666 |
+| Mineral Water | 21,332 |
+| Sugar | 21,332 |
 
 **Surplus to convert when idle:** Wheat 52,190 · Potato 51,380 · Raw Sugar 47,440 → grind to Flour/Dough.
 

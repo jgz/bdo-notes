@@ -22,11 +22,12 @@ If any of the four is missing, the file is wrong. Check them off before committi
 - No `sqlite3` CLI on this box — query via `python3` + `sqlite3` module. Stock = `SUM(quantity)` across all
   locations for the item_id.
 - Batch = **full bag (1,600 LT)** sizes from the batch book. Mastery ~2× output does **not** change pulls.
-- **NEVER shrink a batch to current stock.** A batch is ALWAYS the full bag size, even if Jon is short an
-  ingredient — the queue then implies he farms/buys up to it (e.g. Confit stays 1,632 crafts / 3,264 Special
-  Carrot even at 1,208 on hand; he farms the rest before cooking). Note the shortfall, don't downsize.
-- Processing intermediates are sized to **supply the full consumer batch** above them (e.g. Lump = enough
-  for the full Confit batch), not their own bag-fill and not the current shortfall.
+- **EVERY batch — cook AND process — is ALWAYS the full bag size from the batch book.** Never shrink to
+  current stock, never size to the consumer's need. Overshoot is the goal: process/cook once, don't repeat
+  for months. If Jon is short an input, the queue implies he **buys/farms up to the full batch** first
+  (e.g. Lump = full 14,545 crafts / 145,450 Raw Sugar — buy the raw sugar, it's cheap; Confit = full 1,632
+  crafts / 3,264 Special Carrot — farm the rest). Note the shortfall in the card's italic if useful, never
+  downsize. Vendor mats are cheap and overshoot costs ~nothing, so full batch always wins on fewer reps.
 - Pull quantities in tables come straight from the batch book (or scaled to need — see rules below).
 
 ## Priority rules
