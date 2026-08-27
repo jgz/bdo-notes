@@ -6,8 +6,8 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Item | Buy to |
 |---|--:|
 | Raw Sugar | 150,000 |
-| Mineral Water | 65,000 |
-| Sugar | 30,000 |
+| Mineral Water | 80,000 |
+| Sugar | 45,000 |
 
 ---
 
@@ -28,10 +28,10 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 ### 3. Red Sauce
 | Ingredient | Qty |
 |---|--:|
-| Base Sauce | 10,666 |
-| Meat | 10,666 |
-| Mineral Water | 21,332 |
-| Sugar | 21,332 |
+| Base Sauce | 20,000 |
+| Meat | 20,000 |
+| Mineral Water | 40,000 |
+| Sugar | 40,000 |
 
 ---
 
@@ -40,10 +40,10 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 ### 1. Grilled Sausage _(feeds Cheese Gratin)_
 | Ingredient | Qty |
 |---|--:|
-| Meat | 10,434 |
-| Onion | 1,739 |
-| Salt | 3,478 |
-| Pepper | 3,478 |
+| Meat | 19,200 |
+| Onion | 3,200 |
+| Salt | 6,400 |
+| Pepper | 6,400 |
 
 ### 2. Cheese Gratin
 | Ingredient | Qty |
@@ -57,11 +57,11 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 ### 3. Meat Croquette
 | Ingredient | Qty |
 |---|--:|
-| Meat | 9,272 |
-| Wheat Flour | 5,795 |
-| Cheese | 2,318 |
-| Egg | 2,318 |
-| Deep Frying Oil | 4,636 |
+| Meat | 15,608 |
+| Wheat Flour | 9,755 |
+| Cheese | 3,902 |
+| Egg | 3,902 |
+| Deep Frying Oil | 7,804 |
 
 ### 4. Stir-Fried Vegetables _(downgrade Special Hot Pepper → HQ first)_
 | Ingredient | Qty |

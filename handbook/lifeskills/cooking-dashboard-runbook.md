@@ -22,6 +22,10 @@ If any of the four is missing, the file is wrong. Check them off before committi
 - No `sqlite3` CLI on this box — query via `python3` + `sqlite3` module. Stock = `SUM(quantity)` across all
   locations for the item_id.
 - Batch = **full bag (1,600 LT)** sizes from the batch book. Mastery ~2× output does **not** change pulls.
+- **Every ingredient weight is looked up per-item (`bdo-cmd item info <id>` → `weight`) — NEVER a category
+  placeholder.** A wrong weight silently corrupts every batch size (a 0.1 placeholder for Meat, real 0.03,
+  made the meat recipes fill half). Confirmed weights: Meat = 0.03, Dried Fish = 0.5, grain/flour/dough/
+  cooked-items = 0.1, vendor liquids/cheese/egg = 0.01 — but re-verify, don't trust this list blindly.
 - **EVERY batch — cook AND process — is ALWAYS the full bag size from the batch book.** Never shrink to
   current stock, never size to the consumer's need. Overshoot is the goal: process/cook once, don't repeat
   for months. If Jon is short an input, the queue implies he **buys/farms up to the full batch** first

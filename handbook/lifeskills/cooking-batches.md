@@ -1,32 +1,25 @@
 # Full-batch recipe book — Jon's canonical recipes
 
-> **Static reference.** Every batch below fills the **1,600 usable LT** bag (1,822 max − ~150 baseline). These numbers **do not change** unless the weight cap changes — the dashboard just points here for pull amounts. `crafts` = how many times you press cook/process to fill the bag; **Pull** = exact ingredient count to grab (mastery does *not* change pulls, only output). Recipes are Jon's confirmed substitutions (see [cooking-worklist.md](cooking-worklist.md)). Stock is live in the [dashboard](cooking-dashboard.md).
+> **Static reference.** Every batch fills the **1,600 usable LT** bag (1,822 max − ~150). Numbers change only if the weight cap changes. `crafts` = presses to fill the bag; **Pull** = exact ingredient count (mastery changes output, not pulls). **All ingredient weights looked up per-item via `bdo-cmd item info` — no placeholders** (Meat = **0.03** LT, Dried Fish = **0.5**, grain/flour/dough/cooked = 0.1, vendor liquids/cheese/egg = 0.01). Recipes = Jon's subs ([worklist](cooking-worklist.md)); live stock in the [dashboard](cooking-dashboard.md).
 
 ## 📦 Box conversion (canonical)
 
-**Guru's Cooking Box (Balenos)** = **24 Balenos Meal** _(normal)_ **OR 8 Special Balenos Meal** _(a Special counts ×3)_. Verified in game data: `recipe:9856:8` → 24× item 9601. Batch variants: 240→10 boxes, 2,400→100 boxes.
-
-| | per box | per full Meal batch (2,285) |
-|---|--:|--:|
-| Normal meals | 24 | ≈ 95 boxes (190 w/ mastery output) |
-| Target | 187 boxes/day | = **4,488 meals/day** |
+**Guru's Cooking Box (Balenos)** = **24 Balenos Meal** _(normal)_ **OR 8 Special** _(Special ×3)_. Verified: `recipe:9856:8` → 24× item 9601. Target 187 boxes/day = **4,488 meals/day**.
 
 ---
 ## ⚙️ Process (fire & forget, ~30–45 min)
 
 ### Wheat Flour
-`16,000` crafts/batch · 0.10 LT/craft · **Grind** · yields ≈ **32,000** (mastery ~2×)
+`16,000` crafts/batch · 0.100 LT/craft · **Grind** · yields ≈ **32,000** (mastery ~2×)
 
-> Bag-fill is huge because inputs are ~0.01 LT — you'll hit **raw stock on hand** before the bag fills. Treat this number as the ceiling; process what you have / what the queue needs.
+> Ultra-light inputs (~0.01 LT) → bag-fill is huge; you'll hit raw stock on hand first. This is the ceiling.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
 | Wheat | 🏭 node | 1 | **16,000** |
 
 ### Wheat Dough
-`14,545` crafts/batch · 0.11 LT/craft · **Shake** · yields ≈ **29,090** (mastery ~2×)
-
-> Bag-fill is huge because inputs are ~0.01 LT — you'll hit **raw stock on hand** before the bag fills. Treat this number as the ceiling; process what you have / what the queue needs.
+`14,545` crafts/batch · 0.110 LT/craft · **Shake** · yields ≈ **29,090** (mastery ~2×)
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -34,18 +27,18 @@
 | Mineral Water | 🏪 vendor | 1 | **14,545** |
 
 ### Cheese
-`160,000` crafts/batch · 0.01 LT/craft · **Dry** · yields ≈ **320,000** (mastery ~2×)
+`160,000` crafts/batch · 0.010 LT/craft · **Dry** · yields ≈ **320,000** (mastery ~2×)
 
-> Bag-fill is huge because inputs are ~0.01 LT — you'll hit **raw stock on hand** before the bag fills. Treat this number as the ceiling; process what you have / what the queue needs. (milk-capped in practice)
+> Ultra-light inputs (~0.01 LT) → bag-fill is huge; you'll hit raw stock on hand first. This is the ceiling. (milk-capped in practice)
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
 | Milk | 🏭 node | 1 | **160,000** |
 
 ### Lump of Raw Sugar
-`14,545` crafts/batch · 0.11 LT/craft · **Heat** · yields ≈ **29,090** (mastery ~2×)
+`14,545` crafts/batch · 0.110 LT/craft · **Heat** · yields ≈ **29,090** (mastery ~2×)
 
-> Bag-fill is huge because inputs are ~0.01 LT — you'll hit **raw stock on hand** before the bag fills. Treat this number as the ceiling; process what you have / what the queue needs. Also wild-horse capture bait — keep a buffer.
+> Ultra-light inputs (~0.01 LT) → bag-fill is huge; you'll hit raw stock on hand first. This is the ceiling. Also horse-capture bait.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -53,36 +46,36 @@
 | Mineral Water | 🏪 vendor | 1 | **14,545** |
 
 ### Red Sauce
-`10,666` crafts/batch · 0.15 LT/craft · **Heat (craft)** · yields ≈ **21,332** (mastery ~2×)
+`20,000` crafts/batch · 0.080 LT/craft · **Heat (craft)** · yields ≈ **40,000** (mastery ~2×)
 
-> Bag-fill is huge because inputs are ~0.01 LT — you'll hit **raw stock on hand** before the bag fills. Treat this number as the ceiling; process what you have / what the queue needs.
+> ⚠️ Full bag = 20,000 crafts → **20,000 Meat** (market cost). Big silver — consider a partial batch.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
-| Base Sauce | 🏪 vendor | 1 | **10,666** |
-| Meat (hunted) | 💰 market | 1 | **10,666** |
-| Mineral Water | 🏪 vendor | 2 | **21,332** |
-| Sugar | 🏪 vendor | 2 | **21,332** |
+| Base Sauce | 🏪 vendor | 1 | **20,000** |
+| Meat (hunted, 0.03 LT) | 💰 market | 1 | **20,000** |
+| Mineral Water | 🏪 vendor | 2 | **40,000** |
+| Sugar | 🏪 vendor | 2 | **40,000** |
 
 ---
 ## 🔪 Cook — sub-components (~10–15 min)
 
 ### Grilled Sausage
-`1,739` crafts/batch · 0.92 LT/craft · **Cook** · yields ≈ **3,478** (mastery ~2×)
+`3,200` crafts/batch · 0.500 LT/craft · **Cook** · yields ≈ **6,400** (mastery ~2×)
 
 > Feeds Cheese Gratin (1 each).
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
-| Meat (hunted) | 💰 market | 6 | **10,434** |
-| Onion | 🌾 farm | 1 | **1,739** |
-| Salt | 🏪 vendor | 2 | **3,478** |
-| Pepper | 🌾 farm | 2 | **3,478** |
+| Meat (hunted, 0.03 LT) | 💰 market | 6 | **19,200** |
+| Onion | 🌾 farm | 1 | **3,200** |
+| Salt | 🏪 vendor | 2 | **6,400** |
+| Pepper | 🌾 farm | 2 | **6,400** |
 
 ### Beer
-`2,711` crafts/batch · 0.59 LT/craft · **Cook** · yields ≈ **5,422** (mastery ~2×)
+`2,711` crafts/batch · 0.590 LT/craft · **Cook** · yields ≈ **5,422** (mastery ~2×)
 
-> 2 per Balenos Meal — the heaviest-consumed sub.
+> 2 per Balenos Meal.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -92,9 +85,9 @@
 | Sugar | 🏪 vendor | 1 | **2,711** |
 
 ### Stir-Fried Vegetables
-`2,191` crafts/batch · 0.73 LT/craft · **Cook** · yields ≈ **4,382** (mastery ~2×)
+`2,191` crafts/batch · 0.730 LT/craft · **Cook** · yields ≈ **4,382** (mastery ~2×)
 
-> 2 per Balenos Meal. HQ Hot Pepper = **downgrade Special Hot Pepper at NPC** first.
+> 2 per Meal. HQ Hot Pepper = downgrade Special at NPC first.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -104,33 +97,33 @@
 | Salt | 🏪 vendor | 1 | **2,191** |
 
 ### Smoked Fish Steak
-`12,307` crafts/batch · 0.13 LT/craft · **Cook** · yields ≈ **24,614** (mastery ~2×)
+`3,018` crafts/batch · 0.530 LT/craft · **Cook** · yields ≈ **6,036** (mastery ~2×)
 
-> 1 per Meal. Fill Fish from stock/market.
+> 1 per Meal. Dried fish (0.5 LT) from island nodes.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
-| Fish (any) | 💰/node | 1 | **12,307** |
-| Salt | 🏪 vendor | 2 | **24,614** |
-| Olive Oil | 🏪 vendor | 1 | **12,307** |
+| Dried Fish (0.5 LT) | 🏭 island node | 1 | **3,018** |
+| Salt | 🏪 vendor | 2 | **6,036** |
+| Olive Oil | 🏪 vendor | 1 | **3,018** |
 
 ### Meat Croquette
-`1,159` crafts/batch · 1.38 LT/craft · **Cook** · yields ≈ **2,318** (mastery ~2×)
+`1,951` crafts/batch · 0.820 LT/craft · **Cook** · yields ≈ **3,902** (mastery ~2×)
 
 > 1 per Meal.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
-| Meat (hunted) | 💰 market | 8 | **9,272** |
-| Wheat Flour | ⚙️ process | 5 | **5,795** |
-| Cheese | ⚙️ process | 2 | **2,318** |
-| Egg | 🏭 node | 2 | **2,318** |
-| Deep Frying Oil | 🏪 vendor | 4 | **4,636** |
+| Meat (hunted, 0.03 LT) | 💰 market | 8 | **15,608** |
+| Wheat Flour | ⚙️ process | 5 | **9,755** |
+| Cheese | ⚙️ process | 2 | **3,902** |
+| Egg | 🏭 node | 2 | **3,902** |
+| Deep Frying Oil | 🏪 vendor | 4 | **7,804** |
 
 ### Cheese Gratin
-`1,509` crafts/batch · 1.06 LT/craft · **Cook** · yields ≈ **3,018** (mastery ~2×)
+`1,509` crafts/batch · 1.060 LT/craft · **Cook** · yields ≈ **3,018** (mastery ~2×)
 
-> 1 per Meal. Deepest chain (needs Dough+Sausage+Cheese+Red Sauce).
+> 1 per Meal. Deepest chain.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -144,9 +137,9 @@
 ## 🍽️ Cook — the meal
 
 ### Balenos Meal
-`2,285` crafts/batch · 0.70 LT/craft · **Cook** · yields ≈ **4,570** (mastery ~2×)
+`2,285` crafts/batch · 0.700 LT/craft · **Cook** · yields ≈ **4,570** (mastery ~2×)
 
-> The goal. 1 Gratin + 1 Croq + 1 FishSteak + 2 Veg + 2 Beer.
+> The goal.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -160,9 +153,9 @@
 ## 🥕 Cook — side stream (Mythical Feathers)
 
 ### Carrot Confit
-`1,632` crafts/batch · 0.98 LT/craft · **Cook** · yields ≈ **3,264** (mastery ~2×)
+`1,632` crafts/batch · 0.980 LT/craft · **Cook** · yields ≈ **3,264** (mastery ~2×)
 
-> Weekly training quest → Mythical Feathers (Courser awakening). Special Carrot-capped.
+> Weekly quest (needs 650). Special-Carrot-capped.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
