@@ -36,10 +36,23 @@ _(Prediction from sausage's 3.66× was ~7,140 total — actual 7,212, within ~1%
 Two recipes measured, consistent: **~3.68× yield, ~15.7% higher-grade proc** at 1,539 buffed mastery. Safe
 to treat ~3.68× as the cooking yield across recipes for planning.
 
+## Wheat Dough (7201, SHAKE) — 2026-08-27 — PROCESSING yield
+| | |
+|---|--:|
+| Crafts (5,000 Flour + 5,000 Water) | 5,000 |
+| Wheat Dough out | 12,454 |
+| **Processing yield ×/craft** | **2.49×** |
+
+Processing yield (2.49×) is **lower than cooking (3.68×)** and applies to all processing methods via the
+shared processing-mastery stat — Grind / Shake / Dry / Heat (Wheat Flour, Wheat Dough, Cheese, Lump). It's
+what makes those four **output-heavier than their inputs**, so they're **output-sized** in the batch book
+(6,425 crafts → ~16k product = a full bag). Measured on SHAKE; assumed same for Grind/Dry/Heat (same stat).
+
 ## Pending (optional confirmation)
 - Red Sauce (9004) — small meat contributor
 - Cheese Gratin (9203) — no meat, but yield affects compounding
 - Balenos Meal (9601) — no meat, but yield affects compounding
+- A Grind/Dry/Heat spot-check (confirm 2.49× holds across processing methods)
 
 ## Implication (meat cost / box) — preliminary
 Real yield ~3.66× (vs modeled 2.05×) is why hand-calc gave 71 meat/box but BDOlytics gives **16**. Plugging

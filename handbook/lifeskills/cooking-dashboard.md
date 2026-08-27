@@ -5,25 +5,25 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 ## 🏪 Buy first (in storage)
 | Item | Buy to |
 |---|--:|
-| Raw Sugar | 150,000 |
-| Mineral Water | 80,000 |
+| Raw Sugar | 65,000 |
+| Mineral Water | 65,000 |
 | Sugar | 45,000 |
 
 ---
 
 ## ⚙️ Processing queue (fire & forget, ~30–45 min)
 
-### 1. Lump of Raw Sugar
+### 1. Lump of Raw Sugar _(output-sized)_
 | Ingredient | Qty |
 |---|--:|
-| Raw Sugar | 145,450 |
-| Mineral Water | 14,545 |
+| Raw Sugar | 64,250 |
+| Mineral Water | 6,425 |
 
-### 2. Wheat Dough
+### 2. Wheat Dough _(output-sized)_
 | Ingredient | Qty |
 |---|--:|
-| Wheat Flour | 14,545 |
-| Mineral Water | 14,545 |
+| Wheat Flour | 6,425 |
+| Mineral Water | 6,425 |
 
 ### 3. Red Sauce
 | Ingredient | Qty |
