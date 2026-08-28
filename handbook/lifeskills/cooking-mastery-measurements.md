@@ -40,7 +40,7 @@ _(Prediction from sausage's 3.66× was ~7,140 total — actual 7,212, within ~1%
 
 ## Summary so far (1,539 buffed mastery)
 - **Dishes ~3.7× yield, ~15% higher-grade proc:** Grilled Sausage 3.66×/16.2%, Meat Croquette 3.70×/15.3%,
-  Cheese Gratin 3.80×/14.5%. Use ~3.7× for dish planning / the box math.
+  Cheese Gratin 3.80×/14.5%, Stir-Fried Veg 3.69×/13.6%. Use ~3.7× for dish planning / the box math.
 - **Base sauces lower, no proc:** Red Sauce 2.93× (→ buy, don't craft).
 - **Processing 2.49×** (Grind/Shake/Dry/Heat).
 Yield is recipe-type-specific — don't assume one number for everything.
@@ -79,6 +79,16 @@ instant. → **Buy Red Sauce, don't cook it** — removed from the cook queue; f
 | **Total output** | **5,732** |
 | **Yield ×/craft** | **3.80×** |
 | Higher-grade proc rate | 14.5% |
+
+## Stir-Fried Vegetables (9241, COOK) — 2026-08-28
+| | |
+|---|--:|
+| Crafts (old 2-HQ-pepper batch) | 2,191 |
+| Normal Stir-Fried Veg | 6,983 |
+| Blue proc (crispy variant) | 1,101 |
+| **Total output** | **8,084** |
+| **Yield ×/craft** | **3.69×** |
+| Higher-grade proc rate | 13.6% |
 
 ## Pending (optional confirmation)
 - Balenos Meal (9601) — last one; would lock the exact meat/box
