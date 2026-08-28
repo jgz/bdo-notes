@@ -29,7 +29,7 @@ Nothing short this pass — Wheat Flour (19k), Wheat Dough (20k), Cheese (17k), 
 | HQ Hot Pepper | 4,382 |
 | Salt | 2,191 |
 
-### 2. Balenos Meal
+### 2. Balenos Meal _(fish slot: pull Golden Smoked Fish Steak — overstocked, don't cook more)_
 | Ingredient | Qty |
 |---|--:|
 | Cheese Gratin | 2,285 |

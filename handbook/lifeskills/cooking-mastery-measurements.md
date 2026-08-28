@@ -114,4 +114,4 @@ box credit (5.03 box-meals/craft):
 
 **Profit/box (buy everything):** 12.4 meat × 26k ≈ 322k + ~3.8 Red Sauce × ~8k ≈ 30k → **~352k cost vs 800k
 box = ~+448k profit/box.** Plus byproduct income from selling Crispy Croquette / Chewy Gratin / Smoked
-Sausage procs (see [proc sell-vs-use analysis]). Loop is solidly profitable even buying all inputs.
+Sausage procs (see [proc strategy](cooking-proc-strategy.md)). Loop is solidly profitable even buying all inputs.
