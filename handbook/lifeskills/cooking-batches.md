@@ -83,16 +83,16 @@
 | Sugar | 🏪 vendor | 1 | **2,711** |
 
 ### Stir-Fried Vegetables
-`2,191` crafts/batch · Cook · input-sized · yields ≈ **8,062** (3.68× measured)
+`2,539` crafts/batch · Cook · input-sized · yields ≈ **9,343** (3.68× est.)
 
-> 2 per Meal. Downgrade Special Hot Pepper → HQ first.
+> 2 per Meal. **1 HQ Hot Pepper** (green, grade 1) subs for the recipe's 2 Hot Pepper (white) — 1 green = 2 white. Downgrade Special Hot Pepper → HQ first.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
-| Pumpkin | 🌾 subs Cabbage | 5 | **10,955** |
-| Olive Oil | 🏪 vendor | 2 | **4,382** |
-| HQ Hot Pepper | 🌾↓ downgrade | 2 | **4,382** |
-| Salt | 🏪 vendor | 1 | **2,191** |
+| Pumpkin | 🌾 subs Cabbage | 5 | **12,695** |
+| Olive Oil | 🏪 vendor | 2 | **5,078** |
+| HQ Hot Pepper | 🌾↓ downgrade | 1 | **2,539** |
+| Salt | 🏪 vendor | 1 | **2,539** |
 
 ### Smoked Fish Steak
 `3,018` crafts/batch · Cook · input-sized · yields ≈ **11,106** (3.68× measured)
