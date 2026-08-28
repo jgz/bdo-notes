@@ -32,9 +32,12 @@ Book of Flora, ~+125). This is Jon's normal batch-session state, so plan against
 
 _(Prediction from sausage's 3.66× was ~7,140 total — actual 7,212, within ~1%.)_
 
-## Summary so far
-Two recipes measured, consistent: **~3.68× yield, ~15.7% higher-grade proc** at 1,539 buffed mastery. Safe
-to treat ~3.68× as the cooking yield across recipes for planning.
+## Summary so far (1,539 buffed mastery)
+- **Dishes ~3.7× yield, ~15% higher-grade proc:** Grilled Sausage 3.66×/16.2%, Meat Croquette 3.70×/15.3%,
+  Cheese Gratin 3.80×/14.5%. Use ~3.7× for dish planning / the box math.
+- **Base sauces lower, no proc:** Red Sauce 2.93× (→ buy, don't craft).
+- **Processing 2.49×** (Grind/Shake/Dry/Heat).
+Yield is recipe-type-specific — don't assume one number for everything.
 
 ## Wheat Dough (7201, SHAKE) — 2026-08-27 — PROCESSING yield
 | | |
@@ -61,9 +64,18 @@ So don't assume 3.68× for every COOK recipe. **Buy-vs-craft:** craft cost is me
 **8,600/sauce** (breakeven yield would be ~3.3×; 2.93 is below it), vs market **~7,600 buy order** / 8,800
 instant. → **Buy Red Sauce, don't cook it** — removed from the cook queue; frees ~20k meat/batch.
 
+## Cheese Gratin (9203, COOK) — 2026-08-28
+| | |
+|---|--:|
+| Crafts (full dashboard batch) | 1,509 |
+| Normal Cheese Gratin | 4,902 |
+| Blue proc (Chewy Cheese Gratin) | 830 |
+| **Total output** | **5,732** |
+| **Yield ×/craft** | **3.80×** |
+| Higher-grade proc rate | 14.5% |
+
 ## Pending (optional confirmation)
-- Cheese Gratin (9203) — no meat, but yield affects compounding
-- Balenos Meal (9601) — no meat, but yield affects compounding
+- Balenos Meal (9601) — last one; would lock the exact meat/box
 - A Grind/Dry/Heat spot-check (confirm 2.49× holds across processing methods)
 
 ## Implication (meat cost / box) — preliminary
