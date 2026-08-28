@@ -8,6 +8,12 @@
 **Setup for all measurements below:** cooking mastery **1,539 buffed** (base ~1,414 + Seafood Cron Meal +
 Book of Flora, ~+125). This is Jon's normal batch-session state, so plan against 1,539.
 
+## 🌾 Farming — Magical Carrot Seeds → Special Carrot — 2026-08-28
+One full farm batch = **9,662 Special Carrots**. ≈ 3 full Carrot Confit batches (3,264 each), or ~14 weeks
+of the 650/quest need. Confit is no longer carrot-capped after one farm run.
+
+---
+
 ## Grilled Sausage (9427) — 2026-08-27
 | | |
 |---|--:|

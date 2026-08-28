@@ -77,7 +77,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Stir-Fried Vegetables | 4,570 |
 | Beer | 4,570 |
 
-### 6. Carrot Confit _(full batch — Special Carrot 508 on hand + planted; farm to 3,264)_
+### 6. Carrot Confit _(full batch — Special Carrot stocked ✓ ~9,662 harvested)_
 | Ingredient | Qty |
 |---|--:|
 | Special Carrot | 3,264 |
@@ -89,10 +89,10 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 ---
 
 ## 🌾 Farm today (lowest stock first)
-Farm one crop/day. Carrots are planted & growing — next in line is Onion.
+Farm one crop/day. Carrots harvested (~9,662) — **Onion** is now lowest, farm it next.
 
 | Crop | Have | Feeds |
 |---|--:|---|
-| Special Carrot | 508 🌱 planted | Carrot Confit + weekly quest |
-| **Onion** | 6,558 | Grilled Sausage |
+| **Onion** | ~6,558 | Grilled Sausage |
+| Special Carrot | ~9,662 ✓ | Carrot Confit + weekly quest |
 | Special Hot Pepper | 11,331 | Stir-Fried Veg (downgrade → HQ) |
