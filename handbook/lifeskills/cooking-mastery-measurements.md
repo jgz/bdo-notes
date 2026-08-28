@@ -90,12 +90,28 @@ instant. → **Buy Red Sauce, don't cook it** — removed from the cook queue; f
 | **Yield ×/craft** | **3.69×** |
 | Higher-grade proc rate | 13.6% |
 
+## Balenos Meal (9601, COOK) — 2026-08-28 — final tier ✅
+| | |
+|---|--:|
+| Crafts (full batch) | 2,285 |
+| Normal Balenos Meal | 6,994 |
+| Special Balenos Meal | 1,501 |
+| **Total output** | **8,495** |
+| **Yield ×/craft** | **3.72×** |
+| Special-meal rate | 17.7% |
+| Box-equiv (Special ×3) | 6,994 + 1,501×3 = **11,497** → **479 boxes/batch** (5.03 box-meals/craft) |
+
 ## Pending (optional confirmation)
-- Balenos Meal (9601) — last one; would lock the exact meat/box
 - A Grind/Dry/Heat spot-check (confirm 2.49× holds across processing methods)
 
-## Implication (meat cost / box) — preliminary
-Real yield ~3.66× (vs modeled 2.05×) is why hand-calc gave 71 meat/box but BDOlytics gives **16**. Plugging
-3.66× into the tier-compounding model gives ~19/box; the blue-proc grade credit closes the rest to ~16.
-**At 16 meat/box × 26k = ~416k cost vs 800k box = ~+384k profit/box** (buying all meat). Confirm once the
-other tiers are measured.
+## Meat cost / box — FINAL (all tiers measured)
+Traced with measured yields (Croq 3.70×, Gratin 3.80×, Sausage 3.66×) and the meal tier's Special-meal ×3
+box credit (5.03 box-meals/craft):
+- Meat Croquette: 8 ÷ 3.70 per croq × (4.77 croq/box) = **~10.3 meat/box**
+- Grilled Sausage → Gratin: 6 ÷ 3.66 × (1.255 gratin-crafts/box) = **~2.1 meat/box**
+- Red Sauce: **0** (bought, not cooked)
+- **Total ≈ 12.4 raw meat/box** (down from the ~16 estimate — specials stretch each craft + Red Sauce bought)
+
+**Profit/box (buy everything):** 12.4 meat × 26k ≈ 322k + ~3.8 Red Sauce × ~8k ≈ 30k → **~352k cost vs 800k
+box = ~+448k profit/box.** Plus byproduct income from selling Crispy Croquette / Chewy Gratin / Smoked
+Sausage procs (see [proc sell-vs-use analysis]). Loop is solidly profitable even buying all inputs.
