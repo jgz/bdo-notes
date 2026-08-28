@@ -7,9 +7,11 @@
 
 - **Daily regional Contribution-EXP quests** — the sustainable grind. **Duvencrune** is the standout:
   ~15-min route, **7k+ Contribution EXP/day**. Altinova + other regions also have dailies.
-- **Cooking/Alchemy byproduct → CP exchange (Olvia):** **Witch's Delicacy** (cooking byproduct) +
-  **Mysterious Catalyst** (alchemy). Jon's Guru cooking already generates Witch's Delicacy — free CP
-  fuel from the Balenos loop. (Same byproducts as the Floramos Liana quest.)
+- **Cooking/Alchemy byproduct → CP exchange (Olvia):** **Witch's Delicacy** (cooking byproduct, item 9780)
+  + **Mysterious Catalyst** (alchemy). Turn in **10 Witch's Delicacy → 900 Contribution EXP + 30 Cooking
+  EXP.** It procs from **ALL cooking** (not any specific dish), so Jon's Balenos loop generates it free —
+  and it's also the **weekly cooking quest** turn-in. Jon typically sits on a big reserve (~900 = ~90
+  turn-ins ≈ ~81k Contribution EXP banked). (Same byproducts as the Floramos Liana quest.)
 - **Weekly Contribution quests** — large chunks.
 - **One-time regional quest CP** — 2 years away = big untapped pools (LoML, newer regions).
 - **Basic resource turn-ins** (weeds/logs/rough stones) at some NPCs.

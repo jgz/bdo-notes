@@ -36,6 +36,25 @@ at a **Carpentry Workshop** (worker-made):
 **Fences + magical seeds + water.** Water item = **Purified Water / Distilled Water** (+15 growth) or
 **Mineral Water** (+5, buy from cooking vendor). No fertilizer (removed — see above).
 
+## Magical seeds — you can MAKE them (not only breed)
+Magical Seed = best yield (magical > special > regular). Two ways to get one:
+- **Combine (fast, if you have the parts):** **2 Mysterious Seeds + 1 Special [crop] Seed + 10 Purified
+  Water → 1 Magical [crop] Seed.** Works for any crop. ⚠️ **Not in the bdo-cmd data dump** — its recipe
+  lookup wrongly returns "none". Trust this (Jon's in-game knowledge); the dump misses seed-combine recipes.
+- **Breed up** in the garden: Seed → HQ → Special → Magical. **Mysterious Seeds** drop as a farming proc,
+  so you accumulate the combine parts just by farming.
+
+Jon has the parts to make **Magical Garlic Seed** (Mysterious Garlic Seed 6852 + Special Garlic Seed 6718 +
+purified water) — so garlic is self-produced, not market-limited.
+
+## Jon's crop rotation (one crop/day, farm the lowest-stock one)
+| Crop | Feeds | Note |
+|---|---|---|
+| **Special Carrot** | Carrot Confit + weekly Courser quest | one full Magical Carrot Seed run = **9,662 Special Carrots** (measured) |
+| **Onion** | Grilled Sausage | |
+| **Special Hot Pepper** | Stir-Fried Veg | downgrade → HQ Hot Pepper at NPC |
+| **Garlic** | Stir-Fried Bracken (CP delicacies) | add once Magical Garlic Seeds made — see [cooking-bracken-cp](cooking-bracken-cp.md) |
+
 ## Fences
 
 | Fence | Slots | CP | Requirement |
