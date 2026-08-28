@@ -48,8 +48,20 @@ shared processing-mastery stat — Grind / Shake / Dry / Heat (Wheat Flour, Whea
 what makes those four **output-heavier than their inputs**, so they're **output-sized** in the batch book
 (6,425 crafts → ~16k product = a full bag). Measured on SHAKE; assumed same for Grind/Dry/Heat (same stat).
 
+## Red Sauce (9004, COOK) — 2026-08-27 — buy, don't craft
+| | |
+|---|--:|
+| Crafts (20,000 meat − 664 left) | 19,336 |
+| Red Sauce out | 56,566 |
+| **Yield ×/craft** | **2.93×** |
+| Higher-grade proc | none (no blue) |
+
+**Cooking yield is NOT uniform:** dishes ~3.68×, but Red Sauce (a base sauce, no blue proc) only **2.93×**.
+So don't assume 3.68× for every COOK recipe. **Buy-vs-craft:** craft cost is meat-driven = 25,300 ÷ 2.93 ≈
+**8,600/sauce** (breakeven yield would be ~3.3×; 2.93 is below it), vs market **~7,600 buy order** / 8,800
+instant. → **Buy Red Sauce, don't cook it** — removed from the cook queue; frees ~20k meat/batch.
+
 ## Pending (optional confirmation)
-- Red Sauce (9004) — small meat contributor
 - Cheese Gratin (9203) — no meat, but yield affects compounding
 - Balenos Meal (9601) — no meat, but yield affects compounding
 - A Grind/Dry/Heat spot-check (confirm 2.49× holds across processing methods)

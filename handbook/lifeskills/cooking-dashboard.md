@@ -9,6 +9,11 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Mineral Water | 65,000 |
 | Sugar | 45,000 |
 
+## 💰 Buy on market (buy order — don't cook these)
+| Item | Buy order | Why |
+|---|--:|---|
+| Red Sauce | ~7,600–8,200 | cheaper than the ~8,600 meat cost to craft it |
+
 ---
 
 ## ⚙️ Processing queue (fire & forget, ~30–45 min)
@@ -37,15 +42,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Salt | 6,400 |
 | Pepper | 6,400 |
 
-### 2. Red Sauce _(feeds Cheese Gratin)_
-| Ingredient | Qty |
-|---|--:|
-| Base Sauce | 20,000 |
-| Meat | 20,000 |
-| Mineral Water | 40,000 |
-| Sugar | 40,000 |
-
-### 3. Cheese Gratin
+### 2. Cheese Gratin
 | Ingredient | Qty |
 |---|--:|
 | Wheat Dough | 7,545 |
@@ -54,7 +51,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Cheese | 4,527 |
 | Red Sauce | 4,527 |
 
-### 4. Meat Croquette
+### 3. Meat Croquette
 | Ingredient | Qty |
 |---|--:|
 | Meat | 15,608 |
@@ -63,7 +60,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Egg | 3,902 |
 | Deep Frying Oil | 7,804 |
 
-### 5. Stir-Fried Vegetables _(downgrade Special Hot Pepper → HQ first)_
+### 4. Stir-Fried Vegetables _(downgrade Special Hot Pepper → HQ first)_
 | Ingredient | Qty |
 |---|--:|
 | Pumpkin | 10,955 |
@@ -71,7 +68,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | HQ Hot Pepper | 4,382 |
 | Salt | 2,191 |
 
-### 6. Balenos Meal
+### 5. Balenos Meal
 | Ingredient | Qty |
 |---|--:|
 | Cheese Gratin | 2,285 |
@@ -80,7 +77,7 @@ Work top to bottom in each queue. Do the batch, it drops off next refresh. Every
 | Stir-Fried Vegetables | 4,570 |
 | Beer | 4,570 |
 
-### 7. Carrot Confit _(full batch — Special Carrot 508 on hand + planted; farm to 3,264)_
+### 6. Carrot Confit _(full batch — Special Carrot 508 on hand + planted; farm to 3,264)_
 | Ingredient | Qty |
 |---|--:|
 | Special Carrot | 3,264 |

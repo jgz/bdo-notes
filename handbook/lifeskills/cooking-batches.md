@@ -47,9 +47,9 @@
 ## 🔪 Cook — sub-components & Red Sauce (input-sized)
 
 ### Red Sauce
-`20,000` crafts/batch · Cook · input-sized · yields ≈ **73,600** (3.68× measured)
+`20,000` crafts/batch · Cook · input-sized · yields ≈ **58,600** (2.93× measured — lower than dishes)
 
-> ⚠️ 20k crafts → 20k Meat (market). Big silver.
+> 💰 **Buy, don't craft.** Market ~7,600/sauce beats the ~8,600 meat cost to cook it (yield 2.93×, no blue proc). Kept here for reference only.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
