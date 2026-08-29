@@ -32,6 +32,11 @@ A related buff shipped with it: **PEN (V) Tuvala gear now matches PEN (V) boss-g
   quests were **removed**; on the **2026-07-30** patch, existing **Boss Gear Exchange Coupons were deleted
   and refunded 1,000G each.** Endgame gear now comes from the **Hyperboost** route (Sovereign / Slumbering
   Origin / Kharazad) below — PEN Tuvala just *is* PEN-boss-tier, no swap needed.
+- **Tuvala Ore / Tuvala heating REMOVED.** You can no longer melt extra Tuvala into Ore — confirmed
+  in-game (Jon) + the live July-30 patch notes, where the only heat→Cron recipes are **Hyperboost items**
+  (Ancient Hammers/Black Stones, Slumbering Origin pieces), **not Tuvala**. The season pass hands a full
+  PEN Tuvala set incl. accessories (Accessory Support Boxes), so surplus quest-reward Tuvala has **no sink**
+  → just NPC-vendor / discard it. (Don't advise melting for Ore — that's the old model.)
 - **Season streamlined** (Jan 8 2026 maintenance; a one-time pass converted then-existing season chars to
   normal). Seasons still run — Drakeezy (2026-08-29) is a current one.
   [NA/EU patch 2026-07-30](https://www.naeu.playblackdesert.com/en-US/News/Detail?groupContentNo=10401)
