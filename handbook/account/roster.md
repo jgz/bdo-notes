@@ -42,7 +42,7 @@ naming convention (name → class, `-jeezy`/`-eezy` = variation of JGZ). Level a
 | Lahneezy | Lahn | 61 | Velia | — | |
 | Doseezy | **Dosa** | 61 | Port Epheria | — | |
 | Scholeezy | Scholar | 59 | Polly's Forest | — | Former season char — **auto-graduated** during the 2-yr break (season end / 180-day inactivity); now a normal char, Tuvala converted |
-| **Drakeezy** | **Drakania** | 1 | — | **Season leveling** | New season character (rolled 2026-08-29); Mountain of Eternal Winter → grind to 61 → graduate → **Olvia Academy / Hyperboost** gear path (Tuvala → Sovereign / Slumbering Origin / Kharazad). NOT the old TET-boss-exchange — that's removed. See [hyperboost](../../research/hyperboost.md). |
+| **Drakeezy** | **Drakania** | 1 | — | **Season leveling** | New season character (rolled 2026-08-29); Mountain of Eternal Winter → grind to 61. **Just runs the season for its Tuvala gear** — the Olvia Academy / Hyperboost family rewards (Sovereign / Slumbering Origin / Kharazad) are **once-per-family and already claimed on Maegu**, so this char won't re-earn them. See [hyperboost](../../research/hyperboost.md). |
 
 > **Roster completeness:** the character list scrolls; the above is everything visible through
 > Scholeezy. **Confirm whether any characters exist below Scholeezy** in the list.
