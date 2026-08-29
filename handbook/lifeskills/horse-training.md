@@ -60,10 +60,13 @@ banks them for the Krogdalo grind.
 
 ## Jon's Krogdalo path
 
-Has **Doomeezy (T10) free** + a **T9 Arduanatt**. Still to produce via the ladder: a **2nd T9
-Arduanatt** + **two T9 Dinés** → T10 Arduanatt + T10 Diné → all three → Krogdalo's Sanctuary. Long-haul
-overnight project. _(Open: whether the free/coupon T9 Arduanatt is eligible as awakening material —
-verify in-game.)_
+Has **Doomeezy (T10) free** + **two T9 Arduanatts** (the original + **Peggers**, Lv 24, found
+2026-08-29 — see [account/horses.md](../account/horses.md)). So the **Arduanatt pair may already be
+complete** — pending three checks: both at **Lv 30**, **opposite genders** (M + F), and neither being a
+restricted event/coupon variant. Still to produce via the ladder: **two T9 Dinés** → T10 Diné → then
+T10 Arduanatt + T10 Diné + Doomeezy → Krogdalo's Sanctuary. Long-haul overnight project.
+_(Open: confirm Peggers is genuinely a 2nd Arduanatt, not the one already counted; and event/coupon
+eligibility as awakening material — verify in-game.)_
 
 _Sources: GrumpyG, BDFoundry, official wiki (2026). Ballpark figures (imperial silver, ~15–35 attempts)
 vary by patch/RNG._
