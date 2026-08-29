@@ -24,6 +24,18 @@ A related buff shipped with it: **PEN (V) Tuvala gear now matches PEN (V) boss-g
 ~TET-equivalent before). [butwhytho](https://butwhytho.net/2026/08/black-desert-online-hyperboost-cost-how-to/),
 [mmom](https://www.mmom.com/black-desert-news/detail_black-desert-hyperboost-season-graduation-guide.html)
 
+### ⚠️ The old season-gear model is DEAD (2026 rework) — don't advise it
+- **Naru gear removed.** **Tuvala** is now the basic starter gear — freely equip/enhance on **both season
+  and normal characters**, no restrictions. Enhance: Black Stones +0→+15, Concentrated Magical Black
+  Stones PRI→PEN.
+- **"Graduate → exchange Tuvala for TET boss gear" NO LONGER EXISTS.** All Tuvala→boss-gear exchange
+  quests were **removed**; on the **2026-07-30** patch, existing **Boss Gear Exchange Coupons were deleted
+  and refunded 1,000G each.** Endgame gear now comes from the **Hyperboost** route (Sovereign / Slumbering
+  Origin / Kharazad) below — PEN Tuvala just *is* PEN-boss-tier, no swap needed.
+- **Season streamlined** (Jan 8 2026 maintenance; a one-time pass converted then-existing season chars to
+  normal). Seasons still run — Drakeezy (2026-08-29) is a current one.
+  [NA/EU patch 2026-07-30](https://www.naeu.playblackdesert.com/en-US/News/Detail?groupContentNo=10401)
+
 ## How it's structured
 
 The canonical path is a **seasonal character**: **Season → graduation → Olvia Academy combat course
