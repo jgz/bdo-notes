@@ -27,6 +27,7 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 | **Guardeezy** | Guardian | **Bulgasal** (LotML) | LotML | Moving 2026-08-26 |
 | **Mysteezy** | Mystic | **Uturi** (LotML) | LotML | Parked since 2026-08-22 |
 | **WooJeezy** | Woosa | **Garmoth** | Classic | Staying — **Garmoth's Heart** |
+| **Doseezy** | Dosa | **Nouver** (desert) | Classic | Moved 2026-08-29 — **Nouver only**; stays parked (Jon won't shuttle it to Kutum — desert travel is a pain) |
 
 ## 2026 world-boss changes (affect the strategy)
 
@@ -90,13 +91,13 @@ Armor bosses (Bheg/Giath/Dim Tree/Urugon/Red Nose/Griffon) stay obsolete — ski
 
 ## Available characters → classic-boss gaps
 
-Unassigned (from [roster](roster.md)): **Shai, Kunoichi, Lahn, Dosa, Scholar** (5). _(Note: Shai is parked
+Unassigned (from [roster](roster.md)): **Shai, Kunoichi, Lahn, Scholar** (4) — _Dosa now at Nouver_. _(Note: Shai is parked
 at Karanda Ridge — may already be the Karanda alt; confirm.)_ Suggested fills, by classic value:
 
 | Boss | Why | Candidate |
 |---|---|---|
 | **Vell** | Vell's Heart (crystal) — high value | 1 alt |
-| **Nouver** | co-spawns most often; offhand + melts | 1 alt |
+| **Nouver** | co-spawns most often; offhand + melts | ✅ **Doseezy** (2026-08-29) |
 | **Kzarka** | co-spawns; main weapon / melt | 1 alt |
 | **Kutum** | offhand + Kutum drops | 1 alt |
 | **Karanda** | co-spawns; Karanda Heart | Shai (already at Karanda Ridge?) |
