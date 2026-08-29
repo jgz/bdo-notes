@@ -27,7 +27,7 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 | **Guardeezy** | Guardian | **Bulgasal** (LotML) | LotML | Moving 2026-08-26 |
 | **Mysteezy** | Mystic | **Uturi** (LotML) | LotML | Parked since 2026-08-22 |
 | **WooJeezy** | Woosa | **Garmoth** | Classic | Staying — **Garmoth's Heart** |
-| **Doseezy** | Dosa | **Nouver** (desert) | Classic | Moved 2026-08-29 — **Nouver only**; stays parked (Jon won't shuttle it to Kutum — desert travel is a pain) |
+| **Doseezy** | Dosa | **Nouver** (desert) | Classic | Moved 2026-08-29 |
 
 ## 2026 world-boss changes (affect the strategy)
 
