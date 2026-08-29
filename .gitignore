@@ -22,3 +22,9 @@ env/
 # Scratch
 *.tmp
 scratch/
+
+# patch-notes tool: ignore all container runtime junk (node_modules, npm/HOME/browser caches);
+# keep only the two source files.
+tools/patch-notes/*
+!tools/patch-notes/fetch.mjs
+!tools/patch-notes/run.sh
