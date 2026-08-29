@@ -36,6 +36,22 @@ since they'd otherwise sit unused.
 leveling a Dream/Mythical (keeps costume set + full per-level skill rolls). Mount EXP scales with
 distance/speed. Training Guru 20 ≈ ~100% skill-learn per level.
 
+### Wagon vs solo — the rule
+- **Wagon = throughput.** 4 horses at once; aggregate EXP ~5% *better* than solo, but split 4 ways so
+  each horse levels ~4× slower **and learns fewer skills**. Right tool for the fodder factory.
+- **Solo = one horse, fast, full skill rolls.** Use for **any T8 you want to courser** and for
+  **all T9/T10** (wagon also nullifies the Dream/Mythical costume set).
+- **Never wagon a courser candidate.** Skills are per-horse RNG on level-up; fewer level-ups = fewer of
+  the 7 courser skills. _(Source: [GrumpyG leveling](https://grumpygreen.cricket/horse-leveling-routes-methods/).)_
+
+### Keep-or-deliver triage (at the "out of breed charges" gate)
+Don't auto-deliver everything. For each spent T8, check its **skills + gender**:
+- **Strong skills (esp. the `S:` ones) →** pull it out, **solo to Lv 30**, finish the 7 courser skills,
+  awaken → courser → T9. Steer the stat you train toward the type you need — **Elegance → Diné**
+  (Jon's current bottleneck), Skill → Arduanatt, Strength → Doom.
+- **Weak / duplicate / wrong type →** Imperial-deliver (banks Golden Seals + Flowers of Oblivion) or
+  Exchange for a tier-up shot.
+
 **AFK route:** base out of **Stonetail Horse Ranch** (by Heidel). Loop a **straight, low-turn road** —
 classics: **Heidel↔Velia** or **Heidel→above Lynch Farm Ruins**; a **city loop** is safest overnight
 (open roads aren't a safe zone). Turns slow the horse → less EXP, so straighter = better. Drag the
