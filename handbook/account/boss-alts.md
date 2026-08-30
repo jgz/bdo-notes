@@ -32,11 +32,18 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 
 ## 2026 world-boss changes (affect the strategy)
 
-- **The 4 LotML bosses = Sangoon, Golden Pig King, Bulgalsal, Uturi.** Loot **drops directly** now (no
-  longer tied to weekly quests), and **you only need to kill ONE of each type per week for all that
-  type's rewards** → so **one alt per LotML type is enough; duplicates don't add LotML loot.** ✅ Jon has
-  exactly that. Drops: Advice of Valks +30/+40, Morning Light Boss Tokens, **Flame of the Primordial**,
-  **Embers/Primordial Crystal (Sovereign mats)**, Reforge Stones, Caphras, gold/black stones.
+- **The 4 LotML bosses = Sangoon, Golden Pig King, Bulgalsal, Uturi.** Direct kill drops: Advice of
+  Valks +30/+40, **Morning Light Boss Tokens (~2 per kill)**, **Flame of the Primordial**, Reforge
+  Stones, Caphras, gold/black stones.
+- **The Sovereign mats come from a weekly TOKEN SHOP, not drops** (confirmed by Jon 2026-08-30):
+  - **Per-FAMILY, weekly, hard cap 12 tokens/week.** Not per-character — so **extra alts on the same
+    boss type do NOT multiply mats.** You just need enough kills across the week to bank 12 tokens
+    (~2/kill ⟹ **~6 LotML kills/week caps it**). Covering multiple types just gives more spawn windows
+    to hit those 6 kills.
+  - Shop: **Embers of the Primordial** — 1 token each, **×4/wk**; **Primordial Crystals** — 1 token each,
+    **×8/wk** (4 + 8 = the 12-token cap).
+  - **Extra tokens** → the regular exchange (**100 gold bars**). Jon is **banking surplus tokens** instead,
+    to cover weeks he can't catch enough bosses.
 - **Bosses now spawn max 2 per slot** (was 3–4).
 
 ## ⭐ The co-spawn strategy (why Jon also wants CLASSIC alts)
@@ -118,9 +125,8 @@ make it boss-ready without grinding.
 
 ## ⚠ Verify before committing
 
-- **LoML world-boss reward structure:** confirm it's **per-character** (each parked alt earns the
-  weekly Sovereign-mat rewards) vs a **per-Family weekly cap** (in which case extra alts don't help
-  there and one character suffices). This decides whether relocating *multiple* alts actually
-  multiplies the mats.
+- ~~**LoML world-boss reward structure** (per-character vs family cap)~~ — **RESOLVED 2026-08-30:**
+  it's a **per-Family weekly token shop, capped at 12 tokens/week** (see the 2026 changes above). Extra
+  alts on a boss type don't multiply mats; ~6 LotML kills/week caps the shop.
 - **AP / contribution to get loot:** LoML bosses may need a minimum contribution/AP for a reward —
   make sure the relocated alts can hit it (they're low-gear alts).

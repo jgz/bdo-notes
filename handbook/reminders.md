@@ -9,8 +9,9 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
       Awakening beats sub: it gives **+2 crystal sockets** (global stats even in Succession) + AP +3 +
       3% crit, vs the sub's HP/stamina. Sub is the placement for a *3rd* heart later.
 - [ ] **Boss-alt gaps** — remaining classic co-spawn slots to fill: **Kzarka** and **Vell** (Heart).
-      _(Kutum→Lahneezy, Nouver→Doseezy, Garmoth→WooJeezy already covered.)_ ⚠ First verify LoML
-      rewards are per-character, not a family weekly cap → [boss-alts](account/boss-alts.md). _(added 2026-08-22, updated 2026-08-30)_
+      _(Kutum→Lahneezy, Nouver→Doseezy, Garmoth→WooJeezy already covered.)_ Note: LoML mats are a
+      **family-wide 12-token/wk shop** (~6 kills caps it), so this is about classic-boss jackpots (hearts),
+      not stacking LoML alts → [boss-alts](account/boss-alts.md). _(added 2026-08-22, updated 2026-08-30)_
 
 - [ ] **Extract the Heart of Karanda from the "Storm Devoured" PEN Blackstar awakening _before_
       converting it to Sovereign** — else it's lost in the conversion. Buy a **Mirror of Equilibrium**
