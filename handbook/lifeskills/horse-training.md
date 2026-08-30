@@ -64,13 +64,16 @@ training EXP into a **pool** on the horse; you must **manually apply it via the 
 "Level Up"**. The auto-loop still earns the XP — but there's now a follow-up step to apply the levels
 (and the XP bar shows partial progress poorly). So an overnight loop = a morning "Level Up" pass.
 
-**Mount Level Down Ticket — the skill/stat re-roll.** Drops a checked-in mount **1 level** at the Stable
-Keeper, reverting the **stat + skill learned at that level**; re-leveling gives a **fresh RNG roll**.
-Use it to **fish for a missing courser skill** (level a near-30 candidate down/up until it learns the
-last skill it needs — turns former "duds" into finishable coursers) or to re-roll a Dream/Mythical's
-stat gain. Rules: **1 level per ticket**, can't reuse until it levels up again, **Lv 2–30 only**, and
-it's a **consumable ticket** (Pearl/loyalty/events) — spend it on the one stubborn skill, not casually.
-_(Source: [official Mount Level Down Ticket](https://www.naeu.playblackdesert.com/en-us/Wiki?wikiNo=420).)_
+**Level down = the skill/stat re-roll.** Dropping a mount a level reverts the **stat + skill learned at
+that level**; re-leveling gives a **fresh RNG roll**. Use it to **fish for a missing courser skill**
+(level a near-30 candidate down/up until it learns the last skill it needs — turns former "duds" into
+finishable coursers) or to re-roll a Dream/Mythical's stat gain.
+- **Cost — verify in your own client (banner rule).** The original **Mount Level Down Ticket** (2025)
+  was a *consumable item* ([official wiki](https://www.naeu.playblackdesert.com/en-us/Wiki?wikiNo=420)).
+  Under the **2026 banked-XP renewal**, leveling down appears to be a **free button** in the Level-Up UI
+  (it just returns EXP to the horse's pool) — Jon's live client showed **no item required** (2026-08-29).
+  Couldn't confirm the current cost from any guide/patch note, so trust the in-game UI. If free, fish for
+  skills freely; if it ever asks for a ticket, spend it only on the one stubborn skill.
 
 ## Training-EXP boosts (reference)
 
