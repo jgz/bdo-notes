@@ -40,7 +40,7 @@ naming convention (name → class, `-jeezy`/`-eezy` = variation of JGZ). Level a
 | Mysteezy | Mystic | 61 | Scarlet Sand Chamber | — | |
 | Kuneezy | Kunoichi | 56 | Fences (farm) | **Farmer** | Farm-sitter alt (2026-08-30) — gearless; farming needs no life gear |
 | Lahneezy | Lahn | 61 | Kutum | **Boss alt** | Kutum alt (2026-08-30) |
-| Doseezy | **Dosa** | 61 | **Valencia desert (Nouver)** | **Boss alt** | Nouver alt (moved 2026-08-29) |
+| Doseezy | **Dosa** | 61 | **Kzarka** | **Boss alt** | Kzarka alt (moved 2026-08-30; was Nouver) |
 | Scholeezy | Scholar | 59 | Polly's Forest | — | Former season char — **auto-graduated** during the 2-yr break (season end / 180-day inactivity); now a normal char, Tuvala converted |
 | **Drakeezy** | **Drakania** | 57 | Manshaum Forest | **Season leveling** | Rolled 2026-08-29; finished Mountain of Eternal Winter campaign, grinding Manshaum → 61 (224 AP / 340 DP). Runs the season for its Tuvala gear only — Academy/Hyperboost family rewards already claimed on Maegu. See [hyperboost](../../research/hyperboost.md). |
 

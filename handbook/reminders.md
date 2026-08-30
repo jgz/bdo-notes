@@ -8,8 +8,8 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
 - [~] **Socket the 2 Inverted Hearts of Garmoth** — **main-hand + awakening** (in progress 2026-08-22).
       Awakening beats sub: it gives **+2 crystal sockets** (global stats even in Succession) + AP +3 +
       3% crit, vs the sub's HP/stamina. Sub is the placement for a *3rd* heart later.
-- [ ] **Boss-alt gaps** — remaining classic co-spawn slots to fill: **Kzarka** and **Vell** (Heart).
-      _(Kutum→Lahneezy, Nouver→Doseezy, Garmoth→WooJeezy already covered.)_ Note: LoML mats are a
+- [ ] **Boss-alt gaps** — remaining classic co-spawn slots to fill: **Vell** (Heart) and **Nouver**.
+      _(Kzarka→Doseezy, Kutum→Lahneezy, Garmoth→WooJeezy already covered.)_ Note: LoML mats are a
       **family-wide 12-token/wk shop** (~6 kills caps it), so this is about classic-boss jackpots (hearts),
       not stacking LoML alts → [boss-alts](account/boss-alts.md). _(added 2026-08-22, updated 2026-08-30)_
 
