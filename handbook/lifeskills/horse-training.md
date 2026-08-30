@@ -10,8 +10,10 @@
   wagon a Dream/Mythical horse** (wagons nullify costume-set effects). Doomeezy = personal mount only.
 - **T8 → T9 uses ONE courser**, awakened repeatedly (it survives failures). The "two same-type horses"
   rule is only the **T9 → T10 Mythical** step.
-- **A horse's skill ceiling is fixed AT BIRTH** — a low-roll foal can't learn all 7 courser skills no
-  matter how it's trained. Level candidates solo; Imperial-Deliver the duds.
+- **A horse's skill-slot COUNT is fixed at birth** — but *which* skills fill those slots is re-rollable
+  now (see Level Down Ticket below). So a horse with enough slots for the 7 courser skills can be
+  *finished* by re-rolling; only a horse with too few slots is a true dud. Level candidates solo;
+  Imperial-Deliver the genuine duds.
 
 ## The ladder
 
@@ -61,6 +63,14 @@ auto-path marker to empty minimap space to force an infinite **green** back-and-
 training EXP into a **pool** on the horse; you must **manually apply it via the Harnessed Horse List →
 "Level Up"**. The auto-loop still earns the XP — but there's now a follow-up step to apply the levels
 (and the XP bar shows partial progress poorly). So an overnight loop = a morning "Level Up" pass.
+
+**Mount Level Down Ticket — the skill/stat re-roll.** Drops a checked-in mount **1 level** at the Stable
+Keeper, reverting the **stat + skill learned at that level**; re-leveling gives a **fresh RNG roll**.
+Use it to **fish for a missing courser skill** (level a near-30 candidate down/up until it learns the
+last skill it needs — turns former "duds" into finishable coursers) or to re-roll a Dream/Mythical's
+stat gain. Rules: **1 level per ticket**, can't reuse until it levels up again, **Lv 2–30 only**, and
+it's a **consumable ticket** (Pearl/loyalty/events) — spend it on the one stubborn skill, not casually.
+_(Source: [official Mount Level Down Ticket](https://www.naeu.playblackdesert.com/en-us/Wiki?wikiNo=420).)_
 
 ## Training-EXP boosts (reference)
 
