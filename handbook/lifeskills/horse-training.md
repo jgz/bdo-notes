@@ -68,12 +68,10 @@ training EXP into a **pool** on the horse; you must **manually apply it via the 
 that level**; re-leveling gives a **fresh RNG roll**. Use it to **fish for a missing courser skill**
 (level a near-30 candidate down/up until it learns the last skill it needs — turns former "duds" into
 finishable coursers) or to re-roll a Dream/Mythical's stat gain.
-- **Cost — verify in your own client (banner rule).** The original **Mount Level Down Ticket** (2025)
-  was a *consumable item* ([official wiki](https://www.naeu.playblackdesert.com/en-us/Wiki?wikiNo=420)).
-  Under the **2026 banked-XP renewal**, leveling down appears to be a **free button** in the Level-Up UI
-  (it just returns EXP to the horse's pool) — Jon's live client showed **no item required** (2026-08-29).
-  Couldn't confirm the current cost from any guide/patch note, so trust the in-game UI. If free, fish for
-  skills freely; if it ever asks for a ticket, spend it only on the one stubborn skill.
+- **Cost: a Mount Level Down Ticket (consumable).** Confirmed in-client 2026-08-29 — it **does** require
+  a ticket; the UI just **doesn't show the requirement until the final confirmation step** (looks free up
+  to then). Ticket from Pearl/loyalty/events ([official wiki](https://www.naeu.playblackdesert.com/en-us/Wiki?wikiNo=420)).
+  So spend it deliberately — on the one stubborn missing skill, not casual re-rolls.
 
 ## Training-EXP boosts (reference)
 
