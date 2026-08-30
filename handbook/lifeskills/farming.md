@@ -28,7 +28,8 @@ at a **Carpentry Workshop** (worker-made):
 
 - **Yield = seed quality only** (magical > special > regular). **Farming has no Mastery** — no gear,
   farming level, or **gathering mastery** affects harvest yield.
-- ⟹ **The farm-sitter alt needs NO life gear.** Any character works; energy cap is **family-wide**
+- ⟹ **The farm-sitter alt needs NO life gear.** Any character works — Jon's is **Kuneezy** (Kunoichi,
+  assigned 2026-08-30). Energy cap is **family-wide**
   (Jon's = 327, identical on every char), regenerates per-character — plenty for a daily loop.
 
 ## Packing list

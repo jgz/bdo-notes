@@ -63,7 +63,8 @@ re-opening life skills, but **selectively and on his terms** (not the old over-i
   Free-first plan to raise it → **[weight-limit.md](lifeskills/weight-limit.md)**.
 - **Farming = once-a-day morning task** (un-parked 2026-08-23). The 2026 growth-time change (~20–22h
   crops, bigger harvests) + workers auto-handling pests makes it a low-touch daily loop. Plan: a
-  **gearless farm-sitter alt** parked at the fences (farming has no mastery, so no life gear needed).
+  **gearless farm-sitter alt** — **Kuneezy** (Kunoichi), assigned 2026-08-30 — parked at the fences
+  (farming has no mastery, so no life gear needed).
   Full setup → **[farming.md](lifeskills/farming.md)**.
 - **Fishing** — heavily done in the past; not a current focus.
 - **Sea / Bartering = new long-term goal (2026-08-24).** Buffed Apr 2026; genuinely lucrative but

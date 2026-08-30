@@ -28,6 +28,7 @@ toward via Hyperboost. [BDFoundry](https://www.blackdesertfoundry.com/world-boss
 | **Mysteezy** | Mystic | **Uturi** (LotML) | LotML | Parked since 2026-08-22 |
 | **WooJeezy** | Woosa | **Garmoth** | Classic | Staying — **Garmoth's Heart** |
 | **Doseezy** | Dosa | **Nouver** (desert) | Classic | Moved 2026-08-29 |
+| **Lahneezy** | Lahn | **Kutum** | Classic | Moved 2026-08-30 |
 
 ## 2026 world-boss changes (affect the strategy)
 
@@ -91,19 +92,19 @@ Armor bosses (Bheg/Giath/Dim Tree/Urugon/Red Nose/Griffon) stay obsolete — ski
 
 ## Available characters → classic-boss gaps
 
-Unassigned (from [roster](roster.md)): **Shai, Kunoichi, Lahn, Scholar** (4) — _Dosa now at Nouver_. _(Note: Shai is parked
-at Karanda Ridge — may already be the Karanda alt; confirm.)_ Suggested fills, by classic value:
+Unassigned (from [roster](roster.md)): **Shai, Scholar** (2) — _Dosa→Nouver, Lahn→Kutum, Kunoichi→farmer (2026-08-30)_.
+_(Note: Shai is parked at Karanda Ridge — may already be the Karanda alt; confirm.)_ Suggested fills, by classic value:
 
 | Boss | Why | Candidate |
 |---|---|---|
 | **Vell** | Vell's Heart (crystal) — high value | 1 alt |
 | **Nouver** | co-spawns most often; offhand + melts | ✅ **Doseezy** (2026-08-29) |
 | **Kzarka** | co-spawns; main weapon / melt | 1 alt |
-| **Kutum** | offhand + Kutum drops | 1 alt |
+| **Kutum** | offhand + Kutum drops | ✅ **Lahneezy** (2026-08-30) |
 | **Karanda** | co-spawns; Karanda Heart | Shai (already at Karanda Ridge?) |
 
-**Level-61 item:** use the auto-Lv61 (timepiece) item on a low-level available char (e.g. Kunoichi 56) to
-make it boss-ready without grinding. That still leaves **1 open slot for a Season character**.
+**Level-61 item:** use the auto-Lv61 (timepiece) item on a low-level available char (e.g. Scholeezy 59) to
+make it boss-ready without grinding.
 
 ## The plan (Jon's call, 2026-08-22)
 

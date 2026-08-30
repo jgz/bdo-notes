@@ -8,9 +8,9 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
 - [~] **Socket the 2 Inverted Hearts of Garmoth** — **main-hand + awakening** (in progress 2026-08-22).
       Awakening beats sub: it gives **+2 crystal sockets** (global stats even in Succession) + AP +3 +
       3% crit, vs the sub's HP/stamina. Sub is the placement for a *3rd* heart later.
-- [ ] **Relocate boss alts** — move the **Kzarka + Kutum** (and any armor-boss) alts to the **LoML
-      world bosses**; keep alts at **Garmoth** (Heart) and **Vell** (Heart). ⚠ First verify LoML
-      rewards are per-character, not a family weekly cap → [boss-alts](account/boss-alts.md). _(added 2026-08-22)_
+- [ ] **Boss-alt gaps** — remaining classic co-spawn slots to fill: **Kzarka** and **Vell** (Heart).
+      _(Kutum→Lahneezy, Nouver→Doseezy, Garmoth→WooJeezy already covered.)_ ⚠ First verify LoML
+      rewards are per-character, not a family weekly cap → [boss-alts](account/boss-alts.md). _(added 2026-08-22, updated 2026-08-30)_
 
 - [ ] **Extract the Heart of Karanda from the "Storm Devoured" PEN Blackstar awakening _before_
       converting it to Sovereign** — else it's lost in the conversion. Buy a **Mirror of Equilibrium**
