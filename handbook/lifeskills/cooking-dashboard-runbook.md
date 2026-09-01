@@ -47,10 +47,23 @@ If any of the four is missing, the file is wrong. Check them off before committi
   (grain→Flour/Dough, milk→Cheese). "Short" = have < one full consumer batch's need.
 - **Cooking queue order:** vendor/processing prereqs handled above, then Beer/subs that are short, then
   **Balenos Meal**, then **Carrot Confit** if the quest gate trips.
+- **Blue-proc meal substitution (ALWAYS apply — see [cooking-proc-strategy.md](cooking-proc-strategy.md)):**
+  when building the Balenos Meal card, fill slots from blue-proc stock before greens:
+  - **Veg slot & Beer slot (2-qty):** 1 blue = 2 green. Pull **Crispy Stir-Fried Veg** (9284) and **Cold
+    Draft Beer** (9283) at **2,285 each** (covers the 4,570 green need) if blue stock ≥ 2,285. Only queue a
+    green Stir-Fried Veg / Beer cook if the blue stock can't cover 2,285.
+  - **Fish slot (1-qty):** pull **Golden Smoked Fish Steak** (9445) 1:1 = 2,285 (Golden is unsellable +
+    both fish steaks overstocked → never cook Smoked Fish Steak).
+  - **Gratin & Croquette (1-qty):** stay **green** — a blue over-fills a 1-slot, so **sell** the blue
+    Chewy Cheese Gratin (9282) & Crispy Meat Croquette (9438) instead of folding them in.
+  So a "short" check for Veg/Beer/Fish uses **blue-equivalent** stock, not just the green count.
 - **Carrot Confit gate:** weekly training quest consumes **650 Confit**. If Confit stock < 650 → put it on
   the cooking queue (size to clear 650 + buffer). If ≥ 650 → leave it off.
-- **Farm list:** only **hand-farmed** crops — Special Carrot, Onion, Special Hot Pepper (Pumpkin is
-  worker-node, NOT farmed). Rank **lowest stock first**; top = farm today.
+- **Farm list:** only **hand-farmed** crops — **Special Carrot (54005), Special Onion (7337), Special
+  Hot Pepper (7339)** (Pumpkin is worker-node, NOT farmed). Jon farms the **Special** (magical-seed)
+  versions and downgrades to the recipe grade (Special Onion → Onion; Special Hot Pepper → HQ) — so
+  **rank by the SPECIAL variant's stock, NOT the downgraded/regular count** (ranking Onion by regular
+  Onion 7303 is the recurring bug). Rank **lowest Special-stock first**; top = farm today.
 
 ## Procedure
 1. Query holdings.db for: cooked subs, processed intermediates, raws, vendor mats, Confit, farm crops.
