@@ -1,6 +1,6 @@
 # Full-batch recipe book — Jon's canonical recipes
 
-> **Static reference.** Each batch fills the **1,600 usable LT** bag. Sized by **whichever weighs more, inputs or the finished product** — cooking recipes are input-heavy (size by inputs), but processing (Grind/Shake/Dry/Heat) makes more weight than it consumes at Jon's mastery, so those size by **output** so the batch finishes with a full bag of product. **All weights & yields looked up / MEASURED** — Meat 0.03 LT, Dried Fish 0.5; **cook yield 3.68×**, **process yield 2.49×** (see [measurements](cooking-mastery-measurements.md)). `Pull` = exact ingredient count. Recipes = Jon's subs ([worklist](cooking-worklist.md)); live stock in the [dashboard](cooking-dashboard.md).
+> **Static reference.** Each batch fills the **1,600 usable LT** bag. Sized by **whichever weighs more, inputs or the finished product** — cooking recipes are input-heavy (size by inputs), but processing (Grind/Shake/Dry/Heat) makes more weight than it consumes at Jon's mastery, so those size by **output** so the batch finishes with a full bag of product. **All weights & yields looked up / MEASURED** — Meat 0.03 LT, Dried Fish 0.5; **cook yield 3.68×**, **process yield 2.49×** (see [measurements](cooking-mastery-measurements.md)) — **exception: Carrot Confit is fixed 1:1 (mastery does not apply).** `Pull` = exact ingredient count. Recipes = Jon's subs ([worklist](cooking-worklist.md)); live stock in the [dashboard](cooking-dashboard.md).
 
 ## 📦 Box conversion (canonical)
 
@@ -164,9 +164,9 @@
 ## 🥕 Cook — side stream
 
 ### Carrot Confit
-`1,632` crafts/batch · Cook · input-sized · yields ≈ **6,005** (3.68× measured)
+`1,632` crafts/batch · Cook · input-sized · **FIXED 1:1 yield — mastery does NOT apply** (Jon, in-game 2026-09-01) → **1,632 Confit/batch**
 
-> Weekly quest (650). Special-Carrot-capped.
+> Weekly quest (650). Special-Carrot-capped. ⚠️ Unlike normal dishes, Confit does **not** mass-produce — 1 craft = 1 Confit regardless of mastery (corrects an earlier 3.68× assumption). Sell-vs-raw: cooking beats selling raw Special Carrots ~2–4× (net ~119k/Confit @ 0.8515), but cinnamon (4/craft, single Tarif node) is the throughput cap — buying cinnamon to supplement nets ~76k/craft only while carrots stay free-farmed; buying all inputs is marginal (~23k/craft).
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
