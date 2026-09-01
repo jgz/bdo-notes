@@ -48,6 +48,7 @@ activation CP for the missing candidates.
 
 | Tier (reach) | Node | Region | Own? | Notes |
 |---|---|---|:--:|---|
+| 2 mid | **Pila Fe (2 nodes)** | Valencia (border) | ✅ | workers pending — assign from **Altinova** or **Sand Grain Bazaar**; see [reminders](../reminders.md) |
 | 1 old-world | Ancient Stone Chamber | Balenos | ? | |
 | 1 old-world | Glish Ruins | Serendia | ? | |
 | 1 old-world | Lynch Farm Ruins | Serendia | ? | |
@@ -73,6 +74,7 @@ activation CP for the missing candidates.
 | 3 remote | Myeonggyun Hall | Morning Light | ? | |
 
 _Fill the **Own?** column (✅/❌) as you check your map; hand me the ❌ candidates and I'll pull exact activation CP + cheapest connection path._
+_⚠️ Not exhaustive — Pila Fe wasn't in the source list, so other Trace-of-Nature nodes may exist too._
 
 ## Coal nodes (worker)
 1–2 workers trickle out the ~1,500 coal passively. See the [reminders](../reminders.md) to-do to improve
