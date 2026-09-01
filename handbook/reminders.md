@@ -25,6 +25,11 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
       don't lock in a leveling schedule before it. Levels 70–75 give **family-wide +Monster AP/DR** worth
       chasing → [leveling](combat/leveling.md). _(added 2026-08-23)_
 
+- [ ] **Better worker loadout at Keplan for the coal mine** — upgrade/reassign workers on **Keplan Quarry**
+      (coal) to feed the Forest Path Wagon Steel need (~1,500 coal per 10 wheels). Prefer higher-tier
+      (Artisan/Professional) workers for throughput. Alt coal nodes: **Glutoni Cave** (Calpheon),
+      **Omar Lava Cave** (Valencia) → [forest-path-wagon](lifeskills/forest-path-wagon.md). _(added 2026-09-01)_
+
 ## Done
 
 _(nothing yet)_

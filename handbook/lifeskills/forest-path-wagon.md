@@ -46,20 +46,43 @@ unlock the excavation. Usually ~5 worker slots (Trace of Nature + vendor items).
 network-dependent** — ordered by tier; Jon marks which host nodes he already owns, then I pull exact
 activation CP for the missing candidates.
 
-**Tier 1 — old world (cheapest reach):** Ancient Stone Chamber (Balenos) · Glish Ruins (Serendia) ·
-Lynch Farm Ruins (Serendia) · Bernianto Farm (Calpheon) · Mansha Forest (Calpheon) · Rhua Tree Stub
-(Calpheon) · Ancient Ruins (Mediah)
+| Tier (reach) | Node | Region | Own? | Notes |
+|---|---|---|:--:|---|
+| 1 old-world | Ancient Stone Chamber | Balenos | ? | |
+| 1 old-world | Glish Ruins | Serendia | ? | |
+| 1 old-world | Lynch Farm Ruins | Serendia | ? | |
+| 1 old-world | Bernianto Farm | Calpheon | ? | |
+| 1 old-world | Mansha Forest | Calpheon | ? | |
+| 1 old-world | Rhua Tree Stub | Calpheon | ? | |
+| 1 old-world | Ancient Ruins | Mediah | ? | |
+| 2 mid | Pilgrim's Sanctum | Valencia | ? | |
+| 2 mid | Tooth Fairy Forest | Kamasylvia | ? | |
+| 2 mid | **Sherekhan Necropolis** | Drieghan | ? | ⭐ highest Trace-of-Nature yield; near Duvencrune |
+| 2–3 mid | Star's End | Calpheon | ? | geographically remote SE — reach may be Tier 3 |
+| 3 remote | Sherekhan Iron Mine | Everfrost | ? | |
+| 3 remote | Zvier Highlands | Everfrost | ? | |
+| 3 remote | Crypt of Resting Thoughts | Odyllita | ? | |
+| 3 remote | Mountain of Division | Odyllita | ? | |
+| 3 remote | Tungrad Ruins | Ulukita | ? | |
+| 3 remote | Great Dark Spot | Edania | ? | |
+| 3 remote | Urnas Mountains | Edania | ? | |
+| 3 remote | Beombawi Valley | Morning Light | ? | |
+| 3 remote | Dokkebi Forest | Morning Light | ? | |
+| 3 remote | Golden Pig Cave | Morning Light | ? | |
+| 3 remote | Haemo Island | Morning Light | ? | |
+| 3 remote | Myeonggyun Hall | Morning Light | ? | |
 
-**Tier 2 — mid:** Pilgrim's Sanctum (Valencia) · Tooth Fairy Forest (Kamasylvia) · **Sherekhan
-Necropolis (Drieghan) ⭐ highest yield** · Star's End (Calpheon, remote SE)
-
-**Tier 3 — remote/new:** Sherekhan Iron Mine · Zvier Highlands (Everfrost) · Crypt of Resting Thoughts ·
-Mountain of Division (Odyllita) · Tungrad Ruins (Ulukita) · Great Dark Spot · Urnas Mountains (Edania) ·
-Beombawi Valley · Dokkebi Forest · Golden Pig Cave · Haemo Island · Myeonggyun Hall (Morning Light)
+_Fill the **Own?** column (✅/❌) as you check your map; hand me the ❌ candidates and I'll pull exact activation CP + cheapest connection path._
 
 ## Coal nodes (worker)
-**Keplan Quarry** & **Glutoni Cave** (both Calpheon) · **Omar Lava Cave** (Valencia). Keplan Quarry =
-classic cheap-CP pick. 1–2 workers trickle out the ~1,500 coal passively.
+1–2 workers trickle out the ~1,500 coal passively. See the [reminders](../reminders.md) to-do to improve
+the Keplan loadout.
+
+| Node | Region | Notes |
+|---|---|---|
+| **Keplan Quarry** | Calpheon | classic cheap-CP pick (also Powder of Rifts) |
+| Glutoni Cave | Calpheon | also Powder of Rifts |
+| Omar Lava Cave | Valencia | alternate |
 
 ## Build order (10 wheels)
 1. Cook meals → hand **670 Balenos Meal** to Merindora → **67 Elements**.
