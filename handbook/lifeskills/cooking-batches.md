@@ -134,10 +134,10 @@
 ---
 ## 🍽️ Cook — the meal
 
-### Balenos Meal
+### Balenos Meal — all-green
 `2,285` crafts/batch · Cook · input-sized · yields ≈ **8,408** (3.68× measured)
 
-> The goal.
+> The goal. 7 items/craft × 0.1 LT = 0.7 LT/craft → 1,600 ÷ 0.7 = 2,285.
 
 | Ingredient | Source | /craft | **Pull** |
 |---|---|--:|--:|
@@ -146,6 +146,19 @@
 | Smoked Fish Steak | ⚙️ cook | 1 | **2,285** |
 | Stir-Fried Vegetables | ⚙️ cook | 2 | **4,570** |
 | Beer | ⚙️ cook | 2 | **4,570** |
+
+### Balenos Meal — with blue procs (default when blues in stock)
+`3,200` crafts/batch · Cook · input-sized · yields ≈ **11,776** (3.68× measured) — **~40% more meals/bag**
+
+> Blue procs replace 3 slots → **5 items/craft × 0.1 LT = 0.5 LT/craft → 1,600 ÷ 0.5 = 3,200**. Veg & Beer are 2-qty slots so 1 blue = 2 green (1 item, not 2); Golden fish 1:1. Gratin & Croquette stay green (sell their blue procs — see [proc-strategy](cooking-proc-strategy.md)). If a blue runs below the batch need, fall back to its green (2/craft) for the remainder.
+
+| Ingredient | Source | /craft | **Pull** |
+|---|---|--:|--:|
+| Cheese Gratin | ⚙️ cook (green) | 1 | **3,200** |
+| Meat Croquette | ⚙️ cook (green) | 1 | **3,200** |
+| Golden Smoked Fish Steak | 🔵 proc, 1:1 | 1 | **3,200** |
+| Crispy Stir-Fried Veg | 🔵 proc, =2 green | 1 | **3,200** |
+| Cold Draft Beer | 🔵 proc, =2 green | 1 | **3,200** |
 
 ---
 ## 🥕 Cook — side stream

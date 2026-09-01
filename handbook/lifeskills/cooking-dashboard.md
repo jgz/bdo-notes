@@ -29,16 +29,16 @@ Nothing short this pass — Wheat Flour (19k), Wheat Dough (20k), Cheese (17k), 
 | Cheese | 4,527 |
 | Red Sauce | 4,527 |
 
-### 2. Balenos Meal _(blue procs fill 3 slots — pull the blues, not greens)_
+### 2. Balenos Meal _(blue procs → **3,200 crafts**, not 2,285: 5 lighter items/craft fills the same bag with ~40% more meals)_
 | Ingredient | Qty |
 |---|--:|
-| Cheese Gratin | 2,285 |
-| Meat Croquette | 2,285 |
-| Golden Smoked Fish Steak _(blue, 1:1)_ | 2,285 |
-| Crispy Stir-Fried Veg _(blue, =2 green)_ | 2,285 |
-| Cold Draft Beer _(blue, =2 green)_ | 2,285 |
+| Cheese Gratin | 3,200 |
+| Meat Croquette | 3,200 |
+| Golden Smoked Fish Steak _(blue, 1:1)_ | 3,200 |
+| Crispy Stir-Fried Veg _(blue, =2 green)_ | 3,200 |
+| Cold Draft Beer _(blue, =2 green)_ | 3,200 |
 
-_Veg & Beer are 2-qty slots → 1 blue = 2 green, so pull 2,285 of each blue (covers the 4,570 green need). Fish uses Golden (blue) 1:1. Gratin & Croquette stay **green** — sell the blue Chewy Gratin & Crispy Croquette, don't cook Stir-Fried Veg (blue stock 6,252 covers it)._
+_Blue recipe = 5 items/craft × 0.1 LT = 0.5 LT → 1,600 ÷ 0.5 = 3,200 crafts (green's 7 items = 0.7 LT → 2,285). Veg & Beer are 2-qty slots → 1 blue = 2 green. Fish uses Golden (blue) 1:1. Gratin & Croquette stay **green** — sell the blue Chewy Gratin & Crispy Croquette. Blue stock covers 3,200 each; Croquette (3,678) barely — watch it next batch._
 
 ### 3. Carrot Confit _(have 50 / quest needs 650 — carrots stocked ✓)_
 | Ingredient | Qty |

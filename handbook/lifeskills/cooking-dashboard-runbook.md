@@ -57,6 +57,11 @@ If any of the four is missing, the file is wrong. Check them off before committi
   - **Gratin & Croquette (1-qty):** stay **green** — a blue over-fills a 1-slot, so **sell** the blue
     Chewy Cheese Gratin (9282) & Crispy Meat Croquette (9438) instead of folding them in.
   So a "short" check for Veg/Beer/Fish uses **blue-equivalent** stock, not just the green count.
+  - **RESIZE the batch when using blues — don't keep the green craft count.** Blues put fewer/lighter
+    items in the bag, so the full-bag batch grows: green = 7 items/craft × 0.1 = 0.7 LT → **2,285**; blue
+    = 5 items/craft × 0.1 = 0.5 LT → **3,200 crafts** (each ingredient 1/craft = 3,200 pull). Yields
+    ~11,776 meals vs 8,408 — ~40% more per bag. Always re-derive crafts = 1,600 ÷ (items/craft × 0.1)
+    for the actual slot mix. (Both meal variants are in [cooking-batches.md](cooking-batches.md).)
 - **Carrot Confit gate:** weekly training quest consumes **650 Confit**. If Confit stock < 650 → put it on
   the cooking queue (size to clear 650 + buffer). If ≥ 650 → leave it off.
 - **Farm list:** only **hand-farmed** crops — **Special Carrot (54005), Special Onion (7337), Special
