@@ -30,6 +30,9 @@ needs to remember. Add items as they come up; move to **Done** (or delete) when 
       (Artisan/Professional) workers for throughput. Alt coal nodes: **Glutoni Cave** (Calpheon),
       **Omar Lava Cave** (Valencia) → [forest-path-wagon](lifeskills/forest-path-wagon.md). _(added 2026-09-01)_
 
+- [ ] **Workers for the 2 Pila Fe nodes** — assign workers from **Altinova** or **Sand Grain Bazaar**
+      lodging to work the **2 nodes at Pila Fe**. _(added 2026-09-01)_
+
 ## Done
 
 _(nothing yet)_
